@@ -1,13 +1,13 @@
-import { NextRequest, NextResponse } from 'next/server';
+import { NextRequest } from 'next/server';
 import { verifyToken } from './lib/auth';
 import createMiddleware from 'next-intl/middleware';
 import { appConfig } from "./lib/appConfig";
 
 const intlMiddleware = createMiddleware({
-  // A list of all locales that are supported
+  // 支持的所有语言列表
   locales: appConfig.i18n.locales,
  
-  // Used when no locale matches
+  // 默认语言
   defaultLocale: appConfig.i18n.defaultLocale,
   localePrefix: "as-needed",
 });
@@ -15,28 +15,21 @@ const intlMiddleware = createMiddleware({
 export function middleware(request: NextRequest) {
   const path = request.nextUrl.pathname;
 
-  // Only check authentication for /admin routes
+  // 仅对 /admin 路由检查身份验证
   if (path.startsWith('/admin')) {
     const token = request.cookies.get('auth_token')?.value;
     const isLoggedIn = token && verifyToken(token);
-    console.log('isLoggedIn', isLoggedIn);
     if (!isLoggedIn) {
       console.log('Not authenticated');
-      // Redirect to login page if not authenticated
-      // return NextResponse.redirect(new URL('/login', request.url));
     }
   }
 
-  // return NextResponse.next();
   return intlMiddleware(request);
 }
 
 export const config = {
   matcher: [
     "/((?!api|_next|.*\\..*).*)",
-    // '/', 
-    // '/:locale?/:path*',
-    '/admin/:path*',  // Match all paths starting with /admin
-    
+    '/admin/:path*',
   ],
 };

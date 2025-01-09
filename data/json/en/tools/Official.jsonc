@@ -13,15 +13,24 @@
 // 2. Affiliate links are not allowed
 // 3. Do not submit tools that are unrelated to development.
 
+
 [
   // A
-  {
-    "name": "Official Sites",
-    "src": "Official.jsonc",
-    "link": "Official", 
-    "description": "Quick access to official websites"
-  }
   // B
   // C
   // D
+  // E
+  // F
+  // G
+  {
+    "name": "Roblox Official Website",
+    "description": "Roblox offers a vast collection of exciting games where you can explore thrilling game worlds with friends, and it's also where you redeem your roblox codes.",
+    "url": "https://www.roblox.com/",
+    "tags": ["official site"]
+  }
+  // V
+  // W
+  // X
+  // Y
+  // Z
 ]

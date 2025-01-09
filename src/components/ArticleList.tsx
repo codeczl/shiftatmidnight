@@ -1,5 +1,5 @@
 // components/ArticleList.tsx
-import React from 'react'; // 确保导入 React
+import React from 'react';
 import { Link } from "@/lib/i18n";
 import {
   Card,
@@ -9,9 +9,21 @@ import {
 } from "@/components/ui/card"
 import { useTranslations } from 'next-intl';
 
-// @ts-ignore
-const ArticleList = ({ articles, showMoreLink = true }) => {
+interface Article {
+  id: string;
+  title: string;
+  description: string;
+  date: string;
+}
+
+interface ArticleListProps {
+  articles: Article[];
+  showMoreLink?: boolean;
+}
+
+const ArticleList: React.FC<ArticleListProps> = ({ articles, showMoreLink = true }) => {
   const t = useTranslations('articleList');
+  
   return (
     <section>
       <div className="flex justify-between items-center mb-6">
@@ -23,7 +35,6 @@ const ArticleList = ({ articles, showMoreLink = true }) => {
         )}
       </div>
       <div className="space-y-6">
-        {/* @ts-expect-error */}
         {articles.map(({ id, title, description }) => (
           <Card key={id}>
             <CardHeader>
@@ -43,12 +54,10 @@ const ArticleList = ({ articles, showMoreLink = true }) => {
   )
 }
 
-// @ts-ignore
-const ArticlePage = ({ articles }) => {
+const ArticlePage: React.FC<ArticleListProps> = ({ articles }) => {
   return (
     <section>
       <div className="space-y-6">
-        {/* @ts-expect-error */}
         {articles.map(({ id, title, description }) => (
           <Card key={id}>
             <CardHeader>
@@ -67,6 +76,5 @@ const ArticlePage = ({ articles }) => {
     </section>
   )
 }
-
 
 export { ArticleList, ArticlePage }

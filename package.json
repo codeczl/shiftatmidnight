@@ -1,7 +1,8 @@
 {
-  "name": "devtoolset",
+  "name": "robloxcode",
   "version": "1.0.0",
   "private": true,
+  "description": "Your ultimate guide for Roblox codes, promo codes and redeem tips",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

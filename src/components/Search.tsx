@@ -2,8 +2,6 @@
 
 import React, { useState } from 'react';
 import {
-    LightningBoltIcon,
-    DotsHorizontalIcon,
     GlobeIcon
 } from "@radix-ui/react-icons"
 import { SearchIcon } from 'lucide-react';
@@ -13,6 +11,7 @@ import {
     CommandInput,
     CommandItem,
     CommandList,
+    CommandEmpty,
     // CommandSeparator,
 } from "@/components/ui/command"
 import { Button } from "@/components/ui/button"
@@ -27,20 +26,13 @@ export function Search({ className }: { className?: string }) {
     return (
         <div className="flex flex-col justify-center items-center gap-2">
             <Command className={cn("rounded-lg border shadow-md", className)}>
-                <CommandInput placeholder={t('input_placeholder')} value={search} onValueChange={setSearch} />
+                <CommandInput placeholder={t('input_placeholder')} value={search} onValueChange={setSearch} className="h-9" />
                 <CommandList>
+                    <CommandEmpty>{t('no_results')}</CommandEmpty>
                     <CommandGroup heading={t('heading')}>
-                        <CommandItem onSelect={() => window.location.href = '/tools/ai'}>
-                            <LightningBoltIcon className="mr-2 h-4 w-4" />
-                            <span>AI</span>
-                        </CommandItem>
-                        <CommandItem onSelect={() => window.location.href = '/tools/seo'}>
+                        <CommandItem onSelect={() => window.location.href = '/tools/Official'}>
                             <GlobeIcon className="mr-2 h-4 w-4" />
-                            <span>SEO</span>
-                        </CommandItem>
-                        <CommandItem disabled>
-                            <DotsHorizontalIcon className="mr-2 h-4 w-4" />
-                            <span>{t('more')}</span>
+                            <span>Official Sites</span>
                         </CommandItem>
                     </CommandGroup>
                 </CommandList>

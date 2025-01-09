@@ -13,14 +13,19 @@
 // 2. 不允许使用联盟链接
 // 3. 请勿提交与开发无关的工具。
 
+
 [
   // A
-  {
-    "name": "官方网址",
-    "src": "Official.jsonc",
-    "link": "Official",
-    "description": "用于快速查看官方网址"
-  }
   // B
   // C
+  // D
+  // E
+  // F
+  // G
+  {
+    "name": "Roblox 官方网址",
+    "description": "Roblox提供大量非常好玩的游戏，可以和朋友们一起探索刺激的游戏世界，也是roblox code兑换的地方。",
+    "url": "https://www.roblox.com/",
+    "tags": ["官方网址"]
+  }
 ]

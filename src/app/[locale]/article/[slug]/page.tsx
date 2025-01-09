@@ -11,13 +11,14 @@ import {
 } from "@/components/ui/breadcrumb"
 
 import {getTranslations} from 'next-intl/server';
+import { useLocale } from 'next-intl';
 
 type PostParams = {
-  params: { slug: string }
+  params: { slug: string, locale: string }
 }
 
 export async function generateMetadata({ params }: PostParams) {
-  const postData = await getPostData(params.slug);
+  const postData = await getPostData(params.slug, params.locale);
   return {
     title: `${postData.title}`,
     description: postData.description || `Read about ${postData.title} on DevToolset`,
@@ -27,7 +28,7 @@ export async function generateMetadata({ params }: PostParams) {
 
 
 export default async function Post({ params }: PostParams) {
-  const postData = await getPostData(params.slug);
+  const postData = await getPostData(params.slug, params.locale);
   const t = await getTranslations('article');
 
   return (

@@ -1,5 +1,6 @@
 import { ArticlePage } from '@/components/ArticleList'
 import { getSortedPostsData } from '@/lib/posts';
+import { useLocale } from 'next-intl';
 
 import {
   Breadcrumb,
@@ -20,30 +21,30 @@ export async function generateMetadata() {
   }
 }
 
-
 export default function Articles() {
-  const allPostsData = getSortedPostsData();
+  const locale = useLocale();
+  const allPostsData = getSortedPostsData(locale);
   const t = useTranslations('article');
 
   return (
     <div className="container mx-auto py-12">
       <Breadcrumb>
-          <BreadcrumbList>
-            <BreadcrumbItem>
-              <BreadcrumbLink href="/">{t('homeBtn')}</BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbPage>{t('articleBtn')}</BreadcrumbPage>
-            </BreadcrumbItem>
-          </BreadcrumbList>
-        </Breadcrumb>
-        <div className="flex flex-col justify-between items-center mb-6">
-          <h1 className="mx-auto max-w-3xl text-3xl font-bold lg:text-5xl tracking-tight">
-            <span className="pt-10">{t('h1')}</span>
-          </h1>
-          <h2 className="mx-auto max-w-[700px] opacity-60 md:text-xl my-6">{t('h2')}</h2>
-        </div>
+        <BreadcrumbList>
+          <BreadcrumbItem>
+            <BreadcrumbLink href="/">{t('homeBtn')}</BreadcrumbLink>
+          </BreadcrumbItem>
+          <BreadcrumbSeparator />
+          <BreadcrumbItem>
+            <BreadcrumbPage>{t('articleBtn')}</BreadcrumbPage>
+          </BreadcrumbItem>
+        </BreadcrumbList>
+      </Breadcrumb>
+      <div className="flex flex-col justify-between items-center mb-6">
+        <h1 className="mx-auto max-w-3xl text-3xl font-bold lg:text-5xl tracking-tight">
+          <span className="pt-10">{t('h1')}</span>
+        </h1>
+        <h2 className="mx-auto max-w-[700px] opacity-60 md:text-xl my-6">{t('h2')}</h2>
+      </div>
       <ArticlePage articles={allPostsData} />
     </div>
   )
