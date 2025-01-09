@@ -65,7 +65,8 @@
     "input_placeholder": "Search tools by name / tags...",
     "heading": "Suggestions",
     "more": "More",
-    "button": "Search"
+    "button": "Search",
+    "no_results": "No results found"
   },
   "navigation": {
     "homeBtn": "Home",
@@ -104,10 +105,18 @@
     "h2": "Latest Articles",
     "moreArticles": "More Articles"
   },
+
+    "meta": {
+      "og_title": "Roblox Code | Latest Promo Codes & Redeem Guide",
+      "og_description": "Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and guides.",
+      "twitter_title": "Roblox Code | Latest Promo Codes",
+      "twitter_description": "Discover and redeem the latest Roblox promo codes. Updated daily!"
+    },
   "latestCodesArticle": "Latest Roblox Codes 2025",
   "latestCodesDescription": "Get the latest Roblox promo codes and learn how to redeem them",
   "secretsArticle": "Are Roblox Codes Really Useful?",
   "secretsDescription": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences",
   "moreArticleBtn": "More Articles",
   "moreArticleDescription": "Browse all articles about Roblox codes"
+
 }

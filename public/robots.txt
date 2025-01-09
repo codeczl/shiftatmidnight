@@ -1,0 +1,10 @@
+# *表示所有搜索引擎爬虫
+User-agent: *
+# Allow表示允许爬取的路径
+Allow: /
+# Disallow表示禁止爬取的路径
+Disallow: /admin/
+Disallow: /api/
+
+# 网站地图地址
+Sitemap: https://robloxcode.net/sitemap.xml

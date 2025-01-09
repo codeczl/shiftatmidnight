@@ -31,7 +31,7 @@ export default async function Home() {
   const t = await getTranslations('home');
   // categories data
   const categories = getCategories(locale);
-  const allPostsData = getSortedPostsData().slice(0, 6)
+  const allPostsData = getSortedPostsData(locale).slice(0, 6)
   
   return (
     <div className="container mx-auto py-12 space-y-16 ">

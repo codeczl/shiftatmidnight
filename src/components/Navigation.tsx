@@ -113,10 +113,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
             <NavigationMenu>
               <NavigationMenuList>
                 <NavigationMenuItem>
-                  <Link href="/" legacyBehavior passHref>
-                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/' === pathname && "font-extrabold")}>
-                      {t('homeBtn')}
-                    </NavigationMenuLink>
+                  <Link href="/" className={cn(navigationMenuTriggerStyle(), 'font-medium', '/' === pathname && "font-extrabold")}>
+                    {t('homeBtn')}
                   </Link>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
@@ -187,10 +185,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
                   </NavigationMenuContent>
                 </NavigationMenuItem>
                 <NavigationMenuItem>
-                  <Link href="/changelog" legacyBehavior passHref>
-                    <NavigationMenuLink className={cn(navigationMenuTriggerStyle(), 'font-medium', '/changelog' === pathname && "font-extrabold")}>
-                      {t('changelogBtn')}
-                    </NavigationMenuLink>
+                  <Link href="/changelog" className={cn(navigationMenuTriggerStyle(), 'font-medium', '/changelog' === pathname && "font-extrabold")}>
+                    {t('changelogBtn')}
                   </Link>
                 </NavigationMenuItem>
               </NavigationMenuList>

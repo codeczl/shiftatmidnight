@@ -66,7 +66,7 @@ export function Footer() {
             <h3 className="text-sm font-semibold tracking-wider uppercase">{t('connect')}</h3>
             <ul className="mt-4 space-y-4">
               <li>
-                <Link href="mailto:support@robloxcode.net" className="text-base">
+                <Link href="mailto:czhenglong451@gmail.com" className="text-base">
                   {t('support')}
                 </Link>
               </li>

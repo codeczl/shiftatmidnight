@@ -18,10 +18,16 @@ import { Button } from "@/components/ui/button"
 
 import { cn } from "@/lib/utils";
 import { useTranslations } from 'next-intl';
+import { useRouter } from 'next/navigation'
 
 export function Search({ className }: { className?: string }) {
     const [search, setSearch] = useState('');
     const t = useTranslations('search');
+    const router = useRouter();
+
+    const handleSearch = () => {
+        router.push(`/tools/${encodeURIComponent(search)}`);
+    }
 
     return (
         <div className="flex flex-col justify-center items-center gap-2">
@@ -38,7 +44,7 @@ export function Search({ className }: { className?: string }) {
                 </CommandList>
             </Command>
             {search &&
-                <Button variant="outline" className='mt-6' onClick={() => window.location.href = `/tools/${encodeURIComponent(search)}`}>
+                <Button variant="outline" className='mt-6' onClick={handleSearch}>
                     <SearchIcon size={16} className='mr-2 opacity-80' />{t('button')}
                 </Button>}
         </div>

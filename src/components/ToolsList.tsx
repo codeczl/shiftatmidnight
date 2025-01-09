@@ -62,7 +62,10 @@ const ToolsList = ({ category, locale, showMoreLink = true }: toolsListProps) =>
       <div className="flex justify-between items-center mb-6">
         <h2 className="text-3xl font-bold tracking-tight capitalize">{category.name}</h2>
         {showMoreLink && (
-          <Link href={`/category/${category.link}`} className="capitalize text-blue-600 hover:text-blue-800 transition-colors hover:underline">
+          <Link 
+            href={`/category/${category.link}`} 
+            className="capitalize text-blue-600 hover:text-blue-800 transition-colors hover:underline"
+          >
             {t('more')} <span className='capitalize font-bold'>{category.name}</span> {t('tools')} →
           </Link>
         )}

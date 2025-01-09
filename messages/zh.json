@@ -65,7 +65,8 @@
     "input_placeholder": "按名称/标签搜索...",
     "heading": "建议",
     "more": "更多",
-    "button": "搜索"
+    "button": "搜索",
+    "no_results": "未找到结果"
   },
   "navigation": {
     "homeBtn": "首页",
@@ -104,6 +105,13 @@
     "h2": "最新文章",
     "moreArticles": "更多文章"
   },
+"meta": {
+  "og_title": "Roblox代码 | 最新促销码和兑换指南",
+  "og_description": "发现和兑换最新的 Roblox 促销码。获取免费物品、配件和游戏内奖励。每日更新代码和详细指南！",
+  "twitter_title": "Roblox代码 | 最新促销码",
+  "twitter_description": "发现并兑换最新的 Roblox 促销码。每日更新！"
+},
+
   "latestCodesArticle": "2025年最新Roblox代码",
   "latestCodesDescription": "获取最新的Roblox促销码并了解如何兑换",
   "secretsArticle": "Roblox代码真的有用吗?",

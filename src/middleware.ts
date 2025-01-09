@@ -4,18 +4,14 @@ import createMiddleware from 'next-intl/middleware';
 import { appConfig } from "./lib/appConfig";
 
 const intlMiddleware = createMiddleware({
-  // 支持的所有语言列表
   locales: appConfig.i18n.locales,
- 
-  // 默认语言
-  defaultLocale: appConfig.i18n.defaultLocale,
-  localePrefix: "as-needed",
+  defaultLocale: 'en',
+  localePrefix: "always"
 });
 
 export function middleware(request: NextRequest) {
   const path = request.nextUrl.pathname;
 
-  // 仅对 /admin 路由检查身份验证
   if (path.startsWith('/admin')) {
     const token = request.cookies.get('auth_token')?.value;
     const isLoggedIn = token && verifyToken(token);
