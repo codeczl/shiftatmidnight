@@ -1,8 +1,8 @@
 {
-  "name": "robloxcode",
+  "name": "steamcookieclicker",
   "version": "1.0.0",
   "private": true,
-  "description": "Your ultimate guide for Roblox codes, promo codes and redeem tips",
+  "description": "Steam Cookie Clicker - The Ultimate Idle Game. Start your cookie empire and become the ultimate cookie master.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

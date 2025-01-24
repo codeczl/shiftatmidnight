@@ -32,38 +32,47 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Roblox Code | Latest Promo Codes & Redeem Guide',
-    template: '%s | Roblox Code'
+    default: 'Steam Cookie Clicker | Start Your Cookie Empire',
+    template: '%s | Steam Cookie Clicker'
   },
-  description: 'Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and step-by-step redemption guides.',
-  authors: { name: 'robloxcode.net', url: 'https://robloxcode.net/' },
-  keywords: 'Roblox code, redeem Roblox codes, Roblox promo codes, Roblox game codes, free Roblox items',
+  description: 'Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master with endless production possibilities.',
+  authors: { name: 'steamcookieclicker.com', url: 'https://steamcookieclicker.com/' },
+  keywords: 'Steam Cookie Clicker, Cookie Clicker Steam, Cookie Clicker game, idle game, cookie empire, cookie production, cookie achievements',
   alternates: {
-    canonical: "https://robloxcode.net/",
+    canonical: "https://steamcookieclicker.com/",
     languages: {
-      "en": "https://robloxcode.net/en",
-      "zh": "https://robloxcode.net/zh",
+      "en": "https://steamcookieclicker.com/en",
+      "zh": "https://steamcookieclicker.com/zh",
     }
   },
-  icons: [
-    { rel: "icon", type: "image/png", sizes: "16x16", url: "/favicon-16x16.png" },
-    { rel: "icon", type: "image/png", sizes: "32x32", url: "/favicon-32x32.png" },
-    { rel: "icon", type: "image/png", sizes: "192x192", url: "/android-chrome-192x192.png" },
-    { rel: "icon", type: "image/png", sizes: "512x512", url: "/android-chrome-512x512.png" },
-    { rel: "apple-touch-icon", sizes: "180x180", url: "/apple-touch-icon.png" },
-    { rel: "mask-icon", url: "/safari-pinned-tab.svg", color: "#5bbad5" }
-  ],
-  manifest: "/site.webmanifest",
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png' }
+    ],
+    other: [
+      {
+        rel: 'mask-icon',
+        url: '/safari-pinned-tab.svg',
+        color: '#5bbad5'
+      }
+    ]
+  },
+  manifest: '/site.webmanifest',
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Roblox Code"
+    title: "Steam Cookie Clicker"
   },
   ...generateMetaTags({
-    title: 'Roblox Code | Latest Promo Codes & Redeem Guide',
-    description: 'Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and step-by-step redemption guides.',
-    url: 'https://robloxcode.net',
-    imageUrl: 'https://robloxcode.net/og-image.jpg'
+    title: 'Steam Cookie Clicker | Start Your Cookie Empire',
+    description: 'Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master with endless production possibilities.',
+    url: 'https://steamcookieclicker.com',
+    imageUrl: 'https://steamcookieclicker.com/og-image.jpg'
   }),
 }
 

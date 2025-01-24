@@ -9,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: 'category', // 分类页
+      url: 'game', // 游戏指南页
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
@@ -21,22 +21,46 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
-      url: 'article/latest-roblox-codes', // 最新代码文章
+      url: 'article/how-to-cheat-cookie-clicker', // Cookie Clicker 作弊指南
       lastModified: new Date(),
-      changeFrequency: 'daily',
+      changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'article/are-roblox-codes-useful', // 代码使用指南
+      url: 'article/steam-cookie-clicker-achievements', // Steam成就指南
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 0.7,
+      priority: 0.8,
+    },
+    {
+      url: 'game/basic-guide', // 基础游戏指南
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: 'game/advanced-strategies', // 进阶策略指南
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
     },
     {
       url: 'changelog', // 更新日志
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.6,
+    },
+    {
+      url: 'privacy', // 隐私政策
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'terms', // 服务条款
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
     }
   ];
 
@@ -44,7 +68,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const routeUrl = route.url === '' ? '' : `/${route.url}`;
     return {
       ...route,
-      url: `https://robloxcode.net${routeUrl}`,
+      url: `https://steamcookieclicker.com${routeUrl}`,
     };
   });
 

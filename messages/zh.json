@@ -1,63 +1,161 @@
 {
   "home": {
-    "meta_title": "Roblox代码 | 最新促销码和兑换指南",
-    "meta_description": "发现最新的 Roblox 代码，了解如何兑换，以及有效使用代码来提升游戏体验的技巧。",
-    "h1": "Roblox代码",
-    "h2": "最新Roblox代码--您的终极促销码指南",
-    "intro": "Roblox玩家喜欢寻找新方法来提升游戏体验，而Roblox代码是实现这一目标的完美工具。以下是您可以使用的最新促销码列表:",
+    "meta_title": "Steam Cookie Clicker | 开启你的饼干帝国",
+    "meta_description": "在 Steam 上玩 Cookie Clicker - 终极放置游戏。开始你的饼干帝国，解锁成就，通过无尽的生产可能性成为终极饼干大师。",
+    "h1": "Steam Cookie Clicker",
+    "h2": "开启你的饼干帝国之旅",
+    "intro": "Cookie Clicker 是一款令人上瘾的放置游戏，通过点击制作饼干，建立你的饼干帝国。以下是游戏的主要特点:",
+    "cookie_clicker": {
+      "title": "Cookie Clicker",
+      "subtitle": "令人上瘾的放置游戏",
+      "description": "深入 Cookie Clicker 的世界，成为终极饼干大师。",
+      "start_button": "免费开始"
+    },
+    "features": {
+      "title": "沉浸在 Cookie Clicker 中 - 终极放置游戏",
+      "item1": {
+        "title": "无尽的生产帝国",
+        "description": "通过点击开始你的 Cookie Clicker 之旅, 制作饼干, 然后看着你的帝国呈指数级增长。",
+        "button": "立即体验 Cookie Clicker"
+      },
+      "item2": {
+        "title": "高级生产系统",
+        "description": "掌握 Cookie Clicker 升级系统, 使用强大的建筑如奶奶、农场和工厂。",
+        "button": "立即体验 Cookie Clicker"
+      },
+      "item3": {
+        "title": "战略资源管理",
+        "description": "通过实时分析优化你的 Cookie Clicker 策略。",
+        "button": "立即体验 Cookie Clicker"
+      }
+    },
+    "abilities": {
+      "title": "深入 Cookie Clicker 的世界",
+      "item1": {
+        "title": "奶奶的厨房",
+        "description": "招募一支奶奶大军为你烤制饼干。"
+      },
+      "item2": {
+        "title": "魔法农场",
+        "description": "在广阔的田野中种植和收获魔法种子。"
+      },
+      "item3": {
+        "title": "远古矿井",
+        "description": "深入地下发现珍贵资源。"
+      },
+      "item4": {
+        "title": "生产工厂",
+        "description": "大规模生产商品的工业设施。"
+      },
+      "item5": {
+        "title": "投资银行",
+        "description": "通过交易产生资源的金融设施。"
+      },
+      "item6": {
+        "title": "远古神庙",
+        "description": "受到众神祝福的神圣建筑, 创造神圣的饼干。"
+      }
+    },
+    "cta": {
+      "title": "准备好体验 Cookie Clicker 的精彩冒险了吗?",
+      "description": "投身于一个每次点击都很重要的放置游戏。在这个激动人心的冒险中建设、升级和扩展你的生产帝国!",
+      "button": "立即开始"
+    },
+    "faq": {
+      "title": "Cookie Clicker 常见问题",
+      "item1": {
+        "question": "如何开始玩 Cookie Clicker?",
+        "answer": "只需点击立即开始按钮即可开始你的冒险。"
+      },
+      "item2": {
+        "question": "Cookie Clicker 是免费的吗?",
+        "answer": "是的! Cookie Clicker 完全免费。"
+      },
+      "item3": {
+        "question": "Cookie Clicker 如何保存进度?",
+        "answer": "Cookie Clicker 会自动保存你的游戏进度。"
+      },
+      "item4": {
+        "question": "什么是 Cookie Clicker 中的飞升？",
+        "answer": "在 Cookie Clicker 中，飞升会重置进度以获得声望等级和天堂碎片，用于永久性升级。建议在达到365声望等级时进行第一次飞升，这样可以获得显著提升。"
+      },
+      "item5": {
+        "question": "如何解锁 Cookie Clicker 中的小游戏？",
+        "answer": "使用糖块升级建筑物即可解锁小游戏。升级后，建筑物菜单中会出现一个按钮，点击即可访问小游戏。"
+      }
+    },
+    "reviews": {
+      "title": "Cookie Clicker 深受全球玩家喜爱",
+      "subtitle": "加入数百万玩家, 体验最令人上瘾的放置游戏。",
+      "item1": {
+        "title": "超棒的游戏!",
+        "content": "Cookie Clicker 占据了我的生活! 这款游戏太上瘾了。",
+        "author": "- 饼干大师2023"
+      },
+      "item2": {
+        "title": "最好的放置游戏!",
+        "content": "策略和乐趣的完美平衡。我的饼干帝国不断成长!",
+        "author": "- 放置游戏玩家"
+      },
+      "item3": {
+        "title": "太上瘾了!",
+        "content": "昨天才开始玩, 就放不下了。升级系统太令人满意了!",
+        "author": "- 饼干爱好者"
+      }
+    },
     "latest_codes": {
-      "title": "最新Roblox代码",
-      "code1": "SPIDERCOLA: 兑换蜘蛛可乐肩部饰品。",
-      "code2": "TWEETROBLOX: 兑换免费鸟类肩部宠物。",
-      "update_note": "收藏本页面以随时了解最新的Roblox代码!"
+      "title": "Cookie Clicker 最新更新",
+      "code1": "新建筑: 分形引擎 - 通过维度操控生产饼干。",
+      "code2": "新成就: 饼干奇点 - 达到每秒 1 千万亿饼干。",
+      "update_note": "收藏本页面以获取最新 Cookie Clicker 功能更新!"
     },
     "how_to_redeem": {
-      "title": "如何兑换Roblox代码",
-      "intro": "兑换Roblox代码很简单。请按照以下步骤操作:",
-      "step1": "登录您的Roblox账户。",
-      "step2": "进入兑换代码页面。",
-      "step3": "在输入框中输入Roblox代码，然后点击\"兑换\"。",
-      "step4": "在游戏中享受您的奖励!",
-      "note": "如果代码不起作用，请检查是否有拼写错误或是否已过期。"
+      "title": "如何使用 Cookie Clicker 功能",
+      "intro": "最大化你的饼干生产很简单, 按照以下步骤操作:",
+      "step1": "从点击大饼干开始。",
+      "step2": "购买建筑和升级。",
+      "step3": "解锁成就和天堂碎片。",
+      "step4": "优化你的生产策略!",
+      "note": "记得经常查看金饼干以获得额外效果。"
     },
     "tips": {
-      "title": "有效使用Roblox代码的技巧",
-      "intro": "要充分利用您的Roblox代码:",
-      "tip1": "定期检查新代码，因为它们可能很快过期。",
-      "tip2": "关注Roblox的官方社交媒体账号以获取独家代码。",
-      "tip3": "在特殊活动期间使用代码以解锁限时物品。",
-      "conclusion": "掌握这些技巧，您将随时准备好获取最大奖励!"
-    }
+      "title": "Cookie Clicker 成功技巧",
+      "intro": "要最大化你的饼干生产:",
+      "tip1": "时刻关注金饼干的出现。",
+      "tip2": "优先投资最高效的建筑。",
+      "tip3": "在狂热效果期间使用股市。",
+      "conclusion": "有了这些技巧, 你很快就能成为饼干大师!"
+    } 
   },
   "category": {
-    "meta_title": "Roblox代码分类",
-    "meta_description": "查找所有必要的Roblox代码分类和指南，提升您的游戏体验",
+    "meta_title": "Steam Cookie Clicker 游戏指南",
+    "meta_description": "查找所有必要的 Steam Cookie Clicker 游戏指南, 提升您的游戏体验",
     "homeBtn": "首页",
-    "categoryBtn": "分类",
-    "h1": "Roblox代码分类",
-    "h2": "在这里找到您需要的所有Roblox代码",
-    "h2description": "所有Roblox代码按类别排序"
+    "categoryBtn": "游戏",
+    "h1": "Steam Cookie Clicker 游戏指南",
+    "h2": "在这里找到您需要的所有 Cookie Clicker 指南",
+    "h2description": "所有 Cookie Clicker 指南按类别排序"
   },
   "article": {
-    "meta_title": "文章 - Roblox代码",
-    "meta_description": "探索我们收集的关于Roblox代码和促销码的文章",
+    "meta_title": "文章 - Steam Cookie Clicker",
+    "meta_description": "探索我们收集的关于 Steam Cookie Clicker 游戏指南和技巧的文章",
     "h1": "文章",
-    "h2": "发现有用的Roblox代码指南和资源",
+    "h2": "发现有用的 Cookie Clicker 指南和资源",
     "homeBtn": "首页",
     "articleBtn": "文章",
     "backToArticles": "返回文章列表"
   },
   "changelog": {
-    "meta_title": "更新日志 - Roblox代码",
-    "meta_description": "及时了解RobloxCode.net的最新更新",
+    "meta_title": "更新日志 - Steam Cookie Clicker",
+    "meta_description": "及时了解 steamcookieclicker.com 的最新更新",
     "h1": "更新日志",
-    "h2": "及时了解RobloxCode.net的最新更新",
+    "h2": "及时了解 Steam Cookie Clicker 的最新更新",
     "homeBtn": "首页",
     "changelogBtn": "更新日志"
   },
   "tools": {
-    "meta_description": "查找所有必要的Roblox代码和指南，提升您的游戏体验",
-    "h2_1": "所有与以下内容相关的Roblox代码",
+    "meta_description": "查找所有必要的 Cookie Clicker 指南和技巧, 提升您的游戏体验",
+    "h2_1": "所有与 Cookie Clicker 相关的指南",
     "h2_2": "",
     "homeBtn": "首页"
   },
@@ -70,24 +168,24 @@
   },
   "navigation": {
     "homeBtn": "首页",
-    "categoryBtn": "分类",
+    "categoryBtn": "游戏",
     "moreCategoryBtn": "更多",
-    "moreCategoryDescription": "更多分类",
+    "moreCategoryDescription": "更多游戏指南",
     "articleBtn": "文章",
-    "articleDescription": "您的Roblox代码和促销码终极指南",
-    "latestCodesArticle": "2025年最新Roblox代码",
-    "latestCodesDescription": "获取最新的Roblox促销码并了解如何兑换",
-    "secretsArticle": "Roblox代码真的有用吗?",
-    "secretsDescription": "探索Roblox代码的真正价值，揭示这些促销码如何影响玩家体验",
+    "articleDescription": "您的 Steam Cookie Clicker 终极指南 - 技巧、攻略和成就",
+    "cheatGuideArticle": "Cookie Clicker 作弊指南",
+    "cheatGuideDescription": "学习如何使用开发者控制台和作弊代码",
+    "achievementsArticle": "Steam Cookie Clicker 成就指南",
+    "achievementsDescription": "解锁所有 Steam Cookie Clicker 成就的完整指南",
     "moreArticleBtn": "更多文章",
-    "moreArticleDescription": "浏览所有关于Roblox代码的文章",
+    "moreArticleDescription": "浏览所有关于 Cookie Clicker 的文章",
     "changelogBtn": "更新日志"
   },
   "footer": {
-    "description": "您的Roblox代码和促销码终极指南",
+    "description": "您的 Steam Cookie Clicker 终极指南 - 技巧、攻略、成就等",
     "quickLinks": "快速链接",
     "home": "首页",
-    "category": "分类",
+    "game": "玩游戏",
     "article": "文章",
     "changelog": "更新日志",
     "privacy": "隐私政策",
@@ -102,20 +200,14 @@
     "tools": ""
   },
   "articleList": {
-    "h2": "最新文章",
-    "moreArticles": "更多文章"
+    "h2": "Cookie Clicker 博客",
+    "moreArticles": "更多文章",
+    "viewAllBlogs": "查看所有博客 →"
   },
-"meta": {
-  "og_title": "Roblox代码 | 最新促销码和兑换指南",
-  "og_description": "发现和兑换最新的 Roblox 促销码。获取免费物品、配件和游戏内奖励。每日更新代码和详细指南！",
-  "twitter_title": "Roblox代码 | 最新促销码",
-  "twitter_description": "发现并兑换最新的 Roblox 促销码。每日更新！"
-},
-
-  "latestCodesArticle": "2025年最新Roblox代码",
-  "latestCodesDescription": "获取最新的Roblox促销码并了解如何兑换",
-  "secretsArticle": "Roblox代码真的有用吗?",
-  "secretsDescription": "探索Roblox代码的真正价值，揭示这些促销码如何影响玩家体验",
-  "moreArticleBtn": "更多文章",
-  "moreArticleDescription": "浏览所有关于Roblox代码的文章"
+  "meta": {
+    "og_title": "Steam Cookie Clicker | 开启你的饼干帝国",
+    "og_description": "在 Steam 上玩 Cookie Clicker - 终极放置游戏。开始你的饼干帝国, 解锁成就, 成为终极饼干大师。每日更新指南!",
+    "twitter_title": "Steam Cookie Clicker | 开启饼干帝国",
+    "twitter_description": "发现 Steam Cookie Clicker 的终极游戏体验。每日更新!"
+  }
 }

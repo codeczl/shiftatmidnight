@@ -1,6 +1,5 @@
 // components/ArticleList.tsx
 import React from 'react';
-import { Link } from "@/lib/i18n";
 import {
   Card,
   CardHeader,
@@ -8,12 +7,15 @@ import {
   CardDescription,
 } from "@/components/ui/card"
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
+import Link from 'next/link';
 
 interface Article {
   id: string;
   title: string;
   description: string;
   date: string;
+  coverImage: any;  // 修改为接收 StaticImageData
 }
 
 interface ArticleListProps {
@@ -21,31 +23,46 @@ interface ArticleListProps {
   showMoreLink?: boolean;
 }
 
-const ArticleList: React.FC<ArticleListProps> = ({ articles, showMoreLink = true }) => {
+function ArticleList({ articles }: ArticleListProps) {
   const t = useTranslations('articleList');
   
   return (
-    <section>
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-3xl font-bold tracking-tight">{t('h2')}</h2>
-        {showMoreLink && (
-          <Link href="/article" className="text-blue-600 hover:text-blue-800 transition-colors">
-            {t('moreArticles')} →
-          </Link>
-        )}
+    <section className="py-12 w-full max-w-7xl mx-auto px-4">
+      <div className="text-center mb-12">
+        <h2 className="text-3xl lg:text-5xl font-bold tracking-tight mb-4">
+          {t('h2')}
+        </h2>
+        <Link 
+          href="/article" 
+          className="text-blue-600 hover:text-blue-800 transition-colors inline-block text-lg"
+        >
+          {t('viewAllBlogs')}
+        </Link>
       </div>
-      <div className="space-y-6">
-        {articles.map(({ id, title, description }) => (
-          <Card key={id}>
+      
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {articles.map(({ id, title, description, coverImage }) => (
+          <Card key={id} className="overflow-hidden hover:shadow-lg transition-shadow">
+            <div className="relative w-full h-48">
+              <Image
+                src={coverImage}
+                alt={title}
+                fill
+                className="object-cover"
+                loading="lazy"
+              />
+            </div>
             <CardHeader>
               <Link 
                 href={`/article/${id}`}
                 className="text-blue-600 hover:text-blue-800 transition-colors inline-flex items-center gap-1"
               >
-                <CardTitle className='mr-1'>{title}</CardTitle>
+                <CardTitle className="text-lg mr-1 line-clamp-2">{title}</CardTitle>
                 →
               </Link>
-              <CardDescription>{description}</CardDescription>
+              <CardDescription className="line-clamp-3 mt-2">
+                {description}
+              </CardDescription>
             </CardHeader>
           </Card>
         ))}
@@ -54,7 +71,7 @@ const ArticleList: React.FC<ArticleListProps> = ({ articles, showMoreLink = true
   )
 }
 
-const ArticlePage: React.FC<ArticleListProps> = ({ articles }) => {
+function ArticlePage({ articles }: ArticleListProps) {
   return (
     <section>
       <div className="space-y-6">
@@ -77,4 +94,4 @@ const ArticlePage: React.FC<ArticleListProps> = ({ articles }) => {
   )
 }
 
-export { ArticleList, ArticlePage }
+export { ArticleList, ArticlePage } 

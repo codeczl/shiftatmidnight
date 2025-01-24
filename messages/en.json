@@ -1,63 +1,161 @@
 {
   "home": {
-    "meta_title": "Roblox Code | Latest Promo Codes & Redeem Guide",
-    "meta_description": "Discover the latest Roblox codes, how to redeem them, and tips for using them effectively to maximize your gaming experience.",
-    "h1": "Roblox Code",
-    "h2": "Latest Roblox Codes--Your Ultimate Guide to Promo Codes",
-    "intro": "Roblox players love finding new ways to enhance their gaming experience, and Roblox codes are the perfect tool for this. Below is a list of the latest promo codes you can use:",
+    "meta_title": "Steam Cookie Clicker | Start Your Cookie Empire",
+    "meta_description": "Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master.",
+    "h1": "Steam Cookie Clicker",
+    "h2": "Start Your Cookie Empire Journey",
+    "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
     "latest_codes": { 
-      "title": "Latest Roblox Codes",
-      "code1": "SPIDERCOLA: Redeem for a Spider Cola shoulder accessory.",
-      "code2": "TWEETROBLOX: Redeem for a free bird shoulder pet.",
-      "update_note": "Stay updated with the latest Roblox codes by bookmarking this page!"
+      "title": "Latest Cookie Clicker Updates",
+      "code1": "New Building: Fractal Engine - Produces cookies through dimensional manipulation.",
+      "code2": "New Achievement: Cookie Singularity - Reach 1 quintillion cookies per second.",
+      "update_note": "Stay updated with the latest Cookie Clicker features by bookmarking this page!"
     },
     "how_to_redeem": {
-      "title": "How to Redeem Roblox Codes",
-      "intro": "Redeeming a Roblox code is simple. Follow these steps:",
-      "step1": "Log in to your Roblox account.",
-      "step2": "Go to the Redeem Codes page.",
-      "step3": "Enter the Roblox code in the box and click \"Redeem.\"",
-      "step4": "Enjoy your reward in the game!",
-      "note": "If the code doesn't work, double-check for typos or expired dates."
+      "title": "How to Use Cookie Clicker Features",
+      "intro": "Maximizing your cookie production is simple. Follow these steps:",
+      "step1": "Start by clicking the big cookie.",
+      "step2": "Purchase buildings and upgrades.",
+      "step3": "Unlock achievements and heavenly chips.",
+      "step4": "Optimize your production strategy!",
+      "note": "Remember to check for Golden Cookies regularly for bonus effects."
     },
     "tips": {
-      "title": "Tips for Using Roblox Codes Effectively",
-      "intro": "To make the most of your Roblox codes:",
-      "tip1": "Check for new codes regularly as they can expire quickly.",
-      "tip2": "Follow Roblox's official social media accounts for exclusive codes.",
-      "tip3": "Use codes during special events to unlock limited-time items.",
-      "conclusion": "With these tips, you'll always be ready to maximize your rewards!"
+      "title": "Tips for Cookie Clicker Success",
+      "intro": "To maximize your cookie production:",
+      "tip1": "Always watch for Golden Cookies appearing.",
+      "tip2": "Invest in the most efficient buildings first.",
+      "tip3": "Use the Stock Market during Frenzy effects.",
+      "conclusion": "With these tips, you'll be a cookie master in no time!"
+    },
+    "cookie_clicker": {
+      "title": "Cookie Clicker",
+      "subtitle": "An Addictive Idle Game",
+      "description": "Dive into the world of Cookie Clicker, become the ultimate cookie master.",
+      "start_button": "Get Started For Free"
+    },
+    "features": {
+      "title": "Immerse Yourself in Cookie Clicker - The Ultimate Idle Game",
+      "item1": {
+        "title": "Endless Production Empire",
+        "description": "Start your Cookie Clicker journey by clicking to produce treats, then watch as your empire grows exponentially.",
+        "button": "Try Cookie Clicker Now"
+      },
+      "item2": {
+        "title": "Advanced Production System",
+        "description": "Master the Cookie Clicker upgrade system with powerful buildings like Grandmas, Farms, and Factories.",
+        "button": "Try Cookie Clicker Now"
+      },
+      "item3": {
+        "title": "Strategic Resource Management",
+        "description": "Optimize your Cookie Clicker strategy with real-time analytics.",
+        "button": "Try Cookie Clicker Now"
+      }
+    },
+    "abilities": {
+      "title": "Dive into the world of Cookie Clicker",
+      "item1": {
+        "title": "Grandma's Kitchen",
+        "description": "Recruit an army of grandmas to bake treats for you."
+      },
+      "item2": {
+        "title": "Magical Farms",
+        "description": "Plant and harvest magical seeds in vast fields."
+      },
+      "item3": {
+        "title": "Ancient Mines",
+        "description": "Dig deep underground to discover precious resources."
+      },
+      "item4": {
+        "title": "Production Factory",
+        "description": "Industrial-scale facilities that mass produce goods."
+      },
+      "item5": {
+        "title": "Investment Banks",
+        "description": "Financial facilities that generate resources through trading."
+      },
+      "item6": {
+        "title": "Ancient Temples",
+        "description": "Sacred buildings blessed by the gods to create divine treats."
+      }
+    },
+    "cta": {
+      "title": "Get ready for an exciting twist on Cookie Clicker!",
+      "description": "Dive into an idle game where every click counts. Build, upgrade, and expand your way to production mastery in this thrilling adventure!",
+      "button": "Get Started"
+    },
+    "faq": {
+      "title": "Cookie Clicker FAQ",
+      "item1": {
+        "question": "How to start Cookie Clicker?",
+        "answer": "Simply click the \"Get Started\" button to begin your adventure."
+      },
+      "item2": {
+        "question": "Is Cookie Clicker free to play?",
+        "answer": "Yes! Cookie Clicker is completely free to play."
+      },
+      "item3": {
+        "question": "How does Cookie Clicker save progress?",
+        "answer": "Cookie Clicker automatically saves your game progress."
+      },
+      "item4": {
+        "question": "What is \"Ascension\" in Cookie Clicker?",
+        "answer": "In Cookie Clicker, \"Ascension\" resets progress to earn Prestige Levels and Heavenly Chips for permanent upgrades. Perform your first ascension after reaching 365 Prestige Levels for a significant boost."
+      },
+      "item5": {
+        "question": "How to unlock minigames in Cookie Clicker?",
+        "answer": "Unlock minigames by upgrading buildings with sugar lumps. Once upgraded, a button will appear in the building's menu. Click it to access the minigame."
+      }
+    },
+    "reviews": {
+      "title": "Cookie Clicker Loved by people worldwide.",
+      "subtitle": "Join millions of players and experience the most addictive idle game.",
+      "item1": {
+        "title": "Amazing Game!",
+        "content": "Cookie Clicker is taking over my life! Can't stop playing this addictive game.",
+        "author": "- CookieMaster2023"
+      },
+      "item2": {
+        "title": "Best Idle Game Ever!",
+        "content": "The perfect balance of strategy and fun. My cookie empire keeps growing!",
+        "author": "- IdleGamer"
+      },
+      "item3": {
+        "title": "So Addictive!",
+        "content": "Started playing yesterday, and I can't put it down. The upgrades are so satisfying!",
+        "author": "- CookieEnthusiast"
+      }
     }
   },
   "category": {
-    "meta_title": "Roblox Code Categories",
-    "meta_description": "Find all essential Roblox code categories and guides to enhance your gaming experience",
+    "meta_title": "Steam Cookie Clicker Game Guide",
+    "meta_description": "Find all essential Cookie Clicker guides and strategies to enhance your gaming experience",
     "homeBtn": "Home",
-    "categoryBtn": "Category",
-    "h1": "Roblox Code Categories",
-    "h2": "Find All Roblox Codes You Need Here",
-    "h2description": "All Roblox codes are sorted by categories"
+    "categoryBtn": "Game",
+    "h1": "Cookie Clicker Game Guide",
+    "h2": "Find All Cookie Clicker Guides You Need Here",
+    "h2description": "All Cookie Clicker guides are sorted by categories"
   },
   "article": {
-    "meta_title": "Articles - Roblox Code",
-    "meta_description": "Explore our collection of articles about Roblox codes and promo codes",
+    "meta_title": "Articles - Steam Cookie Clicker",
+    "meta_description": "Explore our collection of articles about Cookie Clicker strategies and tips",
     "h1": "Articles",
-    "h2": "Discover useful Roblox code guides and resources",
+    "h2": "Discover useful Cookie Clicker guides and resources",
     "homeBtn": "Home",
     "articleBtn": "Articles",
     "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog - Roblox Code",
-    "meta_description": "Stay up to date with the latest updates on RobloxCode.net",
+    "meta_title": "Changelog - Steam Cookie Clicker",
+    "meta_description": "Stay up to date with the latest updates on steamcookieclicker.com",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest updates on RobloxCode.net",
+    "h2": "Stay up to date with the latest Cookie Clicker updates",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find all essential Roblox codes and guides to enhance your gaming experience",
-    "h2_1": "All Roblox codes related to",
+    "meta_description": "Find all essential Cookie Clicker guides and tools to enhance your gaming experience",
+    "h2_1": "All Cookie Clicker guides related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
@@ -70,24 +168,24 @@
   },
   "navigation": {
     "homeBtn": "Home",
-    "categoryBtn": "Categories",
+    "categoryBtn": "Game",
     "moreCategoryBtn": "More",
-    "moreCategoryDescription": "More Categories",
+    "moreCategoryDescription": "More Game Guides",
     "articleBtn": "Articles",
-    "articleDescription": "Your Ultimate Guide for Roblox Codes and Promo Codes",
-    "latestCodesArticle": "Latest Roblox Codes 2025",
-    "latestCodesDescription": "Get the latest Roblox promo codes and learn how to redeem them",
-    "secretsArticle": "Are Roblox Codes Really Useful?",
-    "secretsDescription": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences",
+    "articleDescription": "Your Ultimate Guide for Cookie Clicker - Tips, Tricks and Achievements",
+    "cheatGuideArticle": "Cookie Clicker Cheats Guide",
+    "cheatGuideDescription": "Learn how to use developer console and cheat codes",
+    "achievementsArticle": "Steam Achievements Guide",
+    "achievementsDescription": "Complete guide to unlocking all achievements",
     "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Browse all articles about Roblox codes",
+    "moreArticleDescription": "Browse all articles about Cookie Clicker",
     "changelogBtn": "Changelog"
   },
   "footer": {
-    "description": "Your Ultimate Guide for Roblox Codes and Promo Codes",
+    "description": "Your Ultimate Guide for Cookie Clicker - Tips, Tricks, Achievements and More",
     "quickLinks": "Quick Links",
     "home": "Home",
-    "category": "Categories",
+    "game": "Play Game",
     "article": "Articles",
     "changelog": "Changelog",
     "privacy": "Privacy Policy",
@@ -102,21 +200,20 @@
     "tools": ""
   },
   "articleList": {
-    "h2": "Latest Articles",
-    "moreArticles": "More Articles"
+    "h2": "Latest Blog",
+    "moreArticles": "More Articles",
+    "viewAllBlogs": "View All Blogs →"
   },
-
-    "meta": {
-      "og_title": "Roblox Code | Latest Promo Codes & Redeem Guide",
-      "og_description": "Find and redeem the latest Roblox promo codes. Get free items, accessories, and in-game bonuses. Updated daily with working codes and guides.",
-      "twitter_title": "Roblox Code | Latest Promo Codes",
-      "twitter_description": "Discover and redeem the latest Roblox promo codes. Updated daily!"
-    },
-  "latestCodesArticle": "Latest Roblox Codes 2025",
-  "latestCodesDescription": "Get the latest Roblox promo codes and learn how to redeem them",
-  "secretsArticle": "Are Roblox Codes Really Useful?",
-  "secretsDescription": "Explore the true value of Roblox codes, uncovering how these promo codes impact player experiences",
+  "meta": {
+    "og_title": "Steam Cookie Clicker | Start Your Cookie Empire",
+    "og_description": "Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master. Updated daily!",
+    "twitter_title": "Steam Cookie Clicker | Cookie Empire",
+    "twitter_description": "Discover the ultimate Cookie Clicker gaming experience. Updated daily!"
+  },
+  "latestCodesArticle": "Latest Cookie Clicker Codes 2024",
+  "latestCodesDescription": "Get the latest Cookie Clicker cheat codes and learn how to use them",
+  "secretsArticle": "Cookie Clicker Hidden Secrets Guide", 
+  "secretsDescription": "Discover hidden features and secrets in Cookie Clicker to maximize your cookie production",
   "moreArticleBtn": "More Articles",
-  "moreArticleDescription": "Browse all articles about Roblox codes"
-
+  "moreArticleDescription": "Browse all articles about Cookie Clicker"
 }

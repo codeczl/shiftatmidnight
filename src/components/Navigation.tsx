@@ -103,11 +103,12 @@ export const Navigation = ({ categories }: navigationProp ) => {
             <Image
               src={IconImage}
               className="block"
-              width={size}
-              height={size}
-              alt="RobloxCode"
+              width={30}
+              height={30}
+              alt="Steam Cookie Clicker"
+              priority
             />
-            <span className="inline-block font-bold">Roblox Code</span>
+            <span className="inline-block font-bold">Steam Cookie Clicker</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
@@ -154,7 +155,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Roblox Code
+                              Steam Cookie Clicker
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -163,16 +164,16 @@ export const Navigation = ({ categories }: navigationProp ) => {
                         </NavigationMenuLink>
                       </li>
                       <ListItem 
-                        href="/article/latest-roblox-codes-2025" 
-                        title={t('latestCodesArticle')}
+                        href="/article/how-to-cheat-cookie-clicker" 
+                        title={t('cheatGuideArticle')}
                       >
-                        {t('latestCodesDescription')}
+                        {t('cheatGuideDescription')}
                       </ListItem>
                       <ListItem 
-                        href="/article/roblox-codes-usefulness-secrets" 
-                        title={t('secretsArticle')}
+                        href="/article/steam-cookie-clicker-achievements" 
+                        title={t('achievementsArticle')}
                       >
-                        {t('secretsDescription')}
+                        {t('achievementsDescription')}
                       </ListItem>
                       <ListItem 
                         href="/article" 

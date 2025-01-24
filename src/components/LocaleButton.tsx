@@ -52,7 +52,7 @@ export function LocaleButton() {
                   return (
                     <DropdownMenuRadioItem key={locale} value={locale}>
                       {locale in localeLabels
-                        ? localeLabels[locale]
+                        ? localeLabels[locale as keyof typeof localeLabels]
                         : locale}
                     </DropdownMenuRadioItem>
                   );
