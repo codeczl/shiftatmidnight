@@ -144,9 +144,9 @@ export default async function Home() {
                   href="https://cookieclicker.com/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+                  className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
                 >
-                  {t("features.item2.button")}
+                  {t("features.item2.button")} →
                 </a>
               </div>
               <div className="flex-1">
@@ -168,9 +168,9 @@ export default async function Home() {
                   href="https://cookieclicker.com/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+                  className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
                 >
-                  {t("features.item3.button")}
+                  {t("features.item3.button")} →
                 </a>
               </div>
               <div className="flex-1">
