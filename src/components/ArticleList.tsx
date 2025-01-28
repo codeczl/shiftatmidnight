@@ -27,8 +27,8 @@ function ArticleList({ articles }: ArticleListProps) {
   const t = useTranslations('articleList');
   
   return (
-    <section className="py-12 w-full max-w-7xl mx-auto px-4">
-      <div className="text-center mb-12">
+    <section className="py-0 w-full max-w-7xl mx-auto px-4">
+      <div className="text-center mb-5">
         <h2 className="text-3xl lg:text-5xl font-bold tracking-tight mb-4">
           {t('h2')}
         </h2>

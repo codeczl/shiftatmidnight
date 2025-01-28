@@ -1,7 +1,7 @@
 {
   "home": {
-    "meta_title": "Steam Cookie Clicker | Start Your Cookie Empire",
-    "meta_description": "Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master.",
+    "meta_title": "Mortholme - Embrace the Dark Queen's Challenge",
+    "meta_description": "Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.",
     "h1": "Steam Cookie Clicker",
     "h2": "Start Your Cookie Empire Journey",
     "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
@@ -29,102 +29,235 @@
       "conclusion": "With these tips, you'll be a cookie master in no time!"
     },
     "cookie_clicker": {
-      "title": "Cookie Clicker",
-      "subtitle": "An Addictive Idle Game",
-      "description": "Dive into the world of Cookie Clicker, become the ultimate cookie master.",
-      "start_button": "Get Started For Free"
+      "title": "Mortholme",
+      "subtitle": "Step into the Shadows of the Dark Queen's Realm",
+      "description": "Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.",
+      "start_button": "Play Free Now"
     },
     "features": {
-      "title": "Immerse Yourself in Cookie Clicker - The Ultimate Idle Game",
+      "title": "Immerse Yourself in the Dark Realm of Mortholme",
+      "subtitle": "Discover the captivating features of Mortholme, the ultimate villain experience. Explore a dark world filled with power, strategy, and epic boss battles with friends.",
       "item1": {
-        "title": "Endless Production Empire",
-        "description": "Start your Cookie Clicker journey by clicking to produce treats, then watch as your empire grows exponentially.",
-        "button": "Try Cookie Clicker Now"
+        "title": "Reverse Boss Battles",
+        "description": "Experience the game from the boss's perspective, defending against heroes who challenge your dominion.",
+        "button": "Start For Free Now"
       },
       "item2": {
-        "title": "Advanced Production System",
-        "description": "Master the Cookie Clicker upgrade system with powerful buildings like Grandmas, Farms, and Factories.",
-        "button": "Try Cookie Clicker Now"
+        "title": "Dynamic Narrative",
+        "description": "Engage in a compelling story that explores themes of power, persistence, and change, influenced by your choices.",
+        "button": "Start For Free Now"
       },
       "item3": {
-        "title": "Strategic Resource Management",
-        "description": "Optimize your Cookie Clicker strategy with real-time analytics.",
-        "button": "Try Cookie Clicker Now"
+        "title": "Atmospheric Pixel Art",
+        "description": "Immerse yourself in a dark fantasy world brought to life with detailed pixel art and a haunting soundtrack.",
+        "button": "Start For Free Now"
       }
     },
     "abilities": {
-      "title": "Dive into the world of Cookie Clicker",
+      "title": "Dark Queen's Arsenal of Powers",
+      "subtitle": "Master an array of devastating abilities to defend your domain against heroic invasions",
       "item1": {
-        "title": "Grandma's Kitchen",
-        "description": "Recruit an army of grandmas to bake treats for you."
+        "title": "Shadow Strike",
+        "description": "Unleash a swift attack from the shadows, catching heroes off guard and dealing significant damage."
       },
       "item2": {
-        "title": "Magical Farms",
-        "description": "Plant and harvest magical seeds in vast fields."
+        "title": "Dark Aura",
+        "description": "Emit an aura of darkness that weakens nearby heroes, reducing their attack power and resolve."
       },
       "item3": {
-        "title": "Ancient Mines",
-        "description": "Dig deep underground to discover precious resources."
+        "title": "Summon Minions",
+        "description": "Call forth loyal minions to assist in battle, overwhelming heroes with numbers and strategy."
       },
       "item4": {
-        "title": "Production Factory",
-        "description": "Industrial-scale facilities that mass produce goods."
+        "title": "Teleportation",
+        "description": "Instantly relocate within your lair, evading attacks and positioning yourself for a counterstrike."
       },
       "item5": {
-        "title": "Investment Banks",
-        "description": "Financial facilities that generate resources through trading."
+        "title": "Life Drain",
+        "description": "Drain the life force of heroes to heal your wounds, turning their strength into your advantage."
       },
       "item6": {
-        "title": "Ancient Temples",
-        "description": "Sacred buildings blessed by the gods to create divine treats."
+        "title": "Fear Induction",
+        "description": "Instill fear into the hearts of heroes, causing them to hesitate or flee, giving you the upper hand."
       }
     },
     "cta": {
-      "title": "Get ready for an exciting twist on Cookie Clicker!",
-      "description": "Dive into an idle game where every click counts. Build, upgrade, and expand your way to production mastery in this thrilling adventure!",
-      "button": "Get Started"
+      "title": "Are You Ready to Defend Your Throne?",
+      "description": "Embrace your role as the Dark Queen, master your powers, and face the heroes who dare to challenge you. Begin your reign now!",
+      "button": "Play Now"
     },
     "faq": {
-      "title": "Cookie Clicker FAQ",
+      "title": "Frequently Asked Questions",
       "item1": {
-        "question": "How to start Cookie Clicker?",
-        "answer": "Simply click the \"Get Started\" button to begin your adventure."
+        "question": "How do I start the game?",
+        "answer": "Click the \"Play Now\" button, register an account, and immerse yourself in the world of Mortholme."
       },
       "item2": {
-        "question": "Is Cookie Clicker free to play?",
-        "answer": "Yes! Cookie Clicker is completely free to play."
+        "question": "Is the game free to play?",
+        "answer": "Yes, Mortholme is completely free, offering all players a full and engaging experience."
       },
       "item3": {
-        "question": "How does Cookie Clicker save progress?",
-        "answer": "Cookie Clicker automatically saves your game progress."
+        "question": "Is multiplayer mode available?",
+        "answer": "Currently, the game focuses on a single-player narrative. Future updates may introduce cooperative multiplayer modes."
       },
       "item4": {
-        "question": "What is \"Ascension\" in Cookie Clicker?",
-        "answer": "In Cookie Clicker, \"Ascension\" resets progress to earn Prestige Levels and Heavenly Chips for permanent upgrades. Perform your first ascension after reaching 365 Prestige Levels for a significant boost."
+        "question": "Can I save my progress?",
+        "answer": "Yes, the game automatically saves your progress, allowing you to pick up where you left off."
       },
       "item5": {
-        "question": "How to unlock minigames in Cookie Clicker?",
-        "answer": "Unlock minigames by upgrading buildings with sugar lumps. Once upgraded, a button will appear in the building's menu. Click it to access the minigame."
+        "question": "What platforms are supported?",
+        "answer": "Mortholme is available on PC and Mac. Mobile support may be introduced in future updates."
       }
     },
     "reviews": {
-      "title": "Cookie Clicker Loved by people worldwide.",
-      "subtitle": "Join millions of players and experience the most addictive idle game.",
-      "item1": {
-        "title": "Amazing Game!",
-        "content": "Cookie Clicker is taking over my life! Can't stop playing this addictive game.",
-        "author": "- CookieMaster2023"
-      },
-      "item2": {
-        "title": "Best Idle Game Ever!",
-        "content": "The perfect balance of strategy and fun. My cookie empire keeps growing!",
-        "author": "- IdleGamer"
-      },
-      "item3": {
-        "title": "So Addictive!",
-        "content": "Started playing yesterday, and I can't put it down. The upgrades are so satisfying!",
-        "author": "- CookieEnthusiast"
-      }
+      "title": "Player Reviews",
+      "subtitle": "See what players are saying about The Dark Queen of Mortholme",
+      "items": [
+        {
+          "title": "The Dark Queen Experience",
+          "content": "Playing as the Dark Queen of Mortholme is incredibly refreshing. The shadow abilities in Mortholme are well designed, though some cooldowns feel a bit long.",
+          "author": "- Dark Fantasy Fan",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme Needs More Content",
+          "content": "The Dark Queen's arsenal in Mortholme has great potential, but could use more variety in hero types. The current roster gets predictable.",
+          "author": "- RPG Veteran",
+          "rating": 3
+        },
+        {
+          "title": "Mortholme's Atmosphere",
+          "content": "The Dark Queen's castle in Mortholme and its haunting soundtrack create perfect immersion. The gothic atmosphere is incredible!",
+          "author": "- Art Enthusiast",
+          "rating": 5
+        },
+        {
+          "title": "Strategic Depth in Mortholme",
+          "content": "As the Dark Queen, each hero requires different tactics. The shadow strike combo with minion support makes Mortholme truly engaging.",
+          "author": "- Strategy Master",
+          "rating": 5
+        },
+        {
+          "title": "Balancing in Mortholme",
+          "content": "The Dark Queen's life drain ability in Mortholme needs slight buffing. Some hero combinations feel nearly impossible to beat.",
+          "author": "- Hardcore Gamer",
+          "rating": 3
+        },
+        {
+          "title": "Mortholme's Story",
+          "content": "The Dark Queen's journey in Mortholme unfolds beautifully through gameplay. Each hero brings their own tale to challenge your reign.",
+          "author": "- Story Lover",
+          "rating": 5
+        },
+        {
+          "title": "Innovative Mortholme Mechanics",
+          "content": "The fear induction system in Mortholme adds depth to the Dark Queen's arsenal. Love how it affects hero behavior in the castle.",
+          "author": "- Game Designer",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme's Potential",
+          "content": "The Dark Queen's teleportation in Mortholme feels a bit clunky, but the core gameplay of defending your castle is solid.",
+          "author": "- Beta Tester",
+          "rating": 3
+        },
+        {
+          "title": "Perfect Challenge in Mortholme",
+          "content": "The Dark Queen's journey from facing weak heroes to legendary champions in Mortholme is perfectly paced.",
+          "author": "- Challenge Seeker",
+          "rating": 5
+        },
+        {
+          "title": "Dark Queen's Powers",
+          "content": "Mortholme's Dark Aura ability needs work, but the overall power fantasy of being the Dark Queen is amazing.",
+          "author": "- Balance Expert",
+          "rating": 4
+        },
+        {
+          "title": "Addictive Mortholme Gameplay",
+          "content": "Can't stop defending the Dark Queen's castle! Mortholme's minion summoning system adds great tactical depth.",
+          "author": "- Regular Player",
+          "rating": 5
+        },
+        {
+          "title": "Mixed Feelings on Mortholme",
+          "content": "The Dark Queen's castle looks beautiful, but some hero patterns in Mortholme become too predictable. Needs more variety.",
+          "author": "- Casual Gamer",
+          "rating": 3
+        },
+        {
+          "title": "Mortholme Combat Excellence",
+          "content": "The Dark Queen's shadow strike and teleport combinations in Mortholme create exciting moments. Boss fights done right!",
+          "author": "- Combat Enthusiast",
+          "rating": 5
+        },
+        {
+          "title": "Promising Start for Mortholme",
+          "content": "The Dark Queen's abilities have good foundation, but Mortholme needs more endgame content. Castle defense gets repetitive.",
+          "author": "- Content Creator",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme's Visual Appeal",
+          "content": "The Dark Queen's realm in Mortholme is stunning. The dark fantasy setting and pixel art style blend perfectly.",
+          "author": "- Pixel Artist",
+          "rating": 5
+        },
+        {
+          "title": "Strategic Depth of Mortholme",
+          "content": "Each hero requires unique strategies against the Dark Queen. Mortholme's arsenal offers great tactical options.",
+          "author": "- Tactics Expert",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme UI Feedback",
+          "content": "The Dark Queen's ability cooldowns in Mortholme could be clearer, but the core gameplay is incredibly solid.",
+          "author": "- UX Designer",
+          "rating": 4
+        },
+        {
+          "title": "Unique Boss Battles in Mortholme",
+          "content": "Being the Dark Queen is refreshing! Mortholme's hero variety keeps each defense of the castle interesting.",
+          "author": "- Boss Battle Fan",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme's Atmosphere",
+          "content": "The Dark Queen's castle ambience in Mortholme is perfect. The dark soundtrack and ability effects create amazing immersion.",
+          "author": "- Audio Enthusiast",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme's Challenge",
+          "content": "Some hero combinations against the Dark Queen feel unfair. Mortholme needs a better difficulty curve.",
+          "author": "- Seasoned Player",
+          "rating": 3
+        },
+        {
+          "title": "Unique Mortholme Experience",
+          "content": "The Dark Queen's perspective in Mortholme offers fresh gameplay. Minor bugs don't detract from the dark fantasy fun.",
+          "author": "- Innovation Seeker",
+          "rating": 4
+        },
+        {
+          "title": "Growing Potential of Mortholme",
+          "content": "The Dark Queen's shadow abilities in Mortholme form a solid foundation. Excited for future content updates!",
+          "author": "- Early Adopter",
+          "rating": 4
+        },
+        {
+          "title": "Memorable Mortholme Adventure",
+          "content": "Defending the Dark Queen's castle in Mortholme never gets old. Each hero brings unique challenges to overcome.",
+          "author": "- Adventure Gamer",
+          "rating": 5
+        },
+        {
+          "title": "Worth Playing Mortholme",
+          "content": "Despite some balance issues, The Dark Queen of Mortholme offers a unique take on boss battles. A must-try dark fantasy experience.",
+          "author": "- Genre Expert",
+          "rating": 4
+        }
+      ]
     }
   },
   "category": {
@@ -170,19 +303,31 @@
     "homeBtn": "Home",
     "categoryBtn": "Game",
     "moreCategoryBtn": "More",
-    "moreCategoryDescription": "More Game Guides",
+    "moreCategoryDescription": "More Game Features",
     "articleBtn": "Articles",
-    "articleDescription": "Your Ultimate Guide for Cookie Clicker - Tips, Tricks and Achievements",
-    "cheatGuideArticle": "Cookie Clicker Cheats Guide",
-    "cheatGuideDescription": "Learn how to use developer console and cheat codes",
-    "achievementsArticle": "Steam Achievements Guide",
-    "achievementsDescription": "Complete guide to unlocking all achievements",
+    "articleDescription": "Explore the world of Mortholme through our comprehensive guides and stories",
+    "featuredArticle1": "Dark Queen's Power Guide",
+    "featuredArticle1Description": "Master all six unique abilities of the Dark Queen",
+    "featuredArticle2": "Boss Battle Strategies",
+    "featuredArticle2Description": "Learn advanced tactics to defeat challenging heroes",
     "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Browse all articles about Cookie Clicker",
-    "changelogBtn": "Changelog"
+    "moreArticleDescription": "Click here to discover more articles about Mortholme",
+    "changelogBtn": "Changelog",
+    "articles": {
+      "charactersGuide": "Character Guide",
+      "charactersGuideDesc": "Explore abilities and development paths of each character in Mortholme",
+      "darkQueenStory": "Dark Queen's Story",
+      "darkQueenStoryDesc": "Discover the compelling story of the Dark Queen in Mortholme",
+      "communityGuide": "Community Guide",
+      "communityGuideDesc": "Learn how to interact with other players and share experiences",
+      "gameGuideTips": "Game Guide & Tips",
+      "gameGuideTipsDesc": "Essential strategies and tips for mastering Mortholme",
+      "strategyDecisions": "Strategy & Decisions",
+      "strategyDecisionsDesc": "Master strategic decisions to win the war in Mortholme"
+    }
   },
   "footer": {
-    "description": "Your Ultimate Guide for Cookie Clicker - Tips, Tricks, Achievements and More",
+    "description": "Your Ultimate Guide for Mortholme - Strategies, Powers, and Dark Fantasy Adventure",
     "quickLinks": "Quick Links",
     "home": "Home",
     "game": "Play Game",
@@ -215,5 +360,17 @@
   "secretsArticle": "Cookie Clicker Hidden Secrets Guide", 
   "secretsDescription": "Discover hidden features and secrets in Cookie Clicker to maximize your cookie production",
   "moreArticleBtn": "More Articles",
-  "moreArticleDescription": "Browse all articles about Cookie Clicker"
+  "moreArticleDescription": "Browse all articles about Cookie Clicker",
+  "articles": {
+    "charactersGuide": "Characters Guide",
+    "charactersGuideDesc": "Learn about each character's abilities and development",
+    "darkQueenStory": "Dark Queen's Story",
+    "darkQueenStoryDesc": "Explore the story of the Dark Queen",
+    "gameGuide": "Game Guide & Tips",
+    "gameGuideDesc": "Comprehensive guide and tips for playing Mortholme",
+    "strategyDecisions": "Strategy & Decisions",
+    "strategyDecisionsDesc": "Master strategic decisions to win the war",
+    "communityGuide": "Community Guide",
+    "communityGuideDesc": "Interact with players and share experiences"
+  }
 }

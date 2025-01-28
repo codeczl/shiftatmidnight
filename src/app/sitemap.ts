@@ -9,7 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: 'game', // 游戏指南页
+      url: 'game', // 游戏主页
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
@@ -21,25 +21,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
-      url: 'article/how-to-cheat-cookie-clicker', // Cookie Clicker 作弊指南
+      url: 'article/dark-queen-power-guide', // 暗黑女王能力指南
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'article/steam-cookie-clicker-achievements', // Steam成就指南
+      url: 'article/boss-battle-strategies', // Boss战斗策略
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'game/basic-guide', // 基础游戏指南
+      url: 'game/abilities-guide', // 能力系统指南
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'game/advanced-strategies', // 进阶策略指南
+      url: 'game/hero-counter-tactics', // 英雄克制策略
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: 'game/lair-defense-guide', // 城堡防御指南
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
@@ -68,7 +74,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const routeUrl = route.url === '' ? '' : `/${route.url}`;
     return {
       ...route,
-      url: `https://steamcookieclicker.com${routeUrl}`,
+      url: `https://mortholme.com${routeUrl}`,
     };
   });
 

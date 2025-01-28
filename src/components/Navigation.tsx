@@ -20,6 +20,8 @@ import {
 import { ThemeModeButton } from "@/components/ThemeModeButton";
 import { LocaleButton } from "@/components/LocaleButton";
 import {useTranslations} from 'next-intl';
+
+// 定义分类类型接口
 type categoriesType = {
   name: string,
   src: string,
@@ -27,16 +29,20 @@ type categoriesType = {
   link: string
 }
 
+// 定义导航属性接口
 type navigationProp = {
   categories: categoriesType[]
 }
 
-
 export const Navigation = ({ categories }: navigationProp ) => {
+  // 获取当前路径
   const pathname = usePathname()
+  // 控制移动端菜单的开关状态
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  // 获取导航相关的翻译函数
   const t = useTranslations('navigation');
 
+  // 定义导航菜单项
   const menuItems: {
     label: string;
     href: string;
@@ -58,17 +64,19 @@ export const Navigation = ({ categories }: navigationProp ) => {
       href: "/changelog",
     },
   ];
+
+  // 判断当前菜单项是否激活
   const isMenuItemActive = (href: string) => {
     // console.log(pathname, href);
     return pathname === href;
   };
 
+  // 路由变化时关闭移动端菜单
   useEffect(() => {
     setMobileMenuOpen(false);
   }, [pathname]);
 
-  
-  const size = 30;
+  // 自定义列表项组件
   const ListItem = React.forwardRef<
     React.ElementRef<"a">,
     React.ComponentPropsWithoutRef<"a">
@@ -94,34 +102,45 @@ export const Navigation = ({ categories }: navigationProp ) => {
     )
   })
   ListItem.displayName = "ListItem"
-  return (
 
+  return (
+    // 导航栏主容器
     <header className="sticky top-0 z-40 w-full border-b bg-background">
       <div className="container flex h-16 items-center justify-between">
+        {/* 左侧 Logo 和导航区域 */}
         <div className="flex gap-6 md:gap-10">
+          {/* Logo 链接 */}
           <Link href="/" className="flex items-center space-x-2">
             <Image
               src={IconImage}
               className="block"
               width={30}
               height={30}
-              alt="Steam Cookie Clicker"
+              alt="Mortholme"
               priority
             />
-            <span className="inline-block font-bold">Steam Cookie Clicker</span>
+            <span className="inline-block font-bold">Mortholme</span>
           </Link>
+
+          {/* 桌面端导航菜单 */}
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
               <NavigationMenuList>
+                {/* 首页链接 */}
                 <NavigationMenuItem>
                   <Link href="/" className={cn(navigationMenuTriggerStyle(), 'font-medium', '/' === pathname && "font-extrabold")}>
                     {t('homeBtn')}
                   </Link>
                 </NavigationMenuItem>
+
+                {/* 分类下拉菜单 */}
                 <NavigationMenuItem>
-                  <NavigationMenuTrigger className={cn('font-medium', '/category' === pathname && "font-extrabold")}>{t('categoryBtn')}</NavigationMenuTrigger>
+                  <NavigationMenuTrigger className={cn('font-medium', '/category' === pathname && "font-extrabold")}>
+                    {t('categoryBtn')}
+                  </NavigationMenuTrigger>
                   <NavigationMenuContent>
-                    <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-3 lg:w-[600px] ">
+                    <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-3 lg:w-[600px]">
+                      {/* 遍历分类列表 */}
                       {categories.map((category) => (
                         <ListItem
                           key={category.name}
@@ -132,16 +151,19 @@ export const Navigation = ({ categories }: navigationProp ) => {
                           {category.description}
                         </ListItem>
                       ))}
+                      {/* 更多分类链接 */}
                       <ListItem
                         title={t('moreCategoryBtn')}
                         href={'/category'}
-                        className='capitalize border border-muted  bg-gradient-to-b  from-muted/50 to-muted/20'
+                        className='capitalize border border-muted bg-gradient-to-b from-muted/50 to-muted/20'
                       >
                         {t('moreCategoryDescription')}
                       </ListItem>
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
+
+                {/* 文章下拉菜单 */}
                 <NavigationMenuItem>
                   <NavigationMenuTrigger className={cn('font-medium', '/article' === pathname && "font-extrabold")}>
                     {t('articleBtn')}
@@ -152,10 +174,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
                         <NavigationMenuLink asChild>
                           <a
                             className="flex h-full w-full select-none flex-col justify-end rounded-md bg-gradient-to-b from-muted/50 to-muted p-6 no-underline outline-none focus:shadow-md"
-                            href="/"
+                            href="/article"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Steam Cookie Clicker
+                              Mortholme
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -164,16 +186,16 @@ export const Navigation = ({ categories }: navigationProp ) => {
                         </NavigationMenuLink>
                       </li>
                       <ListItem 
-                        href="/article/how-to-cheat-cookie-clicker" 
-                        title={t('cheatGuideArticle')}
+                        href="/article/mortholme-characters-guide" 
+                        title={t('articles.charactersGuide')}
                       >
-                        {t('cheatGuideDescription')}
+                        {t('articles.charactersGuideDesc')}
                       </ListItem>
                       <ListItem 
-                        href="/article/steam-cookie-clicker-achievements" 
-                        title={t('achievementsArticle')}
+                        href="/article/mortholme-dark-queen-story" 
+                        title={t('articles.darkQueenStory')}
                       >
-                        {t('achievementsDescription')}
+                        {t('articles.darkQueenStoryDesc')}
                       </ListItem>
                       <ListItem 
                         href="/article" 
@@ -185,6 +207,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
+
+                {/* 更新日志链接 */}
                 <NavigationMenuItem>
                   <Link href="/changelog" className={cn(navigationMenuTriggerStyle(), 'font-medium', '/changelog' === pathname && "font-extrabold")}>
                     {t('changelogBtn')}
@@ -194,11 +218,16 @@ export const Navigation = ({ categories }: navigationProp ) => {
             </NavigationMenu>
           </nav>
         </div>
+
+        {/* 右侧功能区 */}
         <div className="flex items-center gap-3">
+          {/* 主题切换和语言切换按钮 */}
           <div className="flex items-center gap-1">
             <ThemeModeButton />
             <LocaleButton />
           </div>
+
+          {/* 移动端菜单按钮和抽屉 */}
           <Sheet
             open={mobileMenuOpen}
             onOpenChange={(open) => setMobileMenuOpen(open)}
@@ -213,6 +242,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                 <MenuIcon className="size-4" />
               </Button>
             </SheetTrigger>
+            {/* 移动端菜单内容 */}
             <SheetContent className="w-[250px]" side="right">
               <div className="flex flex-col items-start justify-center">
                 {menuItems.map((menuItem) => (

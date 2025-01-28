@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Leckerli One
-- Font Author: HK
-- Font Source: https://fonts.gstatic.com/s/leckerlione/v20/V8mCoQH8VCsNttEnxnGQ-1itLZxcBtItFw.ttf
+- Font Title: Annie Use Your Telescope
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/annieuseyourtelescope/v19/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGjlDfB3UUVZA.ttf
 - Font License: undefined)

@@ -84,10 +84,10 @@ export default async function Home() {
                   {t("cookie_clicker.description")}
                 </p>
                 <a 
-                  href="https://cookieclicker.com/" 
+                  href="https://qwertyprophecy.itch.io/mortholme" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+                  className="inline-block px-8 py-4 bg-blue-600 text-white text-xl font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200"
                 >
                   {t("cookie_clicker.start_button")}
                 </a>
@@ -106,10 +106,15 @@ export default async function Home() {
           </section>
 
           {/* Features Section */}
-          <section className="py-16 space-y-24">
-            <h2 className="text-4xl lg:text-5xl font-bold text-center mb-16 tracking-tight">
-              {t("features.title")}
-            </h2>
+          <section className="py-8 space-y-16">
+            <div className="text-center max-w-4xl mx-auto">
+              <h2 className="text-4xl lg:text-5xl font-bold mb-4 tracking-tight">
+                {t("features.title")}
+              </h2>
+              <p className="text-lg text-gray-600">
+                {t("features.subtitle")}
+              </p>
+            </div>
 
             {/* Feature 1 - 文字在左，图片在右 */}
             <div className="flex flex-col lg:flex-row items-center gap-12">
@@ -117,7 +122,7 @@ export default async function Home() {
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item1.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item1.description")}</p>
                 <a 
-                  href="https://cookieclicker.com/"
+                  href="https://qwertyprophecy.itch.io/mortholme"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -141,7 +146,7 @@ export default async function Home() {
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item2.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item2.description")}</p>
                 <a 
-                  href="https://cookieclicker.com/"
+                  href="https://qwertyprophecy.itch.io/mortholme"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -165,7 +170,7 @@ export default async function Home() {
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item3.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item3.description")}</p>
                 <a 
-                  href="https://cookieclicker.com/"
+                  href="https://qwertyprophecy.itch.io/mortholme"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -185,11 +190,13 @@ export default async function Home() {
           </section>
 
           {/* Abilities Section */}
-          <section className="py-24">
-            <h2 className="text-4xl lg:text-5xl font-bold text-center mb-20">
+          <section className="py-12">
+            <h2 className="text-4xl lg:text-5xl font-bold text-center mb-4">
               {t("abilities.title")}
             </h2>
-         
+            <p className="text-lg text-gray-600 text-center mb-12">
+              {t("abilities.subtitle")}
+            </p>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {[
@@ -238,7 +245,7 @@ export default async function Home() {
                 <h2 className="text-4xl lg:text-5xl font-bold mb-6">{t("cta.title")}</h2>
                 <p className="text-lg text-gray-300 mb-8">{t("cta.description")}</p>
                 <a 
-                  href="https://cookieclicker.com/"
+                  href="https://qwertyprophecy.itch.io/mortholme"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-8 py-4 bg-white text-gray-900 rounded-lg hover:bg-gray-100 transition-colors font-medium"
@@ -249,7 +256,26 @@ export default async function Home() {
             </section>
           </div>
           <div className="-mt-1">
-            <ReviewsSection />
+            {/* 标题和描述 */}
+            <div className="relative max-w-2xl mx-auto mb-12 text-center">
+              <h2 className="text-4xl lg:text-5xl font-bold tracking-tight mb-1">
+                {t('reviews.title')}
+              </h2>
+              <p className="text-lg text-gray-600">
+                {t('reviews.subtitle')}
+              </p>
+            </div>
+            
+            {/* Reviews Section with Gradient Masks */}
+            <div className="-mt-1 relative">
+              {/* 顶部遮罩 - 增加左右宽度 */}
+              <div className="absolute top-0 left-[-20px] right-[-20px] h-64 bg-gradient-to-b from-white from-0% via-white via-50% to-transparent z-10 pointer-events-none" />
+              
+              <ReviewsSection />
+              
+              {/* 底部遮罩 - 增加左右宽度 */}
+              <div className="absolute bottom-0 left-[-20px] right-[-20px] h-64 bg-gradient-to-t from-gray-50 from-0% via-gray-50 via-50% to-transparent z-10 pointer-events-none" />
+            </div>
           </div>
           
           <div className="border-t"></div>

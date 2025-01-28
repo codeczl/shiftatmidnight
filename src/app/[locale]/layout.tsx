@@ -32,17 +32,17 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Steam Cookie Clicker | Start Your Cookie Empire',
-    template: '%s | Steam Cookie Clicker'
+    default: 'Mortholme - Embrace the Dark Queen\'s Challenge',
+    template: '%s | Mortholme'
   },
-  description: 'Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master with endless production possibilities.',
-  authors: { name: 'steamcookieclicker.com', url: 'https://steamcookieclicker.com/' },
-  keywords: 'Steam Cookie Clicker, Cookie Clicker Steam, Cookie Clicker game, idle game, cookie empire, cookie production, cookie achievements',
+  description: 'Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.',
+  authors: { name: 'mortholme.com', url: 'https://mortholme.com/' },
+  keywords: 'Mortholme, Dark Queen, Boss Battle, Fantasy Game, Reverse Boss Battle, Dynamic Narrative, Pixel Art, Dark Fantasy',
   alternates: {
-    canonical: "https://steamcookieclicker.com/",
+    canonical: "https://mortholme.com/",
     languages: {
-      "en": "https://steamcookieclicker.com/en",
-      "zh": "https://steamcookieclicker.com/zh",
+      "en": "https://mortholme.com/en",
+      "zh": "https://mortholme.com/zh",
     }
   },
   icons: {
@@ -66,13 +66,13 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Steam Cookie Clicker"
+    title: "Mortholme"
   },
   ...generateMetaTags({
-    title: 'Steam Cookie Clicker | Start Your Cookie Empire',
-    description: 'Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master with endless production possibilities.',
-    url: 'https://steamcookieclicker.com',
-    imageUrl: 'https://steamcookieclicker.com/og-image.jpg'
+    title: 'Mortholme - Embrace the Dark Queen\'s Challenge',
+    description: 'Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.',
+    url: 'https://mortholme.com',
+    imageUrl: 'https://mortholme.com/og-image.jpg'
   }),
 }
 

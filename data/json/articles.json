@@ -1,65 +1,97 @@
 [
   {
-    "id": "how-to-cheat-cookie-clicker",
+    "id": "mortholme-dark-queen-story",
     "translations": {
       "zh": {
-        "title": "如何在《Cookie Clicker》中作弊：详细指南",
-        "description": "本文提供了在《Cookie Clicker》中使用开发者控制台进行作弊的方法，包括常用作弊代码、步骤和注意事项。",
-        "date": "2025-01-20T00:00:00.000Z",
-        "lastModified": "2025-01-21T00:00:00Z",
-        "path": "data/md/zh/how-to-cheat-cookie-clicker.md"
+        "title": "Mortholme的世界：探索暗黑女王的故事",
+        "description": "本文将带您深入探索Mortholme中的暗黑女王角色，了解她的背景、动机及其在游戏世界中的重要性。",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/zh/mortholme-dark-queen-story.md"
       },
       "en": {
-        "title": "How to Cheat in Cookie Clicker: A Detailed Guide",
-        "description": "This article provides methods to cheat in Cookie Clicker using the developer console, including common cheat codes, steps, and precautions.",
-        "date": "2025-01-21T00:00:00.000Z",
-        "lastModified": "2025-01-21T00:00:00Z",
-        "path": "data/md/en/how-to-cheat-cookie-clicker.md"
+        "title": "The World of Mortholme: Exploring the Dark Queen's Story",
+        "description": "This article will take you deep into the story of the Dark Queen in Mortholme, exploring her background, motivations, and importance in the game world.",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/en/mortholme-dark-queen-story.md"
       }
     }
   },
   {
-    "id": "steam-cookie-clicker-achievements",
+    "id": "mortholme-game-guide-tips",
     "translations": {
       "zh": {
-        "title": "Steam《Cookie Clicker》成就指南",
-        "description": "本指南详细介绍了Steam版《Cookie Clicker》中的成就系统，包括如何解锁各类成就的策略。",
-        "date": "2025-01-19T00:00:00.000Z",
-        "lastModified": "2025-01-19T00:00:00Z",
-        "path": "data/md/zh/steam-cookie-clicker-achievements.md"
+        "title": "Mortholme：深度游戏攻略与技巧",
+        "description": "本文将为您提供关于《Mortholme》的深度游戏攻略与技巧，帮助您在游戏中提升技能，克服难关。",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/zh/mortholme-game-guide-tips.md"
       },
       "en": {
-        "title": "Steam Cookie Clicker Achievements Guide",
-        "description": "This guide provides an in-depth look at the achievements system in Steam's Cookie Clicker, including strategies for unlocking various achievements.",
-        "date": "2025-01-21T00:00:00.000Z",
-        "lastModified": "2025-01-21T00:00:00Z",
-        "path": "data/md/en/steam-cookie-clicker-achievements.md"
+        "title": "Mortholme: In-Depth Game Guide and Tips",
+        "description": "This article provides an in-depth game guide and tips for *Mortholme*, helping you improve your skills and overcome challenges in the game.",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/en/mortholme-game-guide-tips.md"
       }
     }
   },
   {
-    "id": "how-to-get-infinite-cookies-in-cookie-clicker",
+    "id": "mortholme-strategy-decisions",
     "translations": {
       "zh": {
-        "title": "如何在《Cookie Clicker》中获取无限饼干",
-        "description": "本文详细介绍了在《Cookie Clicker》游戏中获取无限饼干的多种方法，包括使用浏览器控制台、书签代码、开发者菜单和模组等。",
-        "date": "2025-01-18T00:00:00.000Z",
-        "lastModified": "2025-01-18T00:00:00Z",
-        "path": "data/md/zh/how-to-get-infinite-cookies-in-cookie-clicker.md"
+        "title": "Mortholme中的战略决策：如何赢得战争",
+        "description": "本文探讨了在《Mortholme》中做出关键战略决策的技巧与方法，帮助玩家在复杂的战斗中取得优势，提升游戏胜率。",
+        "date": "2025-01-14T00:00:00.000Z",
+        "lastModified": "2025-01-14T00:00:00Z",
+        "path": "data/md/zh/mortholme-strategy-decisions.md"
       },
       "en": {
-        "title": "How to Get Infinite Cookies in Cookie Clicker",
-        "description": "This article provides detailed methods to obtain infinite cookies in the game 'Cookie Clicker', including using the browser console, bookmarklets, developer menu, and mods.",
-        "date": "2025-01-18T00:00:00.000Z",
-        "lastModified": "2025-01-18T00:00:00Z",
-        "path": "data/md/en/how-to-get-infinite-cookies-in-cookie-clicker.md"
+        "title": "Strategic Decisions in Mortholme: How to Win the War",
+        "description": "This article explores the key strategies and decision-making techniques in *Mortholme*, helping players gain an advantage in complex battles and increase their chances of victory.",
+        "date": "2025-01-14T00:00:00.000Z",
+        "lastModified": "2025-01-14T00:00:00Z",
+        "path": "data/md/en/mortholme-strategy-decisions.md"
+      }
+    }
+  },
+  {
+    "id": "mortholme-characters-guide",
+    "translations": {
+      "zh": {
+        "title": "Mortholme角色大全：每个角色的能力与发展",
+        "description": "探索《Mortholme》中每个角色的背景、能力与发展路径，帮助玩家充分理解如何运用不同角色的优势在游戏中获得胜利。",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/zh/mortholme-characters-guide.md"
+      },
+      "en": {
+        "title": "Mortholme Character Guide: Abilities and Development of Each Character",
+        "description": "Explore the background, abilities, and development paths of each character in Mortholme, helping players fully understand how to utilize the strengths of different characters to achieve victory in the game.",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/en/mortholme-characters-guide.md"
+      }
+    }
+  },
+  {
+    "id": "mortholme-community-guide",
+    "translations": {
+      "zh": {
+        "title": "Mortholme游戏社区：与玩家互动，分享经验",
+        "description": "探索Mortholme游戏社区的互动文化，了解玩家如何在平台上分享心得、策略和游戏经验，以提高游戏技巧并建立更紧密的社交关系。",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/zh/mortholme-community-guide.md"
+      },
+      "en": {
+        "title": "Mortholme Game Community: Interacting with Players and Sharing Experiences",
+        "description": "Explore the interactive culture of the Mortholme game community, learning how players share tips, strategies, and experiences on the platform to improve their gameplay and build stronger social connections.",
+        "date": "2025-01-13T00:00:00.000Z",
+        "lastModified": "2025-01-13T00:00:00Z",
+        "path": "data/md/en/mortholme-community-guide.md"
       }
     }
   }
-  
-
-
-  
-
-  
 ]

@@ -1,13 +1,20 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = 'https://steamcookieclicker.com';
+const BASE_URL = 'https://mortholme.com';
 
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       {
         userAgent: "*",
-        allow: ["/", "/game/*", "/article/*", "/changelog", "/privacy", "/terms"],
+        allow: [
+          "/",
+          "/game/*", 
+          "/article/*", 
+          "/changelog",
+          "/privacy", 
+          "/terms"
+        ],
         disallow: [
           "/api/*", 
           "/admin/*",

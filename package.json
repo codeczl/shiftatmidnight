@@ -1,8 +1,8 @@
 {
-  "name": "steamcookieclicker",
+  "name": "mortholme",
   "version": "1.0.0",
   "private": true,
-  "description": "Steam Cookie Clicker - The Ultimate Idle Game. Start your cookie empire and become the ultimate cookie master.",
+  "description": "Mortholme - Step into the Dark Queen's Realm. Experience dynamic storylines, rich combat systems, and diverse world exploration in this mysterious universe.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

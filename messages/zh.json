@@ -1,107 +1,240 @@
 {
   "home": {
-    "meta_title": "Steam Cookie Clicker | 开启你的饼干帝国",
-    "meta_description": "在 Steam 上玩 Cookie Clicker - 终极放置游戏。开始你的饼干帝国，解锁成就，通过无尽的生产可能性成为终极饼干大师。",
-    "h1": "Steam Cookie Clicker",
-    "h2": "开启你的饼干帝国之旅",
-    "intro": "Cookie Clicker 是一款令人上瘾的放置游戏，通过点击制作饼干，建立你的饼干帝国。以下是游戏的主要特点:",
+    "meta_title": "Mortholme - 暗黑女王的挑战",
+    "meta_description": "扮演暗黑女王, 抵御不屈不挠的英雄, 在这款独特的反向 Boss 战斗冒险中探索你的力量深度。",
+    "h1": "Mortholme",
+    "h2": "开启你的暗黑统治之旅",
+    "intro": "在这款独特的反向 Boss 战斗游戏中, 你将扮演暗黑女王角色。以下是游戏的主要特点:",
     "cookie_clicker": {
-      "title": "Cookie Clicker",
-      "subtitle": "令人上瘾的放置游戏",
-      "description": "深入 Cookie Clicker 的世界，成为终极饼干大师。",
-      "start_button": "免费开始"
+      "title": "Mortholme",
+      "subtitle": "踏入暗黑女王的阴影领域",
+      "description": "扮演暗黑女王, 抵御不屈不挠的英雄, 在这款独特的反向 Boss 战斗冒险中探索你的力量深度。",
+      "start_button": "免费开始游戏"
     },
     "features": {
-      "title": "沉浸在 Cookie Clicker 中 - 终极放置游戏",
+      "title": "沉浸在 Mortholme 的黑暗领域",
+      "subtitle": "探索 Mortholme 令人着迷的特色, 体验终极反派冒险。在这个充满力量、策略和史诗级 Boss 战的黑暗世界中展开冒险。",
       "item1": {
-        "title": "无尽的生产帝国",
-        "description": "通过点击开始你的 Cookie Clicker 之旅, 制作饼干, 然后看着你的帝国呈指数级增长。",
-        "button": "立即体验 Cookie Clicker"
+        "title": "反向 Boss 战斗",
+        "description": "从 Boss 视角体验游戏, 抵御挑战你统治的英雄。",
+        "button": "立即免费开始"
       },
       "item2": {
-        "title": "高级生产系统",
-        "description": "掌握 Cookie Clicker 升级系统, 使用强大的建筑如奶奶、农场和工厂。",
-        "button": "立即体验 Cookie Clicker"
+        "title": "动态叙事",
+        "description": "参与一个探索力量、坚持和改变主题的引人入胜故事, 由你的选择影响剧情走向。",
+        "button": "立即免费开始"
       },
       "item3": {
-        "title": "战略资源管理",
-        "description": "通过实时分析优化你的 Cookie Clicker 策略。",
-        "button": "立即体验 Cookie Clicker"
+        "title": "氛围像素艺术",
+        "description": "通过精致的像素艺术和令人毛骨悚然的配乐, 沉浸在栩栩如生的暗黑奇幻世界中。",
+        "button": "立即免费开始"
       }
     },
     "abilities": {
-      "title": "深入 Cookie Clicker 的世界",
+      "title": "暗黑女王的力量军火库",
+      "subtitle": "掌握一系列毁灭性能力, 抵御英雄入侵, 守护你的领域",
       "item1": {
-        "title": "奶奶的厨房",
-        "description": "招募一支奶奶大军为你烤制饼干。"
+        "title": "暗影打击",
+        "description": "从暗影中发起迅猛攻击, 让英雄措手不及并造成巨大伤害。"
       },
       "item2": {
-        "title": "魔法农场",
-        "description": "在广阔的田野中种植和收获魔法种子。"
+        "title": "黑暗光环",
+        "description": "释放黑暗光环削弱附近的英雄, 降低他们的攻击力和意志。"
       },
       "item3": {
-        "title": "远古矿井",
-        "description": "深入地下发现珍贵资源。"
+        "title": "召唤随从",
+        "description": "召唤忠诚的随从协助战斗, 用数量和策略压倒英雄。"
       },
       "item4": {
-        "title": "生产工厂",
-        "description": "大规模生产商品的工业设施。"
+        "title": "瞬间移动",
+        "description": "在你的巢穴中瞬间移动, 躲避攻击并寻找反击时机。"
       },
       "item5": {
-        "title": "投资银行",
-        "description": "通过交易产生资源的金融设施。"
+        "title": "生命汲取",
+        "description": "吸取英雄的生命力来治愈你的伤口, 将他们的力量转化为你的优势。"
       },
       "item6": {
-        "title": "远古神庙",
-        "description": "受到众神祝福的神圣建筑, 创造神圣的饼干。"
+        "title": "恐惧诱导",
+        "description": "在英雄心中植入恐惧, 使他们犹豫或逃跑, 让你占据上风。"
       }
     },
     "cta": {
-      "title": "准备好体验 Cookie Clicker 的精彩冒险了吗?",
-      "description": "投身于一个每次点击都很重要的放置游戏。在这个激动人心的冒险中建设、升级和扩展你的生产帝国!",
+      "title": "准备好捍卫你的王座了吗?",
+      "description": "接受你作为暗黑女王的角色, 掌握你的力量, 面对那些胆敢挑战你的英雄。现在就开始你的统治!",
       "button": "立即开始"
     },
     "faq": {
-      "title": "Cookie Clicker 常见问题",
+      "title": "常见问题",
       "item1": {
-        "question": "如何开始玩 Cookie Clicker?",
-        "answer": "只需点击立即开始按钮即可开始你的冒险。"
+        "question": "如何开始游戏?",
+        "answer": "点击\"立即开始\"按钮, 注册账号, 然后沉浸在 Mortholme 的世界中。"
       },
       "item2": {
-        "question": "Cookie Clicker 是免费的吗?",
-        "answer": "是的! Cookie Clicker 完全免费。"
+        "question": "游戏是免费的吗?",
+        "answer": "是的, Mortholme 完全免费, 为所有玩家提供完整而有趣的体验。"
       },
       "item3": {
-        "question": "Cookie Clicker 如何保存进度?",
-        "answer": "Cookie Clicker 会自动保存你的游戏进度。"
+        "question": "是否有多人游戏模式?",
+        "answer": "目前, 游戏专注于单人叙事。未来的更新可能会引入合作多人模式。"
       },
       "item4": {
-        "question": "什么是 Cookie Clicker 中的飞升？",
-        "answer": "在 Cookie Clicker 中，飞升会重置进度以获得声望等级和天堂碎片，用于永久性升级。建议在达到365声望等级时进行第一次飞升，这样可以获得显著提升。"
+        "question": "我可以保存进度吗?",
+        "answer": "是的, 游戏会自动保存你的进度, 让你可以从上次离开的地方继续。"
       },
       "item5": {
-        "question": "如何解锁 Cookie Clicker 中的小游戏？",
-        "answer": "使用糖块升级建筑物即可解锁小游戏。升级后，建筑物菜单中会出现一个按钮，点击即可访问小游戏。"
+        "question": "支持哪些平台?",
+        "answer": "Mortholme 可在 PC 和 Mac 上运行。未来更新可能会引入移动端支持。"
       }
     },
     "reviews": {
-      "title": "Cookie Clicker 深受全球玩家喜爱",
-      "subtitle": "加入数百万玩家, 体验最令人上瘾的放置游戏。",
-      "item1": {
-        "title": "超棒的游戏!",
-        "content": "Cookie Clicker 占据了我的生活! 这款游戏太上瘾了。",
-        "author": "- 饼干大师2023"
-      },
-      "item2": {
-        "title": "最好的放置游戏!",
-        "content": "策略和乐趣的完美平衡。我的饼干帝国不断成长!",
-        "author": "- 放置游戏玩家"
-      },
-      "item3": {
-        "title": "太上瘾了!",
-        "content": "昨天才开始玩, 就放不下了。升级系统太令人满意了!",
-        "author": "- 饼干爱好者"
-      }
+      "title": "玩家评价",
+      "subtitle": "看看玩家们对暗黑女王 Mortholme 的评价",
+      "items": [
+        {
+          "title": "暗黑女王体验",
+          "content": "扮演 Mortholme 的暗黑女王令人耳目一新。游戏中的暗影能力设计精良, 但是有些冷却时间稍长。",
+          "author": "- 暗黑奇幻爱好者",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme 需要更多内容",
+          "content": "暗黑女王在 Mortholme 中的技能组很有潜力, 但英雄类型需要更多变化。目前的阵容有些可预测。",
+          "author": "- RPG 老玩家",
+          "rating": 3
+        },
+        {
+          "title": "Mortholme 的氛围",
+          "content": "Mortholme 中暗黑女王的城堡和令人毛骨悚然的配乐营造出完美的沉浸感。哥特式氛围令人惊叹!",
+          "author": "- 艺术爱好者",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 的战略深度",
+          "content": "作为暗黑女王, 每个英雄都需要不同的战术。暗影打击配合随从支援让 Mortholme 战斗极具吸引力。",
+          "author": "- 战略大师",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 的平衡性",
+          "content": "暗黑女王在 Mortholme 中的生命汲取能力需要加强。某些英雄组合几乎无法战胜。",
+          "author": "- 硬核玩家",
+          "rating": 3
+        },
+        {
+          "title": "Mortholme 的剧情",
+          "content": "暗黑女王在 Mortholme 中的旅程通过游戏玩法完美展现。每个英雄都为挑战带来独特故事。",
+          "author": "- 剧情控",
+          "rating": 5
+        },
+        {
+          "title": "创新的 Mortholme 机制",
+          "content": "Mortholme 中的恐惧系统为暗黑女王的技能库增添了深度。很喜欢它如何影响城堡中英雄的行为。",
+          "author": "- 游戏设计师",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme 的潜力",
+          "content": "暗黑女王在 Mortholme 中的传送有点生硬, 但守卫城堡的核心玩法很扎实。",
+          "author": "- 测试玩家",
+          "rating": 3
+        },
+        {
+          "title": "完美的 Mortholme 挑战",
+          "content": "暗黑女王从面对弱小英雄到传奇勇士的旅程节奏把握得恰到好处。",
+          "author": "- 挑战追求者",
+          "rating": 5
+        },
+        {
+          "title": "暗黑女王的力量",
+          "content": "Mortholme 的黑暗光环需要改进, 但整体扮演暗黑女王的体验非常棒。",
+          "author": "- 平衡专家",
+          "rating": 4
+        },
+        {
+          "title": "上瘾的 Mortholme 玩法",
+          "content": "守护暗黑女王的城堡让人欲罢不能! Mortholme 的随从召唤系统增添了极大的战术深度。",
+          "author": "- 常规玩家",
+          "rating": 5
+        },
+        {
+          "title": "对 Mortholme 褒贬不一",
+          "content": "暗黑女王的城堡很美, 但 Mortholme 中的一些英雄模式过于可预测。需要更多变化。",
+          "author": "- 休闲玩家",
+          "rating": 3
+        },
+        {
+          "title": "Mortholme 战斗的卓越",
+          "content": "暗黑女王的暗影打击和传送组合在 Mortholme 中创造出令人兴奋的时刻。Boss 战做得很棒!",
+          "author": "- 战斗爱好者",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 的良好开端",
+          "content": "暗黑女王的能力基础扎实, 但 Mortholme 需要更多终局内容。城堡防御有些重复。",
+          "author": "- 内容创作者",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme 的视觉魅力",
+          "content": "暗黑女王在 Mortholme 中的领域令人惊叹。暗黑奇幻设定和像素艺术风格完美融合。",
+          "author": "- 像素艺术家",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 的战略深度",
+          "content": "每个英雄都需要针对暗黑女王采取独特策略。Mortholme 的技能库提供了丰富的战术选择。",
+          "author": "- 战术专家",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 界面反馈",
+          "content": "暗黑女王在 Mortholme 中的技能冷却显示可以更清晰, 但核心玩法非常扎实。",
+          "author": "- 用户体验设计师",
+          "rating": 4
+        },
+        {
+          "title": "独特的 Mortholme Boss 战",
+          "content": "扮演暗黑女王很新鲜! Mortholme 的英雄多样性让每次守城都很有趣。",
+          "author": "- Boss 战爱好者",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 的氛围",
+          "content": "暗黑女王城堡的氛围在 Mortholme 中完美呈现。暗黑配乐和技能效果营造出惊人的沉浸感。",
+          "author": "- 音频爱好者",
+          "rating": 5
+        },
+        {
+          "title": "Mortholme 的挑战",
+          "content": "某些英雄组合对暗黑女王来说感觉不太公平。Mortholme 需要更好的难度曲线。",
+          "author": "- 资深玩家",
+          "rating": 3
+        },
+        {
+          "title": "独特的 Mortholme 体验",
+          "content": "暗黑女王在 Mortholme 中的视角提供了新鲜的游戏体验。小bug不影响暗黑奇幻的乐趣。",
+          "author": "- 创新追求者",
+          "rating": 4
+        },
+        {
+          "title": "Mortholme 的成长潜力",
+          "content": "暗黑女王在 Mortholme 中的暗影能力奠定了坚实基础。期待未来的内容更新!",
+          "author": "- 早期玩家",
+          "rating": 4
+        },
+        {
+          "title": "难忘的 Mortholme 冒险",
+          "content": "守护暗黑女王的城堡永远不会腻。每个英雄都带来独特的挑战。",
+          "author": "- 冒险游戏玩家",
+          "rating": 5
+        },
+        {
+          "title": "值得一试的 Mortholme",
+          "content": "尽管有一些平衡性问题, 暗黑女王 Mortholme 为 Boss 战提供了独特视角。必试的暗黑奇幻体验。",
+          "author": "- 类型专家",
+          "rating": 4
+        }
+      ]
     },
     "latest_codes": {
       "title": "Cookie Clicker 最新更新",
@@ -128,34 +261,34 @@
     } 
   },
   "category": {
-    "meta_title": "Steam Cookie Clicker 游戏指南",
-    "meta_description": "查找所有必要的 Steam Cookie Clicker 游戏指南, 提升您的游戏体验",
+    "meta_title": "Mortholme 游戏指南",
+    "meta_description": "查找所有必要的 Mortholme 游戏指南和策略, 提升您的游戏体验",
     "homeBtn": "首页",
     "categoryBtn": "游戏",
-    "h1": "Steam Cookie Clicker 游戏指南",
-    "h2": "在这里找到您需要的所有 Cookie Clicker 指南",
-    "h2description": "所有 Cookie Clicker 指南按类别排序"
+    "h1": "Mortholme 游戏指南",
+    "h2": "在这里找到您需要的所有 Mortholme 指南",
+    "h2description": "所有 Mortholme 指南按类别排序"
   },
   "article": {
-    "meta_title": "文章 - Steam Cookie Clicker",
-    "meta_description": "探索我们收集的关于 Steam Cookie Clicker 游戏指南和技巧的文章",
+    "meta_title": "文章 - Mortholme",
+    "meta_description": "探索我们收集的关于 Mortholme 策略和技巧的文章",
     "h1": "文章",
-    "h2": "发现有用的 Cookie Clicker 指南和资源",
+    "h2": "发现有用的 Mortholme 指南和资源",
     "homeBtn": "首页",
     "articleBtn": "文章",
     "backToArticles": "返回文章列表"
   },
   "changelog": {
-    "meta_title": "更新日志 - Steam Cookie Clicker",
-    "meta_description": "及时了解 steamcookieclicker.com 的最新更新",
+    "meta_title": "更新日志 - Mortholme",
+    "meta_description": "及时了解 Mortholme 的最新更新",
     "h1": "更新日志",
-    "h2": "及时了解 Steam Cookie Clicker 的最新更新",
+    "h2": "及时了解 Mortholme 的最新更新",
     "homeBtn": "首页",
     "changelogBtn": "更新日志"
   },
   "tools": {
-    "meta_description": "查找所有必要的 Cookie Clicker 指南和技巧, 提升您的游戏体验",
-    "h2_1": "所有与 Cookie Clicker 相关的指南",
+    "meta_description": "查找所有必要的 Mortholme 指南和工具, 提升您的游戏体验",
+    "h2_1": "所有与 Mortholme 相关的指南",
     "h2_2": "",
     "homeBtn": "首页"
   },
@@ -170,22 +303,22 @@
     "homeBtn": "首页",
     "categoryBtn": "游戏",
     "moreCategoryBtn": "更多",
-    "moreCategoryDescription": "更多游戏指南",
+    "moreCategoryDescription": "更多游戏功能",
     "articleBtn": "文章",
-    "articleDescription": "您的 Steam Cookie Clicker 终极指南 - 技巧、攻略和成就",
-    "cheatGuideArticle": "Cookie Clicker 作弊指南",
-    "cheatGuideDescription": "学习如何使用开发者控制台和作弊代码",
-    "achievementsArticle": "Steam Cookie Clicker 成就指南",
-    "achievementsDescription": "解锁所有 Steam Cookie Clicker 成就的完整指南",
+    "articleDescription": "你的 Mortholme 终极指南 - 策略、能力和游戏玩法",
+    "featuredArticle1": "暗黑女王能力指南",
+    "featuredArticle1Description": "掌握暗黑女王的六种独特能力",
+    "featuredArticle2": "Boss 战斗策略",
+    "featuredArticle2Description": "学习击败具有挑战性英雄的高级策略",
     "moreArticleBtn": "更多文章",
-    "moreArticleDescription": "浏览所有关于 Cookie Clicker 的文章",
+    "moreArticleDescription": "浏览所有关于 Mortholme 的文章",
     "changelogBtn": "更新日志"
   },
   "footer": {
-    "description": "您的 Steam Cookie Clicker 终极指南 - 技巧、攻略、成就等",
+    "description": "你的 Mortholme 终极指南 - 策略、能力和暗黑奇幻冒险",
     "quickLinks": "快速链接",
     "home": "首页",
-    "game": "玩游戏",
+    "game": "开始游戏",
     "article": "文章",
     "changelog": "更新日志",
     "privacy": "隐私政策",
@@ -200,14 +333,47 @@
     "tools": ""
   },
   "articleList": {
-    "h2": "Cookie Clicker 博客",
+    "h2": "最新博客",
     "moreArticles": "更多文章",
     "viewAllBlogs": "查看所有博客 →"
   },
   "meta": {
-    "og_title": "Steam Cookie Clicker | 开启你的饼干帝国",
-    "og_description": "在 Steam 上玩 Cookie Clicker - 终极放置游戏。开始你的饼干帝国, 解锁成就, 成为终极饼干大师。每日更新指南!",
-    "twitter_title": "Steam Cookie Clicker | 开启饼干帝国",
-    "twitter_description": "发现 Steam Cookie Clicker 的终极游戏体验。每日更新!"
+    "og_title": "Mortholme | 暗黑女王的挑战",
+    "og_description": "在这款独特的反向 Boss 战斗冒险中扮演暗黑女王。开始你的黑暗统治, 掌握强大能力, 成为终极 Boss。每日更新!",
+    "twitter_title": "Mortholme | 暗黑统治",
+    "twitter_description": "发现终极 Mortholme 游戏体验。每日更新!"
+  },
+  "blog": {
+    "title": "Mortholme 博客",
+    "subtitle": "最新游戏资讯与攻略",
+    "featured": {
+      "title1": "Mortholme中的战略决策: 如何赢得战争",
+      "description1": "本文探讨了在《Mortholme》中做出关键战略决策的技巧与方法, 帮助玩家在复杂的战斗中占据优势。",
+      "title2": "Mortholme游戏社区: 与玩家互动, 分享经验",
+      "description2": "探索Mortholme游戏社区的互动文化, 了解玩家如何在平台上分享心得、策略和游戏经验, 以提高游戏技巧并开建立更紧密的社区关系。",
+      "title3": "Mortholme角色大全: 每个角色的能力与发展",
+      "description3": "探索《Mortholme》中每个角色的背景、能力与发展路径, 帮助玩家充分理解如何运用不同角色的优势在游戏中获得胜利。"
+    },
+    "viewAll": "查看所有博客文章 →",
+    "readMore": "阅读更多",
+    "latestPosts": "最新文章",
+    "categories": {
+      "strategy": "战略指南",
+      "community": "社区动态",
+      "updates": "游戏更新",
+      "tips": "游戏技巧"
+    }
+  },
+  "articles": {
+    "charactersGuide": "角色大全",
+    "charactersGuideDesc": "了解每个角色的能力与发展",
+    "darkQueenStory": "暗黑女王的故事",
+    "darkQueenStoryDesc": "探索暗黑女王的背景故事",
+    "gameGuide": "游戏攻略与技巧",
+    "gameGuideDesc": "全面的游戏指南和游戏技巧",
+    "strategyDecisions": "战略与决策",
+    "strategyDecisionsDesc": "掌握战略决策赢得胜利",
+    "communityGuide": "社区指南",
+    "communityGuideDesc": "与玩家互动，分享经验"
   }
 }
