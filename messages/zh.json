@@ -1,237 +1,237 @@
 {
   "home": {
-    "meta_title": "Mortholme - 暗黑女王的挑战",
-    "meta_description": "扮演暗黑女王, 抵御不屈不挠的英雄, 在这款独特的反向 Boss 战斗冒险中探索你的力量深度。",
-    "h1": "Mortholme",
-    "h2": "开启你的暗黑统治之旅",
-    "intro": "在这款独特的反向 Boss 战斗游戏中, 你将扮演暗黑女王角色。以下是游戏的主要特点:",
+    "meta_title": "Hapunan - 菲律宾恐怖游戏体验",
+    "meta_description": "步入 Hapunan 的世界, 一款受菲律宾民间传说启发的恐怖游戏. 面对超自然实体, 在黑夜中生存.",
+    "h1": "Hapunan",
+    "h2": "开启您的恐怖冒险之旅",
+    "intro": "在这款令人毛骨悚然的恐怖游戏中, 您将探索菲律宾民间传说中的神秘世界. 以下是主要特点:",
     "cookie_clicker": {
-      "title": "Mortholme",
-      "subtitle": "踏入暗黑女王的阴影领域",
-      "description": "扮演暗黑女王, 抵御不屈不挠的英雄, 在这款独特的反向 Boss 战斗冒险中探索你的力量深度。",
-      "start_button": "免费开始游戏"
+      "title": "Hapunan",
+      "subtitle": "惊悚的游戏冒险",
+      "description": "步入 Hapunan 的沉浸式世界, 在这里恐怖与刺激交织.",
+      "start_button": "开始游戏"
     },
     "features": {
-      "title": "沉浸在 Mortholme 的黑暗领域",
-      "subtitle": "探索 Mortholme 令人着迷的特色, 体验终极反派冒险。在这个充满力量、策略和史诗级 Boss 战的黑暗世界中展开冒险。",
+      "title": "释放 Hapunan 的力量",
+      "subtitle": "体验这款终极恐怖游戏的令人兴奋的特色",
       "item1": {
-        "title": "反向 Boss 战斗",
-        "description": "从 Boss 视角体验游戏, 抵御挑战你统治的英雄。",
-        "button": "立即免费开始"
+        "title": "动态游戏玩法",
+        "description": "体验快节奏的动作, 战略性的战斗和不断演变的挑战.",
+        "button": "了解更多"
       },
       "item2": {
-        "title": "动态叙事",
-        "description": "参与一个探索力量、坚持和改变主题的引人入胜故事, 由你的选择影响剧情走向。",
-        "button": "立即免费开始"
+        "title": "竞技多人模式",
+        "description": "与全球玩家一较高下, 攀登排行榜争夺胜利.",
+        "button": "立即加入"
       },
       "item3": {
-        "title": "氛围像素艺术",
-        "description": "通过精致的像素艺术和令人毛骨悚然的配乐, 沉浸在栩栩如生的暗黑奇幻世界中。",
-        "button": "立即免费开始"
+        "title": "自定义与升级",
+        "description": "强化你的角色, 解锁强大能力, 打造个性化的游戏体验.",
+        "button": "探索"
       }
     },
     "abilities": {
-      "title": "暗黑女王的力量军火库",
-      "subtitle": "掌握一系列毁灭性能力, 抵御英雄入侵, 守护你的领域",
+      "title": "掌握 Hapunan 中的技能",
+      "subtitle": "发现并精通各种强大的能力",
       "item1": {
-        "title": "暗影打击",
-        "description": "从暗影中发起迅猛攻击, 让英雄措手不及并造成巨大伤害。"
+        "title": "精准战斗",
+        "description": "在快节奏的战斗中掌握精确的攻击和战略防御."
       },
       "item2": {
-        "title": "黑暗光环",
-        "description": "释放黑暗光环削弱附近的英雄, 降低他们的攻击力和意志。"
+        "title": "潜行战术",
+        "description": "利用环境优势, 智取对手."
       },
       "item3": {
-        "title": "召唤随从",
-        "description": "召唤忠诚的随从协助战斗, 用数量和策略压倒英雄。"
+        "title": "资源管理",
+        "description": "优化你的物品栏, 为长期成功做出战略选择."
       },
       "item4": {
-        "title": "瞬间移动",
-        "description": "在你的巢穴中瞬间移动, 躲避攻击并寻找反击时机。"
+        "title": "技能进阶",
+        "description": "升级并增强你的能力以获得竞争优势."
       },
       "item5": {
-        "title": "生命汲取",
-        "description": "吸取英雄的生命力来治愈你的伤口, 将他们的力量转化为你的优势。"
+        "title": "高级武器",
+        "description": "解锁并定制强大的武器以适应你的游戏风格."
       },
       "item6": {
-        "title": "恐惧诱导",
-        "description": "在英雄心中植入恐惧, 使他们犹豫或逃跑, 让你占据上风。"
+        "title": "团队协作",
+        "description": "与你的团队沟通和制定策略, 主宰战场."
       }
     },
     "cta": {
-      "title": "准备好捍卫你的王座了吗?",
-      "description": "接受你作为暗黑女王的角色, 掌握你的力量, 面对那些胆敢挑战你的英雄。现在就开始你的统治!",
+      "title": "准备加入冒险了吗?",
+      "description": "步入 Hapunan 的沉浸式世界, 体验战略游戏的刺激. 今天就开始你的旅程!",
       "button": "立即开始"
     },
     "faq": {
-      "title": "常见问题",
+      "title": "Hapunan 常见问题",
       "item1": {
         "question": "如何开始游戏?",
-        "answer": "点击\"立即开始\"按钮, 注册账号, 然后沉浸在 Mortholme 的世界中。"
+        "answer": "点击\"开始游戏\"按钮进入游戏并开始你的冒险."
       },
       "item2": {
-        "question": "游戏是免费的吗?",
-        "answer": "是的, Mortholme 完全免费, 为所有玩家提供完整而有趣的体验。"
+        "question": "Hapunan 是免费的吗?",
+        "answer": "是的, Hapunan 完全免费, 有可选的游戏内购买项目."
       },
       "item3": {
-        "question": "是否有多人游戏模式?",
-        "answer": "目前, 游戏专注于单人叙事。未来的更新可能会引入合作多人模式。"
+        "question": "我可以和朋友一起玩吗?",
+        "answer": "当然可以! 加入多人对战并与朋友组队进行合作游戏."
       },
       "item4": {
-        "question": "我可以保存进度吗?",
-        "answer": "是的, 游戏会自动保存你的进度, 让你可以从上次离开的地方继续。"
+        "question": "Hapunan 支持哪些平台?",
+        "answer": "Hapunan 可在 PC, Mac 和移动设备上使用."
       },
       "item5": {
-        "question": "支持哪些平台?",
-        "answer": "Mortholme 可在 PC 和 Mac 上运行。未来更新可能会引入移动端支持。"
+        "question": "如何提高我的技能?",
+        "answer": "在单人模式中练习, 观看教程, 尝试不同的策略."
       }
     },
     "reviews": {
-      "title": "玩家评价",
-      "subtitle": "看看玩家们对暗黑女王 Mortholme 的评价",
+      "title": "玩家评论",
+      "subtitle": "看看玩家们如何评价 Hapunan",
       "items": [
         {
-          "title": "暗黑女王体验",
-          "content": "扮演 Mortholme 的暗黑女王令人耳目一新。游戏中的暗影能力设计精良, 但是有些冷却时间稍长。",
-          "author": "- 暗黑奇幻爱好者",
+          "title": "Hapunan 的战斗系统",
+          "content": "Hapunan 的战斗机制非常流畅. 战略规划和实时动作的结合创造出引人入胜的体验.",
+          "author": "- 策略游戏玩家",
+          "rating": 5
+        },
+        {
+          "title": "多人游戏体验",
+          "content": "和朋友一起玩 Hapunan 非常有趣! Hapunan 的团队协作功能让每场比赛都独特而刺激.",
+          "author": "- 多人游戏爱好者",
           "rating": 4
         },
         {
-          "title": "Mortholme 需要更多内容",
-          "content": "暗黑女王在 Mortholme 中的技能组很有潜力, 但英雄类型需要更多变化。目前的阵容有些可预测。",
-          "author": "- RPG 老玩家",
-          "rating": 3
-        },
-        {
-          "title": "Mortholme 的氛围",
-          "content": "Mortholme 中暗黑女王的城堡和令人毛骨悚然的配乐营造出完美的沉浸感。哥特式氛围令人惊叹!",
+          "title": "Hapunan 的画面",
+          "content": "Hapunan 的视觉设计令人惊叹. 每张地图和角色都精心打造, 细节丰富.",
           "author": "- 艺术爱好者",
           "rating": 5
         },
         {
-          "title": "Mortholme 的战略深度",
-          "content": "作为暗黑女王, 每个英雄都需要不同的战术。暗影打击配合随从支援让 Mortholme 战斗极具吸引力。",
-          "author": "- 战略大师",
+          "title": "战略深度",
+          "content": "Hapunan 提供了令人难以置信的战略深度. 多样的战术和方法让我一直保持兴趣.",
+          "author": "- 战术玩家",
           "rating": 5
         },
         {
-          "title": "Mortholme 的平衡性",
-          "content": "暗黑女王在 Mortholme 中的生命汲取能力需要加强。某些英雄组合几乎无法战胜。",
-          "author": "- 硬核玩家",
-          "rating": 3
-        },
-        {
-          "title": "Mortholme 的剧情",
-          "content": "暗黑女王在 Mortholme 中的旅程通过游戏玩法完美展现。每个英雄都为挑战带来独特故事。",
-          "author": "- 剧情控",
-          "rating": 5
-        },
-        {
-          "title": "创新的 Mortholme 机制",
-          "content": "Mortholme 中的恐惧系统为暗黑女王的技能库增添了深度。很喜欢它如何影响城堡中英雄的行为。",
-          "author": "- 游戏设计师",
+          "title": "学习曲线",
+          "content": "虽然 Hapunan 有一定的学习曲线, 但其教程系统让新手也能轻松上手.",
+          "author": "- 新手玩家",
           "rating": 4
         },
         {
-          "title": "Mortholme 的潜力",
-          "content": "暗黑女王在 Mortholme 中的传送有点生硬, 但守卫城堡的核心玩法很扎实。",
-          "author": "- 测试玩家",
-          "rating": 3
-        },
-        {
-          "title": "完美的 Mortholme 挑战",
-          "content": "暗黑女王从面对弱小英雄到传奇勇士的旅程节奏把握得恰到好处。",
-          "author": "- 挑战追求者",
-          "rating": 5
-        },
-        {
-          "title": "暗黑女王的力量",
-          "content": "Mortholme 的黑暗光环需要改进, 但整体扮演暗黑女王的体验非常棒。",
-          "author": "- 平衡专家",
+          "title": "游戏平衡",
+          "content": "Hapunan 的平衡性维护得很好. 每种策略都有其克制方法, 使比赛公平且富有竞争性.",
+          "author": "- 竞技玩家",
           "rating": 4
         },
         {
-          "title": "上瘾的 Mortholme 玩法",
-          "content": "守护暗黑女王的城堡让人欲罢不能! Mortholme 的随从召唤系统增添了极大的战术深度。",
-          "author": "- 常规玩家",
+          "title": "Hapunan 社区",
+          "content": "Hapunan 社区非常友好. 老玩家会帮助新人学习游戏机制和策略.",
+          "author": "- 社区成员",
           "rating": 5
         },
         {
-          "title": "对 Mortholme 褒贬不一",
-          "content": "暗黑女王的城堡很美, 但 Mortholme 中的一些英雄模式过于可预测。需要更多变化。",
-          "author": "- 休闲玩家",
-          "rating": 3
-        },
-        {
-          "title": "Mortholme 战斗的卓越",
-          "content": "暗黑女王的暗影打击和传送组合在 Mortholme 中创造出令人兴奋的时刻。Boss 战做得很棒!",
-          "author": "- 战斗爱好者",
-          "rating": 5
-        },
-        {
-          "title": "Mortholme 的良好开端",
-          "content": "暗黑女王的能力基础扎实, 但 Mortholme 需要更多终局内容。城堡防御有些重复。",
-          "author": "- 内容创作者",
+          "title": "定期更新",
+          "content": "开发团队通过定期更新保持 Hapunan 的新鲜感. 每次更新都带来令人兴奋的新内容.",
+          "author": "- 老玩家",
           "rating": 4
         },
         {
-          "title": "Mortholme 的视觉魅力",
-          "content": "暗黑女王在 Mortholme 中的领域令人惊叹。暗黑奇幻设定和像素艺术风格完美融合。",
-          "author": "- 像素艺术家",
+          "title": "Hapunan 的定制化",
+          "content": "Hapunan 的定制选项非常丰富. 你可以真正打造属于自己的独特角色.",
+          "author": "- 创意玩家",
           "rating": 5
         },
         {
-          "title": "Mortholme 的战略深度",
-          "content": "每个英雄都需要针对暗黑女王采取独特策略。Mortholme 的技能库提供了丰富的战术选择。",
-          "author": "- 战术专家",
+          "title": "性能表现",
+          "content": "Hapunan 即使在老旧系统上也能流畅运行. 游戏的优化令人印象深刻.",
+          "author": "- 技术爱好者",
           "rating": 5
         },
         {
-          "title": "Mortholme 界面反馈",
-          "content": "暗黑女王在 Mortholme 中的技能冷却显示可以更清晰, 但核心玩法非常扎实。",
+          "title": "Hapunan 的声音设计",
+          "content": "Hapunan 的音效令人惊叹. 每个技能和动作都有令人满意的声音反馈.",
+          "author": "- 音效爱好者",
+          "rating": 5
+        },
+        {
+          "title": "竞技场景",
+          "content": "Hapunan 的竞技场景发展迅速. 排位系统设计得很好.",
+          "author": "- 电竞选手",
+          "rating": 4
+        },
+        {
+          "title": "Hapunan 的团队配合",
+          "content": "团队机制非常出色. 与队友的配合能创造难忘的时刻.",
+          "author": "- 团队玩家",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan 的创新",
+          "content": "Hapunan 为这个游戏类型带来了新鲜理念. 独特的机制使其与其他游戏与众不同.",
+          "author": "- 游戏发烧友",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan 的进阶系统",
+          "content": "进阶系统非常有成就感. 每个里程碑都让人感到真实的进步.",
+          "author": "- 成就猎人",
+          "rating": 4
+        },
+        {
+          "title": "Hapunan 的地图设计",
+          "content": "地图在战略上非常复杂. 每个位置都提供独特的战术机会.",
+          "author": "- 地图战略家",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan 的社交功能",
+          "content": "社交功能设计得很好. 找到并与朋友一起游戏非常流畅.",
+          "author": "- 社交玩家",
+          "rating": 4
+        },
+        {
+          "title": "Hapunan 的重玩价值",
+          "content": "游戏有着令人难以置信的重玩价值. 每场比赛都带来新的挑战和体验.",
+          "author": "- 忠实玩家",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan 的角色设计",
+          "content": "角色设计独特且令人印象深刻. 每个英雄都有自己独特的风格.",
+          "author": "- 角色粉丝",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan 的技能上限",
+          "content": "技能上限令人印象深刻. 掌握游戏机制是一段值得的旅程.",
+          "author": "- 职业玩家",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan 的界面设计",
+          "content": "用户界面非常直观. 菜单导航流畅自然.",
           "author": "- 用户体验设计师",
           "rating": 4
         },
         {
-          "title": "独特的 Mortholme Boss 战",
-          "content": "扮演暗黑女王很新鲜! Mortholme 的英雄多样性让每次守城都很有趣。",
-          "author": "- Boss 战爱好者",
+          "title": "Hapunan 的成就系统",
+          "content": "成就系统设计周到. 完成挑战总是令人兴奋.",
+          "author": "- 完美主义者",
           "rating": 5
         },
         {
-          "title": "Mortholme 的氛围",
-          "content": "暗黑女王城堡的氛围在 Mortholme 中完美呈现。暗黑配乐和技能效果营造出惊人的沉浸感。",
-          "author": "- 音频爱好者",
+          "title": "Hapunan 的电竞场景",
+          "content": "电竞场景蓬勃发展. 观看职业比赛非常有趣.",
+          "author": "- 电竞粉丝",
           "rating": 5
         },
         {
-          "title": "Mortholme 的挑战",
-          "content": "某些英雄组合对暗黑女王来说感觉不太公平。Mortholme 需要更好的难度曲线。",
-          "author": "- 资深玩家",
-          "rating": 3
-        },
-        {
-          "title": "独特的 Mortholme 体验",
-          "content": "暗黑女王在 Mortholme 中的视角提供了新鲜的游戏体验。小bug不影响暗黑奇幻的乐趣。",
-          "author": "- 创新追求者",
-          "rating": 4
-        },
-        {
-          "title": "Mortholme 的成长潜力",
-          "content": "暗黑女王在 Mortholme 中的暗影能力奠定了坚实基础。期待未来的内容更新!",
-          "author": "- 早期玩家",
-          "rating": 4
-        },
-        {
-          "title": "难忘的 Mortholme 冒险",
-          "content": "守护暗黑女王的城堡永远不会腻。每个英雄都带来独特的挑战。",
-          "author": "- 冒险游戏玩家",
-          "rating": 5
-        },
-        {
-          "title": "值得一试的 Mortholme",
-          "content": "尽管有一些平衡性问题, 暗黑女王 Mortholme 为 Boss 战提供了独特视角。必试的暗黑奇幻体验。",
-          "author": "- 类型专家",
+          "title": "Hapunan 的服务器性能",
+          "content": "服务器性能稳如磐石. 在线游戏体验始终流畅.",
+          "author": "- 网络爱好者",
           "rating": 4
         }
       ]
@@ -261,39 +261,39 @@
     } 
   },
   "category": {
-    "meta_title": "Mortholme 游戏指南",
-    "meta_description": "查找所有必要的 Mortholme 游戏指南和策略, 提升您的游戏体验",
+    "meta_title": "Hapunan 游戏指南",
+    "meta_description": "查找所有必要的 Hapunan 指南和策略, 提升您的游戏体验",
     "homeBtn": "首页",
     "categoryBtn": "游戏",
-    "h1": "Mortholme 游戏指南",
-    "h2": "在这里找到您需要的所有 Mortholme 指南",
-    "h2description": "所有 Mortholme 指南按类别排序"
+    "h1": "Hapunan 游戏指南",
+    "h2": "在这里找到您需要的所有 Hapunan 指南",
+    "h2description": "所有 Hapunan 指南按类别分类"
   },
   "article": {
-    "meta_title": "文章 - Mortholme",
-    "meta_description": "探索我们收集的关于 Mortholme 策略和技巧的文章",
+    "meta_title": "文章 - Hapunan",
+    "meta_description": "探索我们关于 Hapunan 策略和技巧的文章集合",
     "h1": "文章",
-    "h2": "发现有用的 Mortholme 指南和资源",
+    "h2": "发现有用的 Hapunan 指南和资源",
     "homeBtn": "首页",
     "articleBtn": "文章",
     "backToArticles": "返回文章列表"
   },
   "changelog": {
-    "meta_title": "更新日志 - Mortholme",
-    "meta_description": "及时了解 Mortholme 的最新更新",
+    "meta_title": "更新日志 - Hapunan",
+    "meta_description": "及时了解 hapunan.me 的最新更新",
     "h1": "更新日志",
-    "h2": "及时了解 Mortholme 的最新更新",
+    "h2": "了解 Hapunan 的最新更新动态",
     "homeBtn": "首页",
     "changelogBtn": "更新日志"
   },
   "tools": {
-    "meta_description": "查找所有必要的 Mortholme 指南和工具, 提升您的游戏体验",
-    "h2_1": "所有与 Mortholme 相关的指南",
+    "meta_description": "查找所有必要的 Hapunan 指南和工具, 提升您的游戏体验",
+    "h2_1": "所有与 Hapunan 相关的指南",
     "h2_2": "",
     "homeBtn": "首页"
   },
   "search": {
-    "input_placeholder": "按名称/标签搜索...",
+    "input_placeholder": "按名称/标签搜索工具...",
     "heading": "建议",
     "more": "更多",
     "button": "搜索",
@@ -303,19 +303,21 @@
     "homeBtn": "首页",
     "categoryBtn": "游戏",
     "moreCategoryBtn": "更多",
-    "moreCategoryDescription": "更多游戏功能",
+    "moreCategoryDescription": "更多游戏特色",
     "articleBtn": "文章",
-    "articleDescription": "你的 Mortholme 终极指南 - 策略、能力和游戏玩法",
-    "featuredArticle1": "暗黑女王能力指南",
-    "featuredArticle1Description": "掌握暗黑女王的六种独特能力",
-    "featuredArticle2": "Boss 战斗策略",
-    "featuredArticle2Description": "学习击败具有挑战性英雄的高级策略",
+    "articleDescription": "通过我们全面的指南和故事探索 Hapunan 的世界",
+    "articles": {
+      "charactersGuide": "Hapunan 游戏概览",
+      "charactersGuideDesc": "深入了解这款受菲律宾民间传说启发的恐怖游戏",
+      "darkQueenStory": "Hapunan 生存指南",
+      "darkQueenStoryDesc": "掌握 Hapunan 挑战的基本生存策略"
+    },
     "moreArticleBtn": "更多文章",
-    "moreArticleDescription": "浏览所有关于 Mortholme 的文章",
+    "moreArticleDescription": "点击这里发现更多关于 Hapunan 的文章",
     "changelogBtn": "更新日志"
   },
   "footer": {
-    "description": "你的 Mortholme 终极指南 - 策略、能力和暗黑奇幻冒险",
+    "description": "您的终极 Hapunan 指南 - 一款受菲律宾民间传说启发的惊悚恐怖游戏",
     "quickLinks": "快速链接",
     "home": "首页",
     "game": "开始游戏",
@@ -338,10 +340,10 @@
     "viewAllBlogs": "查看所有博客 →"
   },
   "meta": {
-    "og_title": "Mortholme | 暗黑女王的挑战",
-    "og_description": "在这款独特的反向 Boss 战斗冒险中扮演暗黑女王。开始你的黑暗统治, 掌握强大能力, 成为终极 Boss。每日更新!",
-    "twitter_title": "Mortholme | 暗黑统治",
-    "twitter_description": "发现终极 Mortholme 游戏体验。每日更新!"
+    "og_title": "Hapunan | 菲律宾恐怖游戏",
+    "og_description": "体验 Hapunan - 一款受菲律宾民间传说启发的惊悚恐怖游戏. 探索超自然元素, 在黑夜中生存, 揭开黑暗秘密.",
+    "twitter_title": "Hapunan | 恐怖游戏",
+    "twitter_description": "探索 Hapunan 的恐怖世界. 每日更新!"
   },
   "blog": {
     "title": "Mortholme 博客",
@@ -365,15 +367,15 @@
     }
   },
   "articles": {
-    "charactersGuide": "角色大全",
-    "charactersGuideDesc": "了解每个角色的能力与发展",
-    "darkQueenStory": "暗黑女王的故事",
-    "darkQueenStoryDesc": "探索暗黑女王的背景故事",
-    "gameGuide": "游戏攻略与技巧",
+    "charactersGuide": "角色指南",
+    "charactersGuideDesc": "了解每个角色的能力和发展",
+    "darkQueenStory": "黑暗女王的故事",
+    "darkQueenStoryDesc": "探索黑暗女王的故事",
+    "gameGuide": "游戏指南与技巧",
     "gameGuideDesc": "全面的游戏指南和游戏技巧",
-    "strategyDecisions": "战略与决策",
-    "strategyDecisionsDesc": "掌握战略决策赢得胜利",
+    "strategyDecisions": "策略与决策",
+    "strategyDecisionsDesc": "掌握制胜的战略决策",
     "communityGuide": "社区指南",
-    "communityGuideDesc": "与玩家互动，分享经验"
+    "communityGuideDesc": "与玩家互动并分享经验"
   }
 }

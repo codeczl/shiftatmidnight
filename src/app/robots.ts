@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = 'https://mortholme.com';
+const BASE_URL = 'https://hapunan.me';
 
 export default function robots(): MetadataRoute.Robots {
   return {
@@ -9,6 +9,8 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: "*",
         allow: [
           "/",
+          "/zh",
+          "/en",
           "/game/*", 
           "/article/*", 
           "/changelog",
@@ -19,7 +21,10 @@ export default function robots(): MetadataRoute.Robots {
           "/api/*", 
           "/admin/*",
           "/_next/*",
-          "/socket.io/*"
+          "/socket.io/*",
+          "/*.json$",
+          "/*.js$",
+          "/debug/*"
         ]
       }
     ],

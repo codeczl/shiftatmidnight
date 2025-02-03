@@ -15,7 +15,7 @@ export function Footer() {
           <div className='flex flex-col justify-center items-center lg:items-start lg:justify-start'>
             <h3 className="text-sm font-bold tracking-normal">
               <Link href="/" className="flex items-center space-x-2">
-                <span className="inline-block font-bold">Mortholme</span>
+                <span className="inline-block font-bold">Hapunan</span>
               </Link>
             </h3>
             <p className="mt-4 text-xs">
@@ -66,7 +66,7 @@ export function Footer() {
             <h3 className="text-sm font-semibold tracking-wider uppercase">{t('connect')}</h3>
             <ul className="mt-4 space-y-4">
               <li>
-                <Link href="mailto:support@mortholme.com" className="text-base">
+                <Link href="mailto:support@hapunan.me" className="text-base">
                   {t('support')}
                 </Link>
               </li>
@@ -75,7 +75,7 @@ export function Footer() {
         </div>
         <div className="mt-8 border-t pt-8">
           <p className="text-base text-center">
-            &copy; {new Date().getFullYear()} mortholme.com. {t('copyright')}
+            &copy; {new Date().getFullYear()} hapunan.me. {t('copyright')}
           </p>
         </div>
       </div>

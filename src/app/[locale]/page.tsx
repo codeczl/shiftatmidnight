@@ -84,7 +84,7 @@ export default async function Home() {
                   {t("cookie_clicker.description")}
                 </p>
                 <a 
-                  href="https://qwertyprophecy.itch.io/mortholme" 
+                  href="https://yikon.itch.io/hapunan"
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-block px-8 py-4 bg-blue-600 text-white text-xl font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200"
@@ -122,7 +122,7 @@ export default async function Home() {
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item1.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item1.description")}</p>
                 <a 
-                  href="https://qwertyprophecy.itch.io/mortholme"
+                  href="https://yikon.itch.io/hapunan"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -146,7 +146,7 @@ export default async function Home() {
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item2.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item2.description")}</p>
                 <a 
-                  href="https://qwertyprophecy.itch.io/mortholme"
+                  href="https://yikon.itch.io/hapunan"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -170,7 +170,7 @@ export default async function Home() {
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item3.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item3.description")}</p>
                 <a 
-                  href="https://qwertyprophecy.itch.io/mortholme"
+                  href="https://yikon.itch.io/hapunan"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -245,7 +245,7 @@ export default async function Home() {
                 <h2 className="text-4xl lg:text-5xl font-bold mb-6">{t("cta.title")}</h2>
                 <p className="text-lg text-gray-300 mb-8">{t("cta.description")}</p>
                 <a 
-                  href="https://qwertyprophecy.itch.io/mortholme"
+                  href="https://yikon.itch.io/hapunan"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-8 py-4 bg-white text-gray-900 rounded-lg hover:bg-gray-100 transition-colors font-medium"

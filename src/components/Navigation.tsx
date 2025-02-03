@@ -116,10 +116,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
               className="block"
               width={30}
               height={30}
-              alt="Mortholme"
+              alt="Hapunan"
               priority
             />
-            <span className="inline-block font-bold">Mortholme</span>
+            <span className="inline-block font-bold">Hapunan</span>
           </Link>
 
           {/* 桌面端导航菜单 */}

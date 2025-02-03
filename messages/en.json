@@ -1,7 +1,7 @@
 {
   "home": {
-    "meta_title": "Mortholme - Embrace the Dark Queen's Challenge",
-    "meta_description": "Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.",
+    "meta_title": "Hapunan - A Filipino Horror Game Experience",
+    "meta_description": "Step into the world of Hapunan, a terrifying horror game inspired by Filipino folklore. Face supernatural entities and survive through the night.",
     "h1": "Steam Cookie Clicker",
     "h2": "Start Your Cookie Empire Journey",
     "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
@@ -29,266 +29,266 @@
       "conclusion": "With these tips, you'll be a cookie master in no time!"
     },
     "cookie_clicker": {
-      "title": "Mortholme",
-      "subtitle": "Step into the Shadows of the Dark Queen's Realm",
-      "description": "Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.",
-      "start_button": "Play Free Now"
+      "title": "Hapunan",
+      "subtitle": "A Thrilling Gaming Adventure",
+      "description": "Step into the immersive world of Hapunan, where strategy meets excitement.",
+      "start_button": "Start Playing"
     },
     "features": {
-      "title": "Immerse Yourself in the Dark Realm of Mortholme",
-      "subtitle": "Discover the captivating features of Mortholme, the ultimate villain experience. Explore a dark world filled with power, strategy, and epic boss battles with friends.",
+      "title": "Unleash the Power of Hapunan",
+      "subtitle": "Experience the ultimate gaming adventure with these exciting features",
       "item1": {
-        "title": "Reverse Boss Battles",
-        "description": "Experience the game from the boss's perspective, defending against heroes who challenge your dominion.",
-        "button": "Start For Free Now"
+        "title": "Dynamic Gameplay",
+        "description": "Experience fast-paced action, strategic battles, and ever-evolving challenges that keep you engaged.",
+        "button": "Learn More"
       },
       "item2": {
-        "title": "Dynamic Narrative",
-        "description": "Engage in a compelling story that explores themes of power, persistence, and change, influenced by your choices.",
-        "button": "Start For Free Now"
+        "title": "Competitive Multiplayer",
+        "description": "Test your skills against players worldwide and climb the leaderboard to claim victory.",
+        "button": "Join Now"
       },
       "item3": {
-        "title": "Atmospheric Pixel Art",
-        "description": "Immerse yourself in a dark fantasy world brought to life with detailed pixel art and a haunting soundtrack.",
-        "button": "Start For Free Now"
+        "title": "Customization & Upgrades",
+        "description": "Enhance your character, unlock powerful abilities, and personalize your gaming experience.",
+        "button": "Explore"
       }
     },
     "abilities": {
-      "title": "Dark Queen's Arsenal of Powers",
-      "subtitle": "Master an array of devastating abilities to defend your domain against heroic invasions",
+      "title": "Master Your Skills in Hapunan",
+      "subtitle": "Discover and master a variety of powerful abilities",
       "item1": {
-        "title": "Shadow Strike",
-        "description": "Unleash a swift attack from the shadows, catching heroes off guard and dealing significant damage."
+        "title": "Precision Combat",
+        "description": "Master accurate attacks and defend strategically in fast-paced battles."
       },
       "item2": {
-        "title": "Dark Aura",
-        "description": "Emit an aura of darkness that weakens nearby heroes, reducing their attack power and resolve."
+        "title": "Stealth Tactics",
+        "description": "Use the environment to your advantage and outmaneuver opponents."
       },
       "item3": {
-        "title": "Summon Minions",
-        "description": "Call forth loyal minions to assist in battle, overwhelming heroes with numbers and strategy."
+        "title": "Resource Management",
+        "description": "Optimize your inventory and make strategic choices for long-term success."
       },
       "item4": {
-        "title": "Teleportation",
-        "description": "Instantly relocate within your lair, evading attacks and positioning yourself for a counterstrike."
+        "title": "Skill Progression",
+        "description": "Level up and enhance your abilities to gain a competitive edge."
       },
       "item5": {
-        "title": "Life Drain",
-        "description": "Drain the life force of heroes to heal your wounds, turning their strength into your advantage."
+        "title": "Advanced Weaponry",
+        "description": "Unlock and customize powerful weapons to suit your playstyle."
       },
       "item6": {
-        "title": "Fear Induction",
-        "description": "Instill fear into the hearts of heroes, causing them to hesitate or flee, giving you the upper hand."
+        "title": "Team Coordination",
+        "description": "Communicate and strategize with your team to dominate the battlefield."
       }
     },
     "cta": {
-      "title": "Are You Ready to Defend Your Throne?",
-      "description": "Embrace your role as the Dark Queen, master your powers, and face the heroes who dare to challenge you. Begin your reign now!",
+      "title": "Ready to Join the Adventure?",
+      "description": "Step into the immersive world of Hapunan and experience the thrill of strategic gaming. Start your journey today!",
       "button": "Play Now"
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Hapunan FAQ",
       "item1": {
-        "question": "How do I start the game?",
-        "answer": "Click the \"Play Now\" button, register an account, and immerse yourself in the world of Mortholme."
+        "question": "How do I start playing?",
+        "answer": "Click the \"Start Playing\" button to enter the game and begin your adventure."
       },
       "item2": {
-        "question": "Is the game free to play?",
-        "answer": "Yes, Mortholme is completely free, offering all players a full and engaging experience."
+        "question": "Is Hapunan free to play?",
+        "answer": "Yes, Hapunan is completely free, with optional in-game purchases available."
       },
       "item3": {
-        "question": "Is multiplayer mode available?",
-        "answer": "Currently, the game focuses on a single-player narrative. Future updates may introduce cooperative multiplayer modes."
+        "question": "Can I play with friends?",
+        "answer": "Yes! Join multiplayer matches and team up with friends for cooperative gameplay."
       },
       "item4": {
-        "question": "Can I save my progress?",
-        "answer": "Yes, the game automatically saves your progress, allowing you to pick up where you left off."
+        "question": "What platforms is Hapunan available on?",
+        "answer": "Hapunan is available on PC, Mac, and mobile devices."
       },
       "item5": {
-        "question": "What platforms are supported?",
-        "answer": "Mortholme is available on PC and Mac. Mobile support may be introduced in future updates."
+        "question": "How do I improve my skills?",
+        "answer": "Practice in solo mode, watch tutorials, and experiment with different strategies."
       }
     },
     "reviews": {
       "title": "Player Reviews",
-      "subtitle": "See what players are saying about The Dark Queen of Mortholme",
+      "subtitle": "See what players are saying about Hapunan",
       "items": [
         {
-          "title": "The Dark Queen Experience",
-          "content": "Playing as the Dark Queen of Mortholme is incredibly refreshing. The shadow abilities in Mortholme are well designed, though some cooldowns feel a bit long.",
-          "author": "- Dark Fantasy Fan",
+          "title": "Hapunan's Combat System",
+          "content": "Hapunan's combat mechanics are incredibly fluid. The combination of strategic planning and real-time action creates an engaging experience.",
+          "author": "- Strategy Gamer",
+          "rating": 5
+        },
+        {
+          "title": "Multiplayer Experience",
+          "content": "Playing Hapunan with friends is a blast! The team coordination features in Hapunan make every match unique and exciting.",
+          "author": "- Multiplayer Fan",
           "rating": 4
         },
         {
-          "title": "Mortholme Needs More Content",
-          "content": "The Dark Queen's arsenal in Mortholme has great potential, but could use more variety in hero types. The current roster gets predictable.",
-          "author": "- RPG Veteran",
-          "rating": 3
-        },
-        {
-          "title": "Mortholme's Atmosphere",
-          "content": "The Dark Queen's castle in Mortholme and its haunting soundtrack create perfect immersion. The gothic atmosphere is incredible!",
+          "title": "Hapunan's Graphics",
+          "content": "The visual design in Hapunan is stunning. Every map and character in Hapunan is beautifully crafted with attention to detail.",
           "author": "- Art Enthusiast",
           "rating": 5
         },
         {
-          "title": "Strategic Depth in Mortholme",
-          "content": "As the Dark Queen, each hero requires different tactics. The shadow strike combo with minion support makes Mortholme truly engaging.",
-          "author": "- Strategy Master",
+          "title": "Strategic Depth",
+          "content": "Hapunan offers incredible strategic depth. The variety of tactics and approaches in Hapunan keeps me coming back for more.",
+          "author": "- Tactical Player",
           "rating": 5
         },
         {
-          "title": "Balancing in Mortholme",
-          "content": "The Dark Queen's life drain ability in Mortholme needs slight buffing. Some hero combinations feel nearly impossible to beat.",
-          "author": "- Hardcore Gamer",
-          "rating": 3
-        },
-        {
-          "title": "Mortholme's Story",
-          "content": "The Dark Queen's journey in Mortholme unfolds beautifully through gameplay. Each hero brings their own tale to challenge your reign.",
-          "author": "- Story Lover",
-          "rating": 5
-        },
-        {
-          "title": "Innovative Mortholme Mechanics",
-          "content": "The fear induction system in Mortholme adds depth to the Dark Queen's arsenal. Love how it affects hero behavior in the castle.",
-          "author": "- Game Designer",
+          "title": "Hapunan's Learning Curve",
+          "content": "While Hapunan has a learning curve, the tutorial system in Hapunan makes it accessible for new players.",
+          "author": "- New Player",
           "rating": 4
         },
         {
-          "title": "Mortholme's Potential",
-          "content": "The Dark Queen's teleportation in Mortholme feels a bit clunky, but the core gameplay of defending your castle is solid.",
-          "author": "- Beta Tester",
-          "rating": 3
-        },
-        {
-          "title": "Perfect Challenge in Mortholme",
-          "content": "The Dark Queen's journey from facing weak heroes to legendary champions in Mortholme is perfectly paced.",
-          "author": "- Challenge Seeker",
-          "rating": 5
-        },
-        {
-          "title": "Dark Queen's Powers",
-          "content": "Mortholme's Dark Aura ability needs work, but the overall power fantasy of being the Dark Queen is amazing.",
-          "author": "- Balance Expert",
+          "title": "Game Balance",
+          "content": "Hapunan's balance is well-maintained. Each strategy in Hapunan has its counters, making matches fair and competitive.",
+          "author": "- Competitive Gamer",
           "rating": 4
         },
         {
-          "title": "Addictive Mortholme Gameplay",
-          "content": "Can't stop defending the Dark Queen's castle! Mortholme's minion summoning system adds great tactical depth.",
-          "author": "- Regular Player",
+          "title": "Hapunan's Community",
+          "content": "The Hapunan community is incredibly welcoming. Veterans help newcomers learn Hapunan's mechanics and strategies.",
+          "author": "- Community Member",
           "rating": 5
         },
         {
-          "title": "Mixed Feelings on Mortholme",
-          "content": "The Dark Queen's castle looks beautiful, but some hero patterns in Mortholme become too predictable. Needs more variety.",
-          "author": "- Casual Gamer",
-          "rating": 3
-        },
-        {
-          "title": "Mortholme Combat Excellence",
-          "content": "The Dark Queen's shadow strike and teleport combinations in Mortholme create exciting moments. Boss fights done right!",
-          "author": "- Combat Enthusiast",
-          "rating": 5
-        },
-        {
-          "title": "Promising Start for Mortholme",
-          "content": "The Dark Queen's abilities have good foundation, but Mortholme needs more endgame content. Castle defense gets repetitive.",
-          "author": "- Content Creator",
+          "title": "Regular Updates",
+          "content": "The developers keep Hapunan fresh with regular updates. Each patch brings exciting new content to Hapunan.",
+          "author": "- Long-time Player",
           "rating": 4
         },
         {
-          "title": "Mortholme's Visual Appeal",
-          "content": "The Dark Queen's realm in Mortholme is stunning. The dark fantasy setting and pixel art style blend perfectly.",
-          "author": "- Pixel Artist",
+          "title": "Hapunan's Customization",
+          "content": "The customization options in Hapunan are extensive. You can truly make your character unique in Hapunan.",
+          "author": "- Creative Player",
           "rating": 5
         },
         {
-          "title": "Strategic Depth of Mortholme",
-          "content": "Each hero requires unique strategies against the Dark Queen. Mortholme's arsenal offers great tactical options.",
-          "author": "- Tactics Expert",
+          "title": "Performance",
+          "content": "Hapunan runs smoothly even on older systems. The optimization in Hapunan is impressive.",
+          "author": "- Tech Enthusiast",
           "rating": 5
         },
         {
-          "title": "Mortholme UI Feedback",
-          "content": "The Dark Queen's ability cooldowns in Mortholme could be clearer, but the core gameplay is incredibly solid.",
+          "title": "Hapunan's Sound Design",
+          "content": "The audio in Hapunan is phenomenal. Every ability and action in Hapunan has satisfying sound feedback.",
+          "author": "- Audio Fan",
+          "rating": 5
+        },
+        {
+          "title": "Competitive Scene",
+          "content": "Hapunan's competitive scene is growing fast. The ranked system in Hapunan is well-implemented.",
+          "author": "- Esports Player",
+          "rating": 4
+        },
+        {
+          "title": "Hapunan's Team Play",
+          "content": "The team mechanics in Hapunan are outstanding. Coordinating with teammates in Hapunan creates unforgettable moments.",
+          "author": "- Team Player",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan's Innovation",
+          "content": "Hapunan brings fresh ideas to the genre. The unique mechanics in Hapunan set it apart from other games.",
+          "author": "- Gaming Enthusiast",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan's Progression",
+          "content": "The progression system in Hapunan is rewarding. Each milestone in Hapunan feels like a real achievement.",
+          "author": "- Achievement Hunter",
+          "rating": 4
+        },
+        {
+          "title": "Hapunan's Map Design",
+          "content": "The maps in Hapunan are strategically complex. Every location in Hapunan offers unique tactical opportunities.",
+          "author": "- Map Strategist",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan's Social Features",
+          "content": "The social features in Hapunan are well-designed. Finding and playing with friends in Hapunan is seamless.",
+          "author": "- Social Gamer",
+          "rating": 4
+        },
+        {
+          "title": "Hapunan's Replay Value",
+          "content": "Hapunan has incredible replay value. Each match in Hapunan brings new challenges and experiences.",
+          "author": "- Dedicated Player",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan's Character Design",
+          "content": "The character designs in Hapunan are unique and memorable. Each hero in Hapunan has their own distinct style.",
+          "author": "- Character Fan",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan's Skill Ceiling",
+          "content": "The skill ceiling in Hapunan is impressively high. Mastering Hapunan's mechanics is a rewarding journey.",
+          "author": "- Pro Player",
+          "rating": 5
+        },
+        {
+          "title": "Hapunan's UI Design",
+          "content": "The user interface in Hapunan is intuitive. Navigating through Hapunan's menus feels smooth and natural.",
           "author": "- UX Designer",
           "rating": 4
         },
         {
-          "title": "Unique Boss Battles in Mortholme",
-          "content": "Being the Dark Queen is refreshing! Mortholme's hero variety keeps each defense of the castle interesting.",
-          "author": "- Boss Battle Fan",
+          "title": "Hapunan's Achievements",
+          "content": "The achievement system in Hapunan is well thought out. Completing challenges in Hapunan is always exciting.",
+          "author": "- Completionist",
           "rating": 5
         },
         {
-          "title": "Mortholme's Atmosphere",
-          "content": "The Dark Queen's castle ambience in Mortholme is perfect. The dark soundtrack and ability effects create amazing immersion.",
-          "author": "- Audio Enthusiast",
+          "title": "Hapunan's Esports Scene",
+          "content": "Hapunan's esports scene is thriving. Watching professional Hapunan matches is incredibly entertaining.",
+          "author": "- Esports Fan",
           "rating": 5
         },
         {
-          "title": "Mortholme's Challenge",
-          "content": "Some hero combinations against the Dark Queen feel unfair. Mortholme needs a better difficulty curve.",
-          "author": "- Seasoned Player",
-          "rating": 3
-        },
-        {
-          "title": "Unique Mortholme Experience",
-          "content": "The Dark Queen's perspective in Mortholme offers fresh gameplay. Minor bugs don't detract from the dark fantasy fun.",
-          "author": "- Innovation Seeker",
-          "rating": 4
-        },
-        {
-          "title": "Growing Potential of Mortholme",
-          "content": "The Dark Queen's shadow abilities in Mortholme form a solid foundation. Excited for future content updates!",
-          "author": "- Early Adopter",
-          "rating": 4
-        },
-        {
-          "title": "Memorable Mortholme Adventure",
-          "content": "Defending the Dark Queen's castle in Mortholme never gets old. Each hero brings unique challenges to overcome.",
-          "author": "- Adventure Gamer",
-          "rating": 5
-        },
-        {
-          "title": "Worth Playing Mortholme",
-          "content": "Despite some balance issues, The Dark Queen of Mortholme offers a unique take on boss battles. A must-try dark fantasy experience.",
-          "author": "- Genre Expert",
+          "title": "Hapunan's Server Performance",
+          "content": "The server performance in Hapunan is rock solid. Playing Hapunan online is always a smooth experience.",
+          "author": "- Network Enthusiast",
           "rating": 4
         }
       ]
     }
   },
   "category": {
-    "meta_title": "Steam Cookie Clicker Game Guide",
-    "meta_description": "Find all essential Cookie Clicker guides and strategies to enhance your gaming experience",
+    "meta_title": "Hapunan Game Guide",
+    "meta_description": "Find all essential Hapunan guides and strategies to enhance your gaming experience",
     "homeBtn": "Home",
     "categoryBtn": "Game",
-    "h1": "Cookie Clicker Game Guide",
-    "h2": "Find All Cookie Clicker Guides You Need Here",
-    "h2description": "All Cookie Clicker guides are sorted by categories"
+    "h1": "Hapunan Game Guide",
+    "h2": "Find All Hapunan Guides You Need Here",
+    "h2description": "All Hapunan guides are sorted by categories"
   },
   "article": {
-    "meta_title": "Articles - Steam Cookie Clicker",
-    "meta_description": "Explore our collection of articles about Cookie Clicker strategies and tips",
+    "meta_title": "Articles - Hapunan",
+    "meta_description": "Explore our collection of articles about Hapunan strategies and tips",
     "h1": "Articles",
-    "h2": "Discover useful Cookie Clicker guides and resources",
+    "h2": "Discover useful Hapunan guides and resources",
     "homeBtn": "Home",
     "articleBtn": "Articles",
     "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog - Steam Cookie Clicker",
-    "meta_description": "Stay up to date with the latest updates on steamcookieclicker.com",
+    "meta_title": "Changelog - Hapunan",
+    "meta_description": "Stay up to date with the latest updates on hapunan.me",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest Cookie Clicker updates",
+    "h2": "Stay up to date with the latest Hapunan updates",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find all essential Cookie Clicker guides and tools to enhance your gaming experience",
-    "h2_1": "All Cookie Clicker guides related to",
+    "meta_description": "Find all essential Hapunan guides and tools to enhance your gaming experience",
+    "h2_1": "All Hapunan guides related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
@@ -305,29 +305,19 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Game Features",
     "articleBtn": "Articles",
-    "articleDescription": "Explore the world of Mortholme through our comprehensive guides and stories",
-    "featuredArticle1": "Dark Queen's Power Guide",
-    "featuredArticle1Description": "Master all six unique abilities of the Dark Queen",
-    "featuredArticle2": "Boss Battle Strategies",
-    "featuredArticle2Description": "Learn advanced tactics to defeat challenging heroes",
-    "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Click here to discover more articles about Mortholme",
-    "changelogBtn": "Changelog",
+    "articleDescription": "Explore the world of Hapunan through our comprehensive guides and stories",
     "articles": {
-      "charactersGuide": "Character Guide",
-      "charactersGuideDesc": "Explore abilities and development paths of each character in Mortholme",
-      "darkQueenStory": "Dark Queen's Story",
-      "darkQueenStoryDesc": "Discover the compelling story of the Dark Queen in Mortholme",
-      "communityGuide": "Community Guide",
-      "communityGuideDesc": "Learn how to interact with other players and share experiences",
-      "gameGuideTips": "Game Guide & Tips",
-      "gameGuideTipsDesc": "Essential strategies and tips for mastering Mortholme",
-      "strategyDecisions": "Strategy & Decisions",
-      "strategyDecisionsDesc": "Master strategic decisions to win the war in Mortholme"
-    }
+      "charactersGuide": "Hapunan Game Overview",
+      "charactersGuideDesc": "Dive into Hapunan, a horror game inspired by Filipino folklore",
+      "darkQueenStory": "Hapunan Survival Guide",
+      "darkQueenStoryDesc": "Essential survival strategies for mastering Hapunan's challenges"
+    },
+    "moreArticleBtn": "More Articles",
+    "moreArticleDescription": "Click here to discover more articles about Hapunan",
+    "changelogBtn": "Changelog"
   },
   "footer": {
-    "description": "Your Ultimate Guide for Mortholme - Strategies, Powers, and Dark Fantasy Adventure",
+    "description": "Your Ultimate Guide for Hapunan - A Thrilling Horror Game Inspired by Filipino Folklore",
     "quickLinks": "Quick Links",
     "home": "Home",
     "game": "Play Game",
@@ -350,10 +340,10 @@
     "viewAllBlogs": "View All Blogs →"
   },
   "meta": {
-    "og_title": "Steam Cookie Clicker | Start Your Cookie Empire",
-    "og_description": "Play Cookie Clicker on Steam - The Ultimate Idle Game. Start your cookie empire, unlock achievements, and become the ultimate cookie master. Updated daily!",
-    "twitter_title": "Steam Cookie Clicker | Cookie Empire",
-    "twitter_description": "Discover the ultimate Cookie Clicker gaming experience. Updated daily!"
+    "og_title": "Hapunan | Filipino Horror Game",
+    "og_description": "Experience Hapunan - A Thrilling Horror Game Inspired by Filipino Folklore. Explore supernatural elements, survive the night, and uncover dark secrets.",
+    "twitter_title": "Hapunan | Horror Game",
+    "twitter_description": "Discover the terrifying world of Hapunan. Updated daily!"
   },
   "latestCodesArticle": "Latest Cookie Clicker Codes 2024",
   "latestCodesDescription": "Get the latest Cookie Clicker cheat codes and learn how to use them",

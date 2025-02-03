@@ -1,8 +1,8 @@
 {
-  "name": "mortholme",
+  "name": "hapunan",
   "version": "1.0.0",
   "private": true,
-  "description": "Mortholme - Step into the Dark Queen's Realm. Experience dynamic storylines, rich combat systems, and diverse world exploration in this mysterious universe.",
+  "description": "Hapunan - The Ultimate Gaming Experience. Step into the immersive world of Hapunan, where strategy meets excitement in this thrilling gaming adventure.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

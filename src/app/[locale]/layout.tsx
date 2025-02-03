@@ -32,17 +32,17 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Mortholme - Embrace the Dark Queen\'s Challenge',
-    template: '%s | Mortholme'
+    default: 'Hapunan - The Ultimate Gaming Experience',
+    template: '%s | Hapunan'
   },
-  description: 'Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.',
-  authors: { name: 'mortholme.com', url: 'https://mortholme.com/' },
-  keywords: 'Mortholme, Dark Queen, Boss Battle, Fantasy Game, Reverse Boss Battle, Dynamic Narrative, Pixel Art, Dark Fantasy',
+  description: 'Step into the immersive world of Hapunan, where strategy meets excitement. Experience dynamic gameplay, competitive multiplayer, and endless customization options.',
+  authors: { name: 'hapunan.me', url: 'https://hapunan.me/' },
+  keywords: 'Hapunan, Gaming, Strategy Games, Multiplayer Games, Gaming Experience, Competitive Gaming, Game Customization',
   alternates: {
-    canonical: "https://mortholme.com/",
+    canonical: "https://hapunan.me/",
     languages: {
-      "en": "https://mortholme.com/en",
-      "zh": "https://mortholme.com/zh",
+      "en": "https://hapunan.me/en",
+      "zh": "https://hapunan.me/zh",
     }
   },
   icons: {
@@ -66,13 +66,13 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Mortholme"
+    title: "Hapunan"
   },
   ...generateMetaTags({
-    title: 'Mortholme - Embrace the Dark Queen\'s Challenge',
-    description: 'Assume the role of the Dark Queen, defend your lair against relentless heroes, and explore the depths of your own power in this unique reverse boss battle adventure.',
-    url: 'https://mortholme.com',
-    imageUrl: 'https://mortholme.com/og-image.jpg'
+    title: 'Hapunan - The Ultimate Gaming Experience',
+    description: 'Step into the immersive world of Hapunan, where strategy meets excitement. Experience dynamic gameplay, competitive multiplayer, and endless customization options.',
+    url: 'https://hapunan.me',
+    imageUrl: 'https://hapunan.me/og-image.jpg'
   }),
 }
 
@@ -94,7 +94,7 @@ export default async function RootLayout({
         <NextIntlClientProvider messages={messages}>
           <ThemeProvider 
             attribute="class" 
-            defaultTheme="dark"
+            defaultTheme="light"
             enableSystem={false}
           >
             <Layout>{children}</Layout>
