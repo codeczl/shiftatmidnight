@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = 'https://hapunan.me';
+const BASE_URL = 'https://shiftatmidnight.com';
 
 export default function robots(): MetadataRoute.Robots {
   return {
@@ -11,20 +11,27 @@ export default function robots(): MetadataRoute.Robots {
           "/",
           "/zh",
           "/en",
-          "/game/*", 
-          "/article/*", 
+          "/zh/article/*",
+          "/en/article/*",
+          "/article/*",
           "/changelog",
-          "/privacy", 
-          "/terms"
+          "/privacy",
+          "/terms",
+          "/about",
+          "/sitemap.xml"
         ],
         disallow: [
-          "/api/*", 
+          "/api/*",
           "/admin/*",
           "/_next/*",
           "/socket.io/*",
           "/*.json$",
           "/*.js$",
-          "/debug/*"
+          "/debug/*",
+          "/login",
+          "/admin",
+          "/temp/*",
+          "/*?*" // 禁止带参数的URL
         ]
       }
     ],

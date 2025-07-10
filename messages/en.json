@@ -1,7 +1,7 @@
 {
   "home": {
-    "meta_title": "Hapunan - A Filipino Horror Game Experience",
-    "meta_description": "Step into the world of Hapunan, a terrifying horror game inspired by Filipino folklore. Face supernatural entities and survive through the night.",
+    "meta_title": "Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station",
+    "meta_description": "Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger in this thrilling horror gaming experience.",
     "h1": "Steam Cookie Clicker",
     "h2": "Start Your Cookie Empire Journey",
     "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
@@ -29,56 +29,61 @@
       "conclusion": "With these tips, you'll be a cookie master in no time!"
     },
     "cookie_clicker": {
-      "title": "Hapunan",
-      "subtitle": "A Thrilling Gaming Adventure",
-      "description": "Step into the immersive world of Hapunan, where strategy meets excitement.",
+      "title": "Shift at Midnight",
+      "subtitle": "A Terrifying Night Shift at a 90s Gas Station",
+      "description": "Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger.",
       "start_button": "Start Playing"
     },
     "features": {
-      "title": "Unleash the Power of Hapunan",
-      "subtitle": "Experience the ultimate gaming adventure with these exciting features",
+      "title": "Unleash the Power of Shift at Midnight",
+      "subtitle": "Experience survival horror with these terrifying features",
       "item1": {
-        "title": "Dynamic Gameplay",
-        "description": "Experience fast-paced action, strategic battles, and ever-evolving challenges that keep you engaged.",
+        "title": "Interrogate Doppelgangers",
+        "description": "Serve customers, ask probing questions, verify IDs and behavior to identify imposters and protect your station.",
         "button": "Learn More"
       },
       "item2": {
-        "title": "Competitive Multiplayer",
-        "description": "Test your skills against players worldwide and climb the leaderboard to claim victory.",
-        "button": "Join Now"
+        "title": "Board Up & Survive",
+        "description": "When creatures slip through the night, barricade doors, set traps, and choose whether to hide or confront lurking threats.",
+        "button": "Learn More"
       },
       "item3": {
-        "title": "Customization & Upgrades",
-        "description": "Enhance your character, unlock powerful abilities, and personalize your gaming experience.",
-        "button": "Explore"
+        "title": "Co‑op Horror Tension",
+        "description": "Play solo or team up with 1–3 players to manage the graveyard shift at a 90s‑era gas station packed with stress.",
+        "button": "Learn More"
+      },
+      "item4": {
+        "title": "Rogue‑Like & Replayable",
+        "description": "Each session offers randomized NPCs, events, weapons, upgrades, traps, and enemy types—never the same night twice.",
+        "button": "Learn More"
       }
     },
     "abilities": {
-      "title": "Master Your Skills in Hapunan",
-      "subtitle": "Discover and master a variety of powerful abilities",
+      "title": "Master Your Skills in Shift at Midnight",
+      "subtitle": "Discover and master essential survival abilities",
       "item1": {
-        "title": "Precision Combat",
-        "description": "Master accurate attacks and defend strategically in fast-paced battles."
+        "title": "Quick Interrogation",
+        "description": "Ask questions quickly and decisively—time is against you when spotting imposters."
       },
       "item2": {
-        "title": "Stealth Tactics",
-        "description": "Use the environment to your advantage and outmaneuver opponents."
+        "title": "Strategic Barricading",
+        "description": "Know when to board up doors or conserve resources based on threat intensity."
       },
       "item3": {
-        "title": "Resource Management",
-        "description": "Optimize your inventory and make strategic choices for long-term success."
+        "title": "Team Coordination",
+        "description": "Assign roles: one asks questions, another handles barricades, and others scout or trap."
       },
       "item4": {
-        "title": "Skill Progression",
-        "description": "Level up and enhance your abilities to gain a competitive edge."
+        "title": "Situation Awareness",
+        "description": "Listen for audio cues, monitor the store layout, and adapt as imposters evolve."
       },
       "item5": {
-        "title": "Advanced Weaponry",
-        "description": "Unlock and customize powerful weapons to suit your playstyle."
+        "title": "Resource Management",
+        "description": "Track supplies carefully—many upgrades are limited and vital for late-night survival."
       },
       "item6": {
-        "title": "Team Coordination",
-        "description": "Communicate and strategize with your team to dominate the battlefield."
+        "title": "Adaptive Strategy",
+        "description": "Randomized events force you to pivot tactics every run—stay alert and creative."
       }
     },
     "cta": {
@@ -87,208 +92,209 @@
       "button": "Play Now"
     },
     "faq": {
-      "title": "Hapunan FAQ",
+      "title": "Shift at Midnight FAQ",
       "item1": {
         "question": "How do I start playing?",
-        "answer": "Click the \"Start Playing\" button to enter the game and begin your adventure."
+        "answer": "Download the demo on Itch.io or wishlist it on Steam, then click \"Start Playing\" to begin your first night."
       },
       "item2": {
-        "question": "Is Hapunan free to play?",
-        "answer": "Yes, Hapunan is completely free, with optional in-game purchases available."
+        "question": "Is Shift at Midnight free?",
+        "answer": "Yes, the demo on Itch.io is free. The full version will be paid and available on Steam."
       },
       "item3": {
         "question": "Can I play with friends?",
-        "answer": "Yes! Join multiplayer matches and team up with friends for cooperative gameplay."
+        "answer": "Definitely! Co‑op supports 1–3 players working together to survive the night shift."
       },
       "item4": {
-        "question": "What platforms is Hapunan available on?",
-        "answer": "Hapunan is available on PC, Mac, and mobile devices."
+        "question": "What platforms is it on?",
+        "answer": "The game is currently on PC via Itch.io and coming soon to Steam; Mac support is planned."
       },
       "item5": {
         "question": "How do I improve my skills?",
-        "answer": "Practice in solo mode, watch tutorials, and experiment with different strategies."
+        "answer": "Practice running efficient interrogations, manage barricades smartly, and adapt to each night's challenges."
       }
     },
     "reviews": {
       "title": "Player Reviews",
-      "subtitle": "See what players are saying about Hapunan",
+      "subtitle": "See what players are saying about Shift at Midnight",
       "items": [
         {
-          "title": "Hapunan's Combat System",
-          "content": "Hapunan's combat mechanics are incredibly fluid. The combination of strategic planning and real-time action creates an engaging experience.",
-          "author": "- Strategy Gamer",
+          "title": "Atmospheric Horror",
+          "content": "Shift at Midnight's atmosphere is genuinely terrifying. The 90s gas station setting and the constant fear of doppelgangers create an incredibly immersive and unsettling experience.",
+          "author": "- Horror Game Fan",
           "rating": 5
         },
         {
-          "title": "Multiplayer Experience",
-          "content": "Playing Hapunan with friends is a blast! The team coordination features in Hapunan make every match unique and exciting.",
-          "author": "- Multiplayer Fan",
+          "title": "Unique Gameplay Mechanics",
+          "content": "Shift at Midnight's doppelganger mechanic is brilliant! Having to verify customers' identities while managing the gas station adds a whole new level of psychological horror.",
+          "author": "- Survival Horror Enthusiast",
           "rating": 4
         },
         {
-          "title": "Hapunan's Graphics",
-          "content": "The visual design in Hapunan is stunning. Every map and character in Hapunan is beautifully crafted with attention to detail.",
-          "author": "- Art Enthusiast",
+          "title": "Visual Design",
+          "content": "Shift at Midnight perfectly executes its retro 90s aesthetic. The way shadows and lighting work in the gas station creates genuine tension and fear.",
+          "author": "- Art Critic",
           "rating": 5
         },
         {
-          "title": "Strategic Depth",
-          "content": "Hapunan offers incredible strategic depth. The variety of tactics and approaches in Hapunan keeps me coming back for more.",
-          "author": "- Tactical Player",
+          "title": "Psychological Horror",
+          "content": "Shift at Midnight masters psychological horror. The constant paranoia about identifying doppelgangers during your night shift is mentally exhausting - in the best way possible.",
+          "author": "- Psychology Student",
           "rating": 5
         },
         {
-          "title": "Hapunan's Learning Curve",
-          "content": "While Hapunan has a learning curve, the tutorial system in Hapunan makes it accessible for new players.",
+          "title": "Beginner Friendly",
+          "content": "While Shift at Midnight is intensely scary, the tutorial shift eases you into the gas station mechanics well. Perfect balance of teaching and tension.",
           "author": "- New Player",
           "rating": 4
         },
         {
-          "title": "Game Balance",
-          "content": "Hapunan's balance is well-maintained. Each strategy in Hapunan has its counters, making matches fair and competitive.",
-          "author": "- Competitive Gamer",
+          "title": "Survival Mechanics",
+          "content": "Shift at Midnight's resource management and survival aspects are well balanced. Every decision during your night shift feels meaningful and potentially deadly.",
+          "author": "- Survival Game Veteran",
           "rating": 4
         },
         {
-          "title": "Hapunan's Community",
-          "content": "The Hapunan community is incredibly welcoming. Veterans help newcomers learn Hapunan's mechanics and strategies.",
+          "title": "Supportive Community",
+          "content": "The Shift at Midnight community is incredibly helpful with sharing gas station survival tips and doppelganger detection strategies. Great place for new night shift workers!",
           "author": "- Community Member",
           "rating": 5
         },
         {
-          "title": "Regular Updates",
-          "content": "The developers keep Hapunan fresh with regular updates. Each patch brings exciting new content to Hapunan.",
+          "title": "Content Updates",
+          "content": "The developers keep adding new threats to Shift at Midnight. Each update brings fresh nightmares and challenges to your gas station night shift.",
           "author": "- Long-time Player",
           "rating": 4
         },
         {
-          "title": "Hapunan's Customization",
-          "content": "The customization options in Hapunan are extensive. You can truly make your character unique in Hapunan.",
+          "title": "Character Customization",
+          "content": "Shift at Midnight lets you customize your night shift worker perfectly. The personal touches make surviving the doppelganger encounters feel more intense.",
           "author": "- Creative Player",
           "rating": 5
         },
         {
-          "title": "Performance",
-          "content": "Hapunan runs smoothly even on older systems. The optimization in Hapunan is impressive.",
+          "title": "Technical Performance",
+          "content": "Shift at Midnight runs flawlessly even during intense doppelganger encounters. The gas station's security systems and mechanics are perfectly optimized.",
           "author": "- Tech Enthusiast",
           "rating": 5
         },
         {
-          "title": "Hapunan's Sound Design",
-          "content": "The audio in Hapunan is phenomenal. Every ability and action in Hapunan has satisfying sound feedback.",
-          "author": "- Audio Fan",
+          "title": "Sound Design",
+          "content": "Shift at Midnight's audio design is terrifying. Every footstep and door creak in the gas station puts you on edge, especially during the midnight hours.",
+          "author": "- Audio Engineer",
           "rating": 5
         },
         {
-          "title": "Competitive Scene",
-          "content": "Hapunan's competitive scene is growing fast. The ranked system in Hapunan is well-implemented.",
-          "author": "- Esports Player",
+          "title": "Challenge Modes",
+          "content": "Shift at Midnight's different difficulty levels keep the game fresh. Each night shift can be a completely different nightmare with unique doppelganger behaviors.",
+          "author": "- Hardcore Gamer",
           "rating": 4
         },
         {
-          "title": "Hapunan's Team Play",
-          "content": "The team mechanics in Hapunan are outstanding. Coordinating with teammates in Hapunan creates unforgettable moments.",
-          "author": "- Team Player",
+          "title": "Co-op Horror",
+          "content": "Playing Shift at Midnight with friends is intense. Managing the gas station together while questioning each other's identity creates unique social horror.",
+          "author": "- Co-op Player",
           "rating": 5
         },
         {
-          "title": "Hapunan's Innovation",
-          "content": "Hapunan brings fresh ideas to the genre. The unique mechanics in Hapunan set it apart from other games.",
-          "author": "- Gaming Enthusiast",
+          "title": "Genre Innovation",
+          "content": "Shift at Midnight revolutionizes survival horror. The 90s gas station setting and intricate doppelganger mechanics are truly unique in the genre.",
+          "author": "- Horror Genre Fan",
           "rating": 5
         },
         {
-          "title": "Hapunan's Progression",
-          "content": "The progression system in Hapunan is rewarding. Each milestone in Hapunan feels like a real achievement.",
-          "author": "- Achievement Hunter",
+          "title": "Progression System",
+          "content": "Shift at Midnight's upgrade system is rewarding. Each survived night shift brings valuable security upgrades and new tools for the gas station.",
+          "author": "- Progress Hunter",
           "rating": 4
         },
         {
-          "title": "Hapunan's Map Design",
-          "content": "The maps in Hapunan are strategically complex. Every location in Hapunan offers unique tactical opportunities.",
-          "author": "- Map Strategist",
+          "title": "Gas Station Layout",
+          "content": "Shift at Midnight's gas station layout is perfectly designed for horror. Every corner and shadow could hide a terrifying doppelganger encounter.",
+          "author": "- Level Design Fan",
           "rating": 5
         },
         {
-          "title": "Hapunan's Social Features",
-          "content": "The social features in Hapunan are well-designed. Finding and playing with friends in Hapunan is seamless.",
-          "author": "- Social Gamer",
+          "title": "Multiplayer Integration",
+          "content": "Shift at Midnight's multiplayer features work seamlessly. Finding and joining other night shift workers is easy and enhances the horror experience.",
+          "author": "- Multiplayer Fan",
           "rating": 4
         },
         {
-          "title": "Hapunan's Replay Value",
-          "content": "Hapunan has incredible replay value. Each match in Hapunan brings new challenges and experiences.",
+          "title": "Replayability",
+          "content": "Shift at Midnight offers incredible replay value. Each night shift brings randomized events and multiple endings - no two shifts are ever the same.",
           "author": "- Dedicated Player",
           "rating": 5
         },
         {
-          "title": "Hapunan's Character Design",
-          "content": "The character designs in Hapunan are unique and memorable. Each hero in Hapunan has their own distinct style.",
-          "author": "- Character Fan",
+          "title": "Enemy Design",
+          "content": "Shift at Midnight's doppelgangers are terrifyingly well-designed. Each type of imposter has unique and unsettling behaviors during the night shift.",
+          "author": "- Monster Design Fan",
           "rating": 5
         },
         {
-          "title": "Hapunan's Skill Ceiling",
-          "content": "The skill ceiling in Hapunan is impressively high. Mastering Hapunan's mechanics is a rewarding journey.",
-          "author": "- Pro Player",
+          "title": "Advanced Mechanics",
+          "content": "Shift at Midnight's survival and detection systems are complex and satisfying. Mastering the gas station's security features is a rewarding challenge.",
+          "author": "- Expert Player",
           "rating": 5
         },
         {
-          "title": "Hapunan's UI Design",
-          "content": "The user interface in Hapunan is intuitive. Navigating through Hapunan's menus feels smooth and natural.",
-          "author": "- UX Designer",
+          "title": "Interface Design",
+          "content": "Shift at Midnight's retro security interface is brilliant. Managing the gas station's systems feels authentically 90s and adds to the atmosphere.",
+          "author": "- UI Designer",
           "rating": 4
         },
         {
-          "title": "Hapunan's Achievements",
-          "content": "The achievement system in Hapunan is well thought out. Completing challenges in Hapunan is always exciting.",
-          "author": "- Completionist",
+          "title": "Hidden Content",
+          "content": "Shift at Midnight is full of secrets. Each night shift can reveal new hidden lore about the gas station and its mysterious doppelganger phenomenon.",
+          "author": "- Secret Hunter",
           "rating": 5
         },
         {
-          "title": "Hapunan's Esports Scene",
-          "content": "Hapunan's esports scene is thriving. Watching professional Hapunan matches is incredibly entertaining.",
-          "author": "- Esports Fan",
+          "title": "Streaming Experience",
+          "content": "Shift at Midnight is perfect for streaming. Watching others manage their night shifts and react to doppelgangers is incredibly entertaining.",
+          "author": "- Content Creator",
           "rating": 5
         },
         {
-          "title": "Hapunan's Server Performance",
-          "content": "The server performance in Hapunan is rock solid. Playing Hapunan online is always a smooth experience.",
-          "author": "- Network Enthusiast",
+          "title": "Game Stability",
+          "content": "Shift at Midnight runs stable even during intense encounters. The multiplayer gas station experience is smooth and reliable at all hours.",
+          "author": "- Technical Player",
           "rating": 4
         }
       ]
     }
   },
   "category": {
-    "meta_title": "Hapunan Game Guide",
-    "meta_description": "Find all essential Hapunan guides and strategies to enhance your gaming experience",
+
+    "meta_title": "Shift at Midnight Game Guide",
+    "meta_description": "Find all essential Shift at Midnight guides and strategies to enhance your survival experience",
     "homeBtn": "Home",
     "categoryBtn": "Game",
-    "h1": "Hapunan Game Guide",
-    "h2": "Find All Hapunan Guides You Need Here",
-    "h2description": "All Hapunan guides are sorted by categories"
+    "h1": "Shift at Midnight Game Guide",
+    "h2": "Find All Survival Guides You Need Here",
+    "h2description": "All guides are sorted by categories"
   },
   "article": {
-    "meta_title": "Articles - Hapunan",
-    "meta_description": "Explore our collection of articles about Hapunan strategies and tips",
+    "meta_title": "Articles - Shift at Midnight",
+    "meta_description": "Explore our collection of articles about Shift at Midnight strategies and survival tips",
     "h1": "Articles",
-    "h2": "Discover useful Hapunan guides and resources",
+    "h2": "Discover useful guides and resources",
     "homeBtn": "Home",
     "articleBtn": "Articles",
     "backToArticles": "Back to Articles"
   },
   "changelog": {
-    "meta_title": "Changelog - Hapunan",
-    "meta_description": "Stay up to date with the latest updates on hapunan.me",
+    "meta_title": "Changelog - Shift at Midnight",
+    "meta_description": "Stay up to date with the latest updates on shiftatmidnight.com",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest Hapunan updates",
+    "h2": "Stay up to date with the latest game updates",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find all essential Hapunan guides and tools to enhance your gaming experience",
-    "h2_1": "All Hapunan guides related to",
+    "meta_description": "Find all essential Shift at Midnight guides and tools to enhance your survival experience",
+    "h2_1": "All guides related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
@@ -305,19 +311,19 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Game Features",
     "articleBtn": "Articles",
-    "articleDescription": "Explore the world of Hapunan through our comprehensive guides and stories",
+    "articleDescription": "Explore the world of Shift at Midnight through our comprehensive guides and stories",
     "articles": {
-      "charactersGuide": "Hapunan Game Overview",
-      "charactersGuideDesc": "Dive into Hapunan, a horror game inspired by Filipino folklore",
-      "darkQueenStory": "Hapunan Survival Guide",
-      "darkQueenStoryDesc": "Essential survival strategies for mastering Hapunan's challenges"
+      "doppelgangerGuide": "Doppelganger Guide",
+      "doppelgangerGuideDesc": "Complete guide for identifying and surviving doppelgangers",
+      "coopStrategies": "Co-op Survival Guide",
+      "coopStrategiesDesc": "Master teamwork strategies for 1-3 player night shifts"
     },
     "moreArticleBtn": "More Articles",
-    "moreArticleDescription": "Click here to discover more articles about Hapunan",
+    "moreArticleDescription": "Click here to discover more articles about Shift at Midnight",
     "changelogBtn": "Changelog"
   },
   "footer": {
-    "description": "Your Ultimate Guide for Hapunan - A Thrilling Horror Game Inspired by Filipino Folklore",
+    "description": "Your Ultimate Guide for Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station. Experience intense survival horror as you manage your gas station through the darkest hours.",
     "quickLinks": "Quick Links",
     "home": "Home",
     "game": "Play Game",

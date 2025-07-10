@@ -1,237 +1,237 @@
 {
   "home": {
-    "meta_title": "Hapunan - 菲律宾恐怖游戏体验",
-    "meta_description": "步入 Hapunan 的世界, 一款受菲律宾民间传说启发的恐怖游戏. 面对超自然实体, 在黑夜中生存.",
-    "h1": "Hapunan",
-    "h2": "开启您的恐怖冒险之旅",
-    "intro": "在这款令人毛骨悚然的恐怖游戏中, 您将探索菲律宾民间传说中的神秘世界. 以下是主要特点:",
+    "meta_title": "午夜班次 - 90年代加油站的恐怖夜班",
+    "meta_description": "进入午夜班次的沉浸式世界, 在这里每个访客都可能是替身者, 体验惊悚的恐怖游戏体验.",
+    "h1": "Steam Cookie Clicker",
+    "h2": "开启你的饼干帝国之旅",
+    "intro": "Cookie Clicker 是一款令人上瘾的放置类游戏, 你可以通过点击生产饼干并建立帝国. 以下是主要特点:",
     "cookie_clicker": {
-      "title": "Hapunan",
-      "subtitle": "惊悚的游戏冒险",
-      "description": "步入 Hapunan 的沉浸式世界, 在这里恐怖与刺激交织.",
+      "title": "午夜班次",
+      "subtitle": "90年代加油站的恐怖夜班",
+      "description": "进入午夜班次的沉浸式世界, 每个访客都可能是替身者.",
       "start_button": "开始游戏"
     },
     "features": {
-      "title": "释放 Hapunan 的力量",
-      "subtitle": "体验这款终极恐怖游戏的令人兴奋的特色",
+      "title": "释放午夜班次的恐怖力量",
+      "subtitle": "体验这些令人毛骨悚然的特色功能",
       "item1": {
-        "title": "动态游戏玩法",
-        "description": "体验快节奏的动作, 战略性的战斗和不断演变的挑战.",
+        "title": "审问替身者",
+        "description": "服务顾客, 提出尖锐问题, 验证身份和行为以识别冒充者并保护你的加油站.",
         "button": "了解更多"
       },
       "item2": {
-        "title": "竞技多人模式",
-        "description": "与全球玩家一较高下, 攀登排行榜争夺胜利.",
-        "button": "立即加入"
+        "title": "设防与生存",
+        "description": "当生物潜入夜色时, 封锁门窗, 设置陷阱, 选择躲藏或直面潜伏的威胁.",
+        "button": "了解更多"
       },
       "item3": {
-        "title": "自定义与升级",
-        "description": "强化你的角色, 解锁强大能力, 打造个性化的游戏体验.",
-        "button": "探索"
+        "title": "合作恐怖体验",
+        "description": "独自游戏或与1-3名玩家组队, 在充满压力的90年代加油站度过午夜班次.",
+        "button": "了解更多"
       }
     },
     "abilities": {
-      "title": "掌握 Hapunan 中的技能",
-      "subtitle": "发现并精通各种强大的能力",
+      "title": "掌握午夜班次的生存技能",
+      "subtitle": "发现并掌握关键的生存能力",
       "item1": {
-        "title": "精准战斗",
-        "description": "在快节奏的战斗中掌握精确的攻击和战略防御."
+        "title": "快速审问",
+        "description": "在识别冒充者时要快速果断地提问 - 时间就是生命."
       },
       "item2": {
-        "title": "潜行战术",
-        "description": "利用环境优势, 智取对手."
+        "title": "战略性设防",
+        "description": "根据威胁程度决定何时封锁门窗或保存资源."
       },
       "item3": {
-        "title": "资源管理",
-        "description": "优化你的物品栏, 为长期成功做出战略选择."
+        "title": "团队协调",
+        "description": "分配角色: 一人负责询问, 一人处理防御, 其他人侦查或设置陷阱."
       },
       "item4": {
-        "title": "技能进阶",
-        "description": "升级并增强你的能力以获得竞争优势."
+        "title": "环境意识",
+        "description": "留意声音提示, 监控商店布局, 适应冒充者的进化."
       },
       "item5": {
-        "title": "高级武器",
-        "description": "解锁并定制强大的武器以适应你的游戏风格."
+        "title": "资源管理",
+        "description": "谨慎管理物资 - 许多升级都是有限的, 对深夜生存至关重要."
       },
       "item6": {
-        "title": "团队协作",
-        "description": "与你的团队沟通和制定策略, 主宰战场."
+        "title": "适应性策略",
+        "description": "随机事件迫使你每次都要调整策略 - 保持警惕和创造力."
       }
     },
     "cta": {
-      "title": "准备加入冒险了吗?",
-      "description": "步入 Hapunan 的沉浸式世界, 体验战略游戏的刺激. 今天就开始你的旅程!",
+      "title": "准备加入这场冒险了吗?",
+      "description": "进入午夜班次的沉浸式世界, 体验惊悚的恐怖游戏. 今天就开始你的旅程!",
       "button": "立即开始"
     },
     "faq": {
-      "title": "Hapunan 常见问题",
+      "title": "午夜班次常见问题",
       "item1": {
         "question": "如何开始游戏?",
-        "answer": "点击\"开始游戏\"按钮进入游戏并开始你的冒险."
+        "answer": "在 Itch.io 下载试玩版或在 Steam 上加入愿望单, 然后点击\"开始游戏\"开始你的第一个夜班."
       },
       "item2": {
-        "question": "Hapunan 是免费的吗?",
-        "answer": "是的, Hapunan 完全免费, 有可选的游戏内购买项目."
+        "question": "午夜班次是免费的吗?",
+        "answer": "是的, Itch.io 上的试玩版是免费的. 完整版将在 Steam 上付费发售."
       },
       "item3": {
         "question": "我可以和朋友一起玩吗?",
-        "answer": "当然可以! 加入多人对战并与朋友组队进行合作游戏."
+        "answer": "当然可以! 合作模式支持1-3名玩家一起度过夜班."
       },
       "item4": {
-        "question": "Hapunan 支持哪些平台?",
-        "answer": "Hapunan 可在 PC, Mac 和移动设备上使用."
+        "question": "支持哪些平台?",
+        "answer": "游戏目前在 PC 通过 Itch.io 发布, 即将登陆 Steam; 计划支持 Mac."
       },
       "item5": {
-        "question": "如何提高我的技能?",
-        "answer": "在单人模式中练习, 观看教程, 尝试不同的策略."
+        "question": "如何提高技能?",
+        "answer": "练习高效审问, 明智管理防御, 适应每晚的挑战."
       }
     },
     "reviews": {
       "title": "玩家评论",
-      "subtitle": "看看玩家们如何评价 Hapunan",
+      "subtitle": "看看玩家们如何评价午夜班次",
       "items": [
         {
-          "title": "Hapunan 的战斗系统",
-          "content": "Hapunan 的战斗机制非常流畅. 战略规划和实时动作的结合创造出引人入胜的体验.",
-          "author": "- 策略游戏玩家",
+          "title": "恐怖氛围",
+          "content": "午夜班次的氛围真的很恐怖. 90年代加油站的场景营造出令人难以置信的沉浸感和不安感.",
+          "author": "- 恐怖游戏爱好者",
           "rating": 5
         },
         {
-          "title": "多人游戏体验",
-          "content": "和朋友一起玩 Hapunan 非常有趣! Hapunan 的团队协作功能让每场比赛都独特而刺激.",
-          "author": "- 多人游戏爱好者",
+          "title": "独特的游戏机制",
+          "content": "午夜班次的替身者机制太棒了! 必须验证同事是否是真实的, 这增添了全新层次的心理恐怖.",
+          "author": "- 生存恐怖游戏玩家",
           "rating": 4
         },
         {
-          "title": "Hapunan 的画面",
-          "content": "Hapunan 的视觉设计令人惊叹. 每张地图和角色都精心打造, 细节丰富.",
-          "author": "- 艺术爱好者",
+          "title": "视觉设计",
+          "content": "90年代复古美学完美呈现. 午夜班次中的阴影和光线效果营造出真实的紧张感和恐惧.",
+          "author": "- 艺术评论家",
           "rating": 5
         },
         {
-          "title": "战略深度",
-          "content": "Hapunan 提供了令人难以置信的战略深度. 多样的战术和方法让我一直保持兴趣.",
-          "author": "- 战术玩家",
+          "title": "心理恐怖",
+          "content": "这款游戏精通心理恐怖. 在午夜班次中对谁是真实的谁是假的的持续偏执感让人精神紧张 - 这种感觉太棒了.",
+          "author": "- 心理学学生",
           "rating": 5
         },
         {
-          "title": "学习曲线",
-          "content": "虽然 Hapunan 有一定的学习曲线, 但其教程系统让新手也能轻松上手.",
+          "title": "新手友好",
+          "content": "虽然午夜班次很恐怖, 但教程班次很好地引导你了解游戏机制. 教学和紧张感的完美平衡.",
           "author": "- 新手玩家",
           "rating": 4
         },
         {
-          "title": "游戏平衡",
-          "content": "Hapunan 的平衡性维护得很好. 每种策略都有其克制方法, 使比赛公平且富有竞争性.",
-          "author": "- 竞技玩家",
+          "title": "生存机制",
+          "content": "资源管理和生存方面平衡得很好. 在午夜班次中的每个决定都很重要, 可能关系生死.",
+          "author": "- 生存游戏老手",
           "rating": 4
         },
         {
-          "title": "Hapunan 社区",
-          "content": "Hapunan 社区非常友好. 老玩家会帮助新人学习游戏机制和策略.",
+          "title": "支持性社区",
+          "content": "午夜班次的社区非常乐于分享生存技巧和策略. 对新夜班工人来说是个很好的地方!",
           "author": "- 社区成员",
           "rating": 5
         },
         {
-          "title": "定期更新",
-          "content": "开发团队通过定期更新保持 Hapunan 的新鲜感. 每次更新都带来令人兴奋的新内容.",
+          "title": "内容更新",
+          "content": "开发者不断添加新的威胁和场景. 每次更新都为加油站带来新的噩梦.",
           "author": "- 老玩家",
           "rating": 4
         },
         {
-          "title": "Hapunan 的定制化",
-          "content": "Hapunan 的定制选项非常丰富. 你可以真正打造属于自己的独特角色.",
+          "title": "角色定制",
+          "content": "喜欢可以定制你的夜班工人. 个性化的细节让午夜班次的恐怖感更加个人化.",
           "author": "- 创意玩家",
           "rating": 5
         },
         {
-          "title": "性能表现",
-          "content": "Hapunan 即使在老旧系统上也能流畅运行. 游戏的优化令人印象深刻.",
+          "title": "技术性能",
+          "content": "午夜班次即使在激烈的追逐场景中也运行流畅. 对于恐怖游戏来说优化非常出色.",
           "author": "- 技术爱好者",
           "rating": 5
         },
         {
-          "title": "Hapunan 的声音设计",
-          "content": "Hapunan 的音效令人惊叹. 每个技能和动作都有令人满意的声音反馈.",
-          "author": "- 音效爱好者",
+          "title": "声音设计",
+          "content": "音频设计令人毛骨悚然. 午夜班次中的每个脚步声和门吱呀声都让人紧张不安.",
+          "author": "- 音频工程师",
           "rating": 5
         },
         {
-          "title": "竞技场景",
-          "content": "Hapunan 的竞技场景发展迅速. 排位系统设计得很好.",
-          "author": "- 电竞选手",
+          "title": "挑战模式",
+          "content": "不同的难度等级和挑战模式让游戏保持新鲜. 午夜班次中的每个班次都可能是完全不同的噩梦.",
+          "author": "- 硬核玩家",
           "rating": 4
         },
         {
-          "title": "Hapunan 的团队配合",
-          "content": "团队机制非常出色. 与队友的配合能创造难忘的时刻.",
-          "author": "- 团队玩家",
+          "title": "合作恐怖",
+          "content": "和朋友一起值夜班很刺激. 午夜班次中的信任动态创造独特的社交恐怖体验.",
+          "author": "- 合作玩家",
           "rating": 5
         },
         {
-          "title": "Hapunan 的创新",
-          "content": "Hapunan 为这个游戏类型带来了新鲜理念. 独特的机制使其与其他游戏与众不同.",
-          "author": "- 游戏发烧友",
+          "title": "类型创新",
+          "content": "午夜班次为生存恐怖带来新思路. 加油站场景和替身者机制真的很独特.",
+          "author": "- 恐怖类型粉丝",
           "rating": 5
         },
         {
-          "title": "Hapunan 的进阶系统",
-          "content": "进阶系统非常有成就感. 每个里程碑都让人感到真实的进步.",
-          "author": "- 成就猎人",
+          "title": "进度系统",
+          "content": "解锁新的安保系统和工具很有成就感. 在午夜班次中每次生存下来都能带来有价值的升级.",
+          "author": "- 进度追求者",
           "rating": 4
         },
         {
-          "title": "Hapunan 的地图设计",
-          "content": "地图在战略上非常复杂. 每个位置都提供独特的战术机会.",
-          "author": "- 地图战略家",
+          "title": "加油站布局",
+          "content": "加油站的布局完美契合恐怖氛围. 午夜班次中的每个角落都可能藏着可怕的惊喜.",
+          "author": "- 关卡设计粉丝",
           "rating": 5
         },
         {
-          "title": "Hapunan 的社交功能",
-          "content": "社交功能设计得很好. 找到并与朋友一起游戏非常流畅.",
-          "author": "- 社交玩家",
+          "title": "多人集成",
+          "content": "多人功能无缝集成. 在午夜班次中找到并加入其他夜班工人很容易, 还增添了恐怖感.",
+          "author": "- 多人游戏粉丝",
           "rating": 4
         },
         {
-          "title": "Hapunan 的重玩价值",
-          "content": "游戏有着令人难以置信的重玩价值. 每场比赛都带来新的挑战和体验.",
+          "title": "重玩价值",
+          "content": "随机事件和多重结局让午夜班次有着令人难以置信的重玩价值. 没有两个夜晚是完全相同的.",
           "author": "- 忠实玩家",
           "rating": 5
         },
         {
-          "title": "Hapunan 的角色设计",
-          "content": "角色设计独特且令人印象深刻. 每个英雄都有自己独特的风格.",
-          "author": "- 角色粉丝",
+          "title": "敌人设计",
+          "content": "替身者和其他威胁的设计令人毛骨悚然. 午夜班次中的每个敌人都有独特且令人不安的行为.",
+          "author": "- 怪物设计粉丝",
           "rating": 5
         },
         {
-          "title": "Hapunan 的技能上限",
-          "content": "技能上限令人印象深刻. 掌握游戏机制是一段值得的旅程.",
-          "author": "- 职业玩家",
+          "title": "高级机制",
+          "content": "生存和侦测的深层机制复杂且令人满意. 掌握午夜班次的系统是一个值得的挑战.",
+          "author": "- 专家玩家",
           "rating": 5
         },
         {
-          "title": "Hapunan 的界面设计",
-          "content": "用户界面非常直观. 菜单导航流畅自然.",
-          "author": "- 用户体验设计师",
+          "title": "界面设计",
+          "content": "复古安保摄像头界面很棒. 在午夜班次中管理加油站系统感觉很符合90年代的风格.",
+          "author": "- 界面设计师",
           "rating": 4
         },
         {
-          "title": "Hapunan 的成就系统",
-          "content": "成就系统设计周到. 完成挑战总是令人兴奋.",
-          "author": "- 完美主义者",
+          "title": "隐藏内容",
+          "content": "有很多秘密等待发现. 在午夜班次中找到隐藏的故事和彩蛋增添了神秘感.",
+          "author": "- 秘密猎人",
           "rating": 5
         },
         {
-          "title": "Hapunan 的电竞场景",
-          "content": "电竞场景蓬勃发展. 观看职业比赛非常有趣.",
-          "author": "- 电竞粉丝",
+          "title": "直播体验",
+          "content": "午夜班次非常适合直播. 观看其他人玩游戏和对恐怖的反应几乎和玩游戏一样有趣.",
+          "author": "- 内容创作者",
           "rating": 5
         },
         {
-          "title": "Hapunan 的服务器性能",
-          "content": "服务器性能稳如磐石. 在线游戏体验始终流畅.",
-          "author": "- 网络爱好者",
+          "title": "游戏稳定性",
+          "content": "游戏在紧张时刻也运行稳定. 和朋友一起在线玩午夜班次流畅可靠.",
+          "author": "- 技术玩家",
           "rating": 4
         }
       ]
@@ -261,34 +261,34 @@
     } 
   },
   "category": {
-    "meta_title": "Hapunan 游戏指南",
-    "meta_description": "查找所有必要的 Hapunan 指南和策略, 提升您的游戏体验",
+    "meta_title": "午夜班次游戏指南",
+    "meta_description": "查找所有必要的午夜班次指南和策略, 提升你的生存体验",
     "homeBtn": "首页",
     "categoryBtn": "游戏",
-    "h1": "Hapunan 游戏指南",
-    "h2": "在这里找到您需要的所有 Hapunan 指南",
-    "h2description": "所有 Hapunan 指南按类别分类"
+    "h1": "午夜班次游戏指南",
+    "h2": "在这里找到你需要的所有生存指南",
+    "h2description": "所有指南按类别分类"
   },
   "article": {
-    "meta_title": "文章 - Hapunan",
-    "meta_description": "探索我们关于 Hapunan 策略和技巧的文章集合",
+    "meta_title": "文章 - 午夜班次",
+    "meta_description": "探索我们关于午夜班次策略和生存技巧的文章集合",
     "h1": "文章",
-    "h2": "发现有用的 Hapunan 指南和资源",
+    "h2": "发现有用的指南和资源",
     "homeBtn": "首页",
     "articleBtn": "文章",
     "backToArticles": "返回文章列表"
   },
   "changelog": {
-    "meta_title": "更新日志 - Hapunan",
-    "meta_description": "及时了解 hapunan.me 的最新更新",
+    "meta_title": "更新日志 - 午夜班次",
+    "meta_description": "及时了解 shiftatmidnight.com 的最新更新",
     "h1": "更新日志",
-    "h2": "了解 Hapunan 的最新更新动态",
+    "h2": "了解游戏的最新更新动态",
     "homeBtn": "首页",
     "changelogBtn": "更新日志"
   },
   "tools": {
-    "meta_description": "查找所有必要的 Hapunan 指南和工具, 提升您的游戏体验",
-    "h2_1": "所有与 Hapunan 相关的指南",
+    "meta_description": "查找所有必要的午夜班次指南和工具, 提升你的生存体验",
+    "h2_1": "所有相关指南",
     "h2_2": "",
     "homeBtn": "首页"
   },
@@ -305,19 +305,19 @@
     "moreCategoryBtn": "更多",
     "moreCategoryDescription": "更多游戏特色",
     "articleBtn": "文章",
-    "articleDescription": "通过我们全面的指南和故事探索 Hapunan 的世界",
+    "articleDescription": "通过我们全面的指南和故事探索午夜班次的世界",
     "articles": {
-      "charactersGuide": "Hapunan 游戏概览",
-      "charactersGuideDesc": "深入了解这款受菲律宾民间传说启发的恐怖游戏",
-      "darkQueenStory": "Hapunan 生存指南",
-      "darkQueenStoryDesc": "掌握 Hapunan 挑战的基本生存策略"
+      "doppelgangerGuide": "替身者指南",
+      "doppelgangerGuideDesc": "识别和生存替身者的完整指南",
+      "coopStrategies": "合作生存指南",
+      "coopStrategiesDesc": "掌握1-3人夜班的团队策略"
     },
     "moreArticleBtn": "更多文章",
-    "moreArticleDescription": "点击这里发现更多关于 Hapunan 的文章",
+    "moreArticleDescription": "点击这里发现更多关于午夜班次的文章",
     "changelogBtn": "更新日志"
   },
   "footer": {
-    "description": "您的终极 Hapunan 指南 - 一款受菲律宾民间传说启发的惊悚恐怖游戏",
+    "description": "你的终极午夜班次指南 - 90年代加油站的恐怖夜班. 在最黑暗的时刻管理你的加油站, 体验紧张的生存恐怖.",
     "quickLinks": "快速链接",
     "home": "首页",
     "game": "开始游戏",
@@ -340,10 +340,10 @@
     "viewAllBlogs": "查看所有博客 →"
   },
   "meta": {
-    "og_title": "Hapunan | 菲律宾恐怖游戏",
-    "og_description": "体验 Hapunan - 一款受菲律宾民间传说启发的惊悚恐怖游戏. 探索超自然元素, 在黑夜中生存, 揭开黑暗秘密.",
-    "twitter_title": "Hapunan | 恐怖游戏",
-    "twitter_description": "探索 Hapunan 的恐怖世界. 每日更新!"
+    "og_title": "午夜班次 | 恐怖生存游戏",
+    "og_description": "体验午夜班次 - 在90年代加油站度过恐怖的夜班. 识别替身者, 在黑夜中生存, 揭开黑暗秘密.",
+    "twitter_title": "午夜班次 | 恐怖游戏",
+    "twitter_description": "探索午夜班次的恐怖世界. 每日更新!"
   },
   "blog": {
     "title": "Mortholme 博客",

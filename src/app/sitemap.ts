@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://hapunan.me'; // 更新为新的域名
+const BASE_URL = 'https://shiftatmidnight.com'; // 更新为新的域名
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemapRoutes: MetadataRoute.Sitemap = [
@@ -10,52 +10,40 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'daily',
       priority: 1,
     },
-    {
-      url: 'game', // 游戏主页
-      lastModified: new Date(),
-      changeFrequency: 'daily',
-      priority: 0.9,
-    },
-    {
-      url: 'article', // 文章列表页
-      lastModified: new Date(),
-      changeFrequency: 'daily',
-      priority: 0.9,
-    },
     // 游戏相关文章
     {
-      url: 'article/hapunan-game-overview', // 游戏概览
+      url: 'article/game-overview', // 游戏概览
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 0.8,
+      priority: 0.9,
     },
     {
       url: 'article/survival-guide', // 生存指南
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 0.8,
+      priority: 0.9,
     },
     {
-      url: 'article/filipino-folklore-elements', // 菲律宾民间传说元素
+      url: 'article/doppelganger-lore', // 替身者传说
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     // 游戏机制指南
     {
-      url: 'game/combat-system', // 战斗系统
+      url: 'article/gas-station-mechanics', // 加油站机制
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'game/stealth-mechanics', // 潜行机制
+      url: 'article/night-shift-survival', // 夜班生存
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
-      url: 'game/multiplayer-guide', // 多人游戏指南
+      url: 'article/security-systems', // 安保系统
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
@@ -68,13 +56,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 1,
     },
     {
-      url: 'zh/game', // 中文游戏页
+      url: 'zh/article', // 中文文章列表
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: 'zh/article', // 中文文章页
+      url: 'en', // 英文首页
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 1,
+    },
+    {
+      url: 'en/article', // 英文文章列表
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
@@ -84,7 +78,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: 'changelog', // 更新日志
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: 0.6,
+      priority: 0.7,
     },
     {
       url: 'privacy', // 隐私政策
@@ -97,6 +91,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
+    },
+    {
+      url: 'about', // 关于我们
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.6,
     }
   ];
 

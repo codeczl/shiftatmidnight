@@ -84,7 +84,7 @@ export default async function Home() {
                   {t("cookie_clicker.description")}
                 </p>
                 <a 
-                  href="https://yikon.itch.io/hapunan"
+                  href="https://bunmuen.itch.io/shiftatmidnight"
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-block px-8 py-4 bg-blue-600 text-white text-xl font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200"
@@ -97,7 +97,7 @@ export default async function Home() {
               <div className="flex-1 flex justify-center">
                 <Image
                   src={heroImage}
-                  alt="Cookie Clicker Hero"
+                  alt="Shift at Midnight Hero"
                   className="rounded-lg shadow-xl max-w-[500px] w-full h-auto"
                   priority
                 />
@@ -116,13 +116,13 @@ export default async function Home() {
               </p>
             </div>
 
-            {/* Feature 1 - 文字在左，图片在右 */}
+            {/* Feature 1 */}
             <div className="flex flex-col lg:flex-row items-center gap-12">
               <div className="flex-1 space-y-6">
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item1.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item1.description")}</p>
                 <a 
-                  href="https://yikon.itch.io/hapunan"
+                  href="https://bunmuen.itch.io/shiftatmidnight"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -140,13 +140,13 @@ export default async function Home() {
               </div>
             </div>
 
-            {/* Feature 2 - 图片在左，文字在右 */}
+            {/* Feature 2 */}
             <div className="flex flex-col lg:flex-row-reverse items-center gap-12">
               <div className="flex-1 space-y-6">
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item2.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item2.description")}</p>
                 <a 
-                  href="https://yikon.itch.io/hapunan"
+                  href="https://bunmuen.itch.io/shiftatmidnight"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -164,13 +164,13 @@ export default async function Home() {
               </div>
             </div>
 
-            {/* Feature 3 - 文字在左，图片在右 */}
+            {/* Feature 3 */}
             <div className="flex flex-col lg:flex-row items-center gap-12">
               <div className="flex-1 space-y-6">
                 <h3 className="text-3xl lg:text-4xl font-bold">{t("features.item3.title")}</h3>
                 <p className="text-gray-500 text-xl leading-relaxed">{t("features.item3.description")}</p>
                 <a 
-                  href="https://yikon.itch.io/hapunan"
+                  href="https://bunmuen.itch.io/shiftatmidnight"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block text-blue-600 hover:text-blue-800 underline-offset-4 hover:underline transition-all duration-200 text-lg font-medium"
@@ -211,9 +211,7 @@ export default async function Home() {
                   key={id} 
                   className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all"
                 >
-                  {/* 使用 flex 布局将内容和图片并排 */}
                   <div className="flex justify-between items-start gap-4">
-                    {/* 文字内容区域 */}
                     <div className="flex-1">
                       <h3 className="text-2xl font-bold mb-4">
                         {t(`abilities.item${id}.title`)}
@@ -222,8 +220,6 @@ export default async function Home() {
                         {t(`abilities.item${id}.description`)}
                       </p>
                     </div>
-                    
-                    {/* 图片区域 */}
                     <div className="flex-shrink-0">
                       <Image
                         src={image}
@@ -245,7 +241,7 @@ export default async function Home() {
                 <h2 className="text-4xl lg:text-5xl font-bold mb-6">{t("cta.title")}</h2>
                 <p className="text-lg text-gray-300 mb-8">{t("cta.description")}</p>
                 <a 
-                  href="https://yikon.itch.io/hapunan"
+                  href="https://bunmuen.itch.io/shiftatmidnight"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-8 py-4 bg-white text-gray-900 rounded-lg hover:bg-gray-100 transition-colors font-medium"
@@ -255,8 +251,9 @@ export default async function Home() {
               </div>
             </section>
           </div>
+
+          {/* Reviews Section */}
           <div className="-mt-1">
-            {/* 标题和描述 */}
             <div className="relative max-w-2xl mx-auto mb-12 text-center">
               <h2 className="text-4xl lg:text-5xl font-bold tracking-tight mb-1">
                 {t('reviews.title')}
@@ -266,24 +263,16 @@ export default async function Home() {
               </p>
             </div>
             
-            {/* Reviews Section with Gradient Masks */}
             <div className="-mt-1 relative">
-              {/* 顶部遮罩 - 增加左右宽度 */}
               <div className="absolute top-0 left-[-20px] right-[-20px] h-64 bg-gradient-to-b from-white from-0% via-white via-50% to-transparent z-10 pointer-events-none" />
-              
               <ReviewsSection />
-              
-              {/* 底部遮罩 - 增加左右宽度 */}
               <div className="absolute bottom-0 left-[-20px] right-[-20px] h-64 bg-gradient-to-t from-gray-50 from-0% via-gray-50 via-50% to-transparent z-10 pointer-events-none" />
             </div>
           </div>
           
           <div className="border-t"></div>
           
-          {/* 保留原有的 ToolsList 和 ArticleList */}
-          {/* {categories.map((category: categoryType, index: React.Key | null | undefined) => (
-            <ToolsList key={index} category={category} locale={locale} />
-          ))} */}
+          {/* ArticleList Section */}
           <div className="container mx-auto px-4 max-w-7xl">
             <Suspense fallback={<div className="text-center py-8">Loading articles...</div>}>
               <ArticleList articles={allPostsData} />
@@ -319,7 +308,6 @@ export default async function Home() {
             </div>
           </div>
         </section>
-          
       </main>
     </>
   )

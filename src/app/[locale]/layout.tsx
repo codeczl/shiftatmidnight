@@ -32,17 +32,17 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: 'Hapunan - The Ultimate Gaming Experience',
-    template: '%s | Hapunan'
+    default: 'Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station',
+    template: '%s | Shift at Midnight'
   },
-  description: 'Step into the immersive world of Hapunan, where strategy meets excitement. Experience dynamic gameplay, competitive multiplayer, and endless customization options.',
-  authors: { name: 'hapunan.me', url: 'https://hapunan.me/' },
-  keywords: 'Hapunan, Gaming, Strategy Games, Multiplayer Games, Gaming Experience, Competitive Gaming, Game Customization',
+  description: 'Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger in this thrilling horror gaming experience.',
+  authors: { name: 'shiftatmidnight.com', url: 'https://shiftatmidnight.com/' },
+  keywords: 'Shift at Midnight, Horror Game, Gas Station, Night Shift, Doppelganger, Survival Horror, Co-op Horror, 90s Horror',
   alternates: {
-    canonical: "https://hapunan.me/",
+    canonical: "https://shiftatmidnight.com/",
     languages: {
-      "en": "https://hapunan.me/en",
-      "zh": "https://hapunan.me/zh",
+      "en": "https://shiftatmidnight.com/en",
+      "zh": "https://shiftatmidnight.com/zh",
     }
   },
   icons: {
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
       {
         rel: 'mask-icon',
         url: '/safari-pinned-tab.svg',
-        color: '#5bbad5'
+        color: '#1a1a1a'
       }
     ]
   },
@@ -66,13 +66,13 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Hapunan"
+    title: "Shift at Midnight"
   },
   ...generateMetaTags({
-    title: 'Hapunan - The Ultimate Gaming Experience',
-    description: 'Step into the immersive world of Hapunan, where strategy meets excitement. Experience dynamic gameplay, competitive multiplayer, and endless customization options.',
-    url: 'https://hapunan.me',
-    imageUrl: 'https://hapunan.me/og-image.jpg'
+    title: 'Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station',
+    description: 'Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger in this thrilling horror gaming experience.',
+    url: 'https://shiftatmidnight.com',
+    imageUrl: 'https://shiftatmidnight.com/og-image.jpg'
   }),
 }
 

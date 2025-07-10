@@ -1,8 +1,8 @@
 {
-  "name": "hapunan",
+  "name": "shiftatmidnight",
   "version": "1.0.0",
   "private": true,
-  "description": "Hapunan - The Ultimate Gaming Experience. Step into the immersive world of Hapunan, where strategy meets excitement in this thrilling gaming adventure.",
+  "description": "Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station. Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger in this thrilling horror gaming experience.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -1,61 +1,63 @@
 [
   {
-    "id": "hapunan-game-overview",
+    "id": "shift-at-midnight-doppelganger-guide",
     "translations": {
       "zh": {
-        "title": "Hapunan 游戏概览：探索菲律宾恐怖世界",
-        "description": "深入了解 Hapunan，这款以菲律宾民间传说为灵感的恐怖游戏。探索其独特的游戏机制、恐怖元素和令人胆寒的故事情节。",
-        "date": "2025-02-03T00:00:00.000Z",
-        "lastModified": "2025-02-03T00:00:00Z",
-        "path": "data/md/zh/hapunan-game-overview.md"
+        "title": "如何在 Shift at Midnight 的午夜班防范幽灵分身：新手指南",
+        "description": "本文详解 Shift at Midnight 中如何通过提问、封门、陷阱与协作有效识别并防范伪装客户的幽灵分身，是适合新手的完整玩法策略指南。",
+        "date": "2025-07-10T00:00:00.000Z",
+        "lastModified": "2025-07-10T00:00:00Z",
+        "path": "data/md/zh/shift-at-midnight-doppelganger-guide.md"
       },
       "en": {
-        "title": "Hapunan Game Overview: Exploring the Filipino Horror Experience",
-        "description": "Dive into Hapunan, a horror game inspired by Filipino folklore. Explore its unique mechanics, terrifying elements, and spine-chilling storyline.",
-        "date": "2025-02-03T00:00:00.000Z",
-        "lastModified": "2025-02-03T00:00:00Z",
-        "path": "data/md/en/hapunan-game-overview.md"
+        "title": "How to Identify Doppelgangers in Shift at Midnight: A Complete Beginner's Guide",
+        "description": "This article provides a complete survival and strategy guide for new players in Shift at Midnight, focusing on identifying doppelgangers through questioning, barricades, traps, and coordination.",
+        "date": "2025-07-10T00:00:00.000Z",
+        "lastModified": "2025-07-10T00:00:00Z",
+        "path": "data/md/en/shift-at-midnight-doppelganger-guide.md"
       }
     }
-  },
+  } ,
   {
-    "id": "hapunan-survival-guide",
+    "id": "shift-at-midnight-coop-survival-strategies",
     "translations": {
       "zh": {
-        "title": "Hapunan 生存指南：如何在恐怖夜晚活下来",
-        "description": "探索Hapunan，这款菲律宾恐怖游戏的生存策略。从如何躲避恶灵到掌握游戏机制，这篇指南将帮助你在黑暗中存活。",
-        "date": "2025-02-03T00:00:00.000Z",
-        "lastModified": "2025-02-03T00:00:00Z",
-        "path": "data/md/zh/hapunan-survival-guide.md"
+        "title": "Shift at Midnight 联机合作秘籍：夜班生存战术详解",
+        "description": "本文详解 Shift at Midnight 中 1–3 人联机合作策略，包括角色分工、沟通技巧、资源分配及突发事件应对，助你高效度过每场午夜班。",
+        "date": "2025-07-10T00:00:00.000Z",
+        "lastModified": "2025-07-10T00:00:00Z",
+        "path": "data/md/zh/shift-at-midnight-coop-survival-strategies.md"
       },
       "en": {
-        "title": "Hapunan Survival Guide: How to Make It Through the Night",
-        "description": "Discover the essential survival strategies for Hapunan, the Filipino horror game. Learn how to evade spirits, use resources wisely, and uncover hidden secrets.",
-        "date": "2025-02-03T00:00:00.000Z",
-        "lastModified": "2025-02-03T00:00:00Z",
-        "path": "data/md/en/hapunan-survival-guide.md"
-      }
-    }
-  },
-  {
-    "id": "hapunan-game-lore",
-    "translations": {
-      "zh": {
-        "title": "Hapunan 游戏故事背景解析",
-        "description": "深入探索Hapunan的恐怖故事背景，了解其灵感来源于菲律宾的神秘传说，以及游戏中的超自然现象和生存挑战。",
-        "date": "2025-02-03T00:00:00.000Z",
-        "lastModified": "2025-02-03T00:00:00Z",
-        "path": "data/md/zh/hapunan-game-lore.md"
-      },
-      "en": {
-        "title": "Hapunan Game Lore: The Dark Legends Behind the Horror",
-        "description": "Explore the terrifying lore behind Hapunan, inspired by Filipino myths and folklore. Discover the supernatural elements and survival challenges that make this game unique.",
-        "date": "2025-02-03T00:00:00.000Z",
-        "lastModified": "2025-02-03T00:00:00Z",
-        "path": "data/md/en/hapunan-game-lore.md"
+        "title": "Shift at Midnight Co‑op Survival Guide: 1–3 Player Strategies for the Night Shift",
+        "description": "This article dives into co‑op teamwork strategies in Shift at Midnight for 1–3 players, covering role assignments, communication techniques, resource management, and handling unexpected threats.",
+        "date": "2025-07-10T00:00:00.000Z",
+        "lastModified": "2025-07-10T00:00:00Z",
+        "path": "data/md/en/shift-at-midnight-coop-survival-strategies.md"
       }
     }
   }
+  ,
+  {
+    "id": "shift-at-midnight-mechanics-review-random-events",
+    "translations": {
+      "zh": {
+        "title": "Shift at Midnight 机制评测：深度解析随机事件与重玩价值",
+        "description": "本文深入评测 Shift at Midnight 的核心机制，分析其 roguelike 随机事件系统、难度平衡与高度重玩价值，为玩家提供实用策略和理解游戏设计逻辑。",
+        "date": "2025-07-10T00:00:00.000Z",
+        "lastModified": "2025-07-10T00:00:00Z",
+        "path": "data/md/zh/shift-at-midnight-mechanics-review-random-events.md"
+      },
+      "en": {
+        "title": "Shift at Midnight Mechanics Review: Analyzing Random Events and Replay Value",
+        "description": "This article provides an in-depth review of Shift at Midnight's core mechanics, analyzing its roguelike random event system, difficulty balance, and high replay value, offering practical strategies and insight into game design.",
+        "date": "2025-07-10T00:00:00.000Z",
+        "lastModified": "2025-07-10T00:00:00Z",
+        "path": "data/md/en/shift-at-midnight-mechanics-review-random-events.md"
+      }
+    }
+  }
+  
   
   
   

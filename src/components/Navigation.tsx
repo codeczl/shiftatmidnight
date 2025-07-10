@@ -116,10 +116,10 @@ export const Navigation = ({ categories }: navigationProp ) => {
               className="block"
               width={30}
               height={30}
-              alt="Hapunan"
+              alt="Shift at Midnight"
               priority
             />
-            <span className="inline-block font-bold">Hapunan</span>
+            <span className="inline-block font-bold">Shift at Midnight</span>
           </Link>
 
           {/* 桌面端导航菜单 */}
@@ -177,7 +177,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/article"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Mortholme
+                              Shift at Midnight
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -186,16 +186,16 @@ export const Navigation = ({ categories }: navigationProp ) => {
                         </NavigationMenuLink>
                       </li>
                       <ListItem 
-                        href="/article/mortholme-characters-guide" 
-                        title={t('articles.charactersGuide')}
+                        href="/article/shift-at-midnight-doppelganger-guide" 
+                        title={t('articles.doppelgangerGuide')}
                       >
-                        {t('articles.charactersGuideDesc')}
+                        {t('articles.doppelgangerGuideDesc')}
                       </ListItem>
                       <ListItem 
-                        href="/article/mortholme-dark-queen-story" 
-                        title={t('articles.darkQueenStory')}
+                        href="/article/shift-at-midnight-coop-survival-strategies" 
+                        title={t('articles.coopStrategies')}
                       >
-                        {t('articles.darkQueenStoryDesc')}
+                        {t('articles.coopStrategiesDesc')}
                       </ListItem>
                       <ListItem 
                         href="/article" 
