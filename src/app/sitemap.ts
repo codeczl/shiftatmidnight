@@ -49,26 +49,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // 新增英文文章
     {
-      url: 'en/article/shift-at-midnight-doppelganger-guide',
+      url: 'en/article/shift-at-midnight-game-guide',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.85,
     },
     {
-      url: 'en/article/shift-at-midnight-game-guide',
+      url: 'en/article/shift-at-midnight-download',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.85,
     },
     // 新增中文文章
     {
-      url: 'zh/article/shift-at-midnight-doppelganger-guide',
+      url: 'zh/article/shift-at-midnight-game-guide',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.85,
     },
     {
-      url: 'zh/article/shift-at-midnight-game-guide',
+      url: 'zh/article/shift-at-midnight-download',
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.85,
