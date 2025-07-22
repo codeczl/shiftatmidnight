@@ -1,0 +1,372 @@
+{
+  "home": {
+    "meta_title": "Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station",
+    "meta_description": "Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger in this thrilling horror gaming experience.",
+    "h1": "Steam Cookie Clicker",
+    "h2": "Start Your Cookie Empire Journey",
+    "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
+    "latest_codes": { 
+      "title": "Latest Cookie Clicker Updates",
+      "code1": "New Building: Fractal Engine - Produces cookies through dimensional manipulation.",
+      "code2": "New Achievement: Cookie Singularity - Reach 1 quintillion cookies per second.",
+      "update_note": "Stay updated with the latest Cookie Clicker features by bookmarking this page!"
+    },
+    "how_to_redeem": {
+      "title": "How to Use Cookie Clicker Features",
+      "intro": "Maximizing your cookie production is simple. Follow these steps:",
+      "step1": "Start by clicking the big cookie.",
+      "step2": "Purchase buildings and upgrades.",
+      "step3": "Unlock achievements and heavenly chips.",
+      "step4": "Optimize your production strategy!",
+      "note": "Remember to check for Golden Cookies regularly for bonus effects."
+    },
+    "tips": {
+      "title": "Tips for Cookie Clicker Success",
+      "intro": "To maximize your cookie production:",
+      "tip1": "Always watch for Golden Cookies appearing.",
+      "tip2": "Invest in the most efficient buildings first.",
+      "tip3": "Use the Stock Market during Frenzy effects.",
+      "conclusion": "With these tips, you'll be a cookie master in no time!"
+    },
+    "cookie_clicker": {
+      "title": "Shift at Midnight",
+      "subtitle": "A Terrifying Night Shift at a 90s Gas Station",
+      "description": "Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger.",
+      "start_button": "Start Playing"
+    },
+    "features": {
+      "title": "Unleash the Power of Shift at Midnight",
+      "subtitle": "Experience survival horror with these terrifying features",
+      "item1": {
+        "title": "Interrogate Doppelgangers",
+        "description": "Serve customers, ask probing questions, verify IDs and behavior to identify imposters and protect your station.",
+        "button": "Learn More"
+      },
+      "item2": {
+        "title": "Board Up & Survive",
+        "description": "When creatures slip through the night, barricade doors, set traps, and choose whether to hide or confront lurking threats.",
+        "button": "Learn More"
+      },
+      "item3": {
+        "title": "Co‑op Horror Tension",
+        "description": "Play solo or team up with 1–3 players to manage the graveyard shift at a 90s‑era gas station packed with stress.",
+        "button": "Learn More"
+      },
+      "item4": {
+        "title": "Rogue‑Like & Replayable",
+        "description": "Each session offers randomized NPCs, events, weapons, upgrades, traps, and enemy types—never the same night twice.",
+        "button": "Learn More"
+      }
+    },
+    "abilities": {
+      "title": "Master Your Skills in Shift at Midnight",
+      "subtitle": "Discover and master essential survival abilities",
+      "item1": {
+        "title": "Quick Interrogation",
+        "description": "Ask questions quickly and decisively—time is against you when spotting imposters."
+      },
+      "item2": {
+        "title": "Strategic Barricading",
+        "description": "Know when to board up doors or conserve resources based on threat intensity."
+      },
+      "item3": {
+        "title": "Team Coordination",
+        "description": "Assign roles: one asks questions, another handles barricades, and others scout or trap."
+      },
+      "item4": {
+        "title": "Situation Awareness",
+        "description": "Listen for audio cues, monitor the store layout, and adapt as imposters evolve."
+      },
+      "item5": {
+        "title": "Resource Management",
+        "description": "Track supplies carefully—many upgrades are limited and vital for late-night survival."
+      },
+      "item6": {
+        "title": "Adaptive Strategy",
+        "description": "Randomized events force you to pivot tactics every run—stay alert and creative."
+      }
+    },
+    "cta": {
+      "title": "Ready to Join the Adventure?",
+      "description": "Step into the immersive world of Hapunan and experience the thrill of strategic gaming. Start your journey today!",
+      "button": "Play Now"
+    },
+    "faq": {
+      "title": "Shift at Midnight FAQ",
+      "item1": {
+        "question": "How do I start playing?",
+        "answer": "Download the demo on Itch.io or wishlist it on Steam, then click \"Start Playing\" to begin your first night."
+      },
+      "item2": {
+        "question": "Is Shift at Midnight free?",
+        "answer": "Yes, the demo on Itch.io is free. The full version will be paid and available on Steam."
+      },
+      "item3": {
+        "question": "Can I play with friends?",
+        "answer": "Definitely! Co‑op supports 1–3 players working together to survive the night shift."
+      },
+      "item4": {
+        "question": "What platforms is it on?",
+        "answer": "The game is currently on PC via Itch.io and coming soon to Steam; Mac support is planned."
+      },
+      "item5": {
+        "question": "How do I improve my skills?",
+        "answer": "Practice running efficient interrogations, manage barricades smartly, and adapt to each night's challenges."
+      }
+    },
+    "reviews": {
+      "title": "Player Reviews",
+      "subtitle": "See what players are saying about Shift at Midnight",
+      "items": [
+        {
+          "title": "Atmospheric Horror",
+          "content": "Shift at Midnight's atmosphere is genuinely terrifying. The 90s gas station setting and the constant fear of doppelgangers create an incredibly immersive and unsettling experience.",
+          "author": "- Horror Game Fan",
+          "rating": 5
+        },
+        {
+          "title": "Unique Gameplay Mechanics",
+          "content": "Shift at Midnight's doppelganger mechanic is brilliant! Having to verify customers' identities while managing the gas station adds a whole new level of psychological horror.",
+          "author": "- Survival Horror Enthusiast",
+          "rating": 4
+        },
+        {
+          "title": "Visual Design",
+          "content": "Shift at Midnight perfectly executes its retro 90s aesthetic. The way shadows and lighting work in the gas station creates genuine tension and fear.",
+          "author": "- Art Critic",
+          "rating": 5
+        },
+        {
+          "title": "Psychological Horror",
+          "content": "Shift at Midnight masters psychological horror. The constant paranoia about identifying doppelgangers during your night shift is mentally exhausting - in the best way possible.",
+          "author": "- Psychology Student",
+          "rating": 5
+        },
+        {
+          "title": "Beginner Friendly",
+          "content": "While Shift at Midnight is intensely scary, the tutorial shift eases you into the gas station mechanics well. Perfect balance of teaching and tension.",
+          "author": "- New Player",
+          "rating": 4
+        },
+        {
+          "title": "Survival Mechanics",
+          "content": "Shift at Midnight's resource management and survival aspects are well balanced. Every decision during your night shift feels meaningful and potentially deadly.",
+          "author": "- Survival Game Veteran",
+          "rating": 4
+        },
+        {
+          "title": "Supportive Community",
+          "content": "The Shift at Midnight community is incredibly helpful with sharing gas station survival tips and doppelganger detection strategies. Great place for new night shift workers!",
+          "author": "- Community Member",
+          "rating": 5
+        },
+        {
+          "title": "Content Updates",
+          "content": "The developers keep adding new threats to Shift at Midnight. Each update brings fresh nightmares and challenges to your gas station night shift.",
+          "author": "- Long-time Player",
+          "rating": 4
+        },
+        {
+          "title": "Character Customization",
+          "content": "Shift at Midnight lets you customize your night shift worker perfectly. The personal touches make surviving the doppelganger encounters feel more intense.",
+          "author": "- Creative Player",
+          "rating": 5
+        },
+        {
+          "title": "Technical Performance",
+          "content": "Shift at Midnight runs flawlessly even during intense doppelganger encounters. The gas station's security systems and mechanics are perfectly optimized.",
+          "author": "- Tech Enthusiast",
+          "rating": 5
+        },
+        {
+          "title": "Sound Design",
+          "content": "Shift at Midnight's audio design is terrifying. Every footstep and door creak in the gas station puts you on edge, especially during the midnight hours.",
+          "author": "- Audio Engineer",
+          "rating": 5
+        },
+        {
+          "title": "Challenge Modes",
+          "content": "Shift at Midnight's different difficulty levels keep the game fresh. Each night shift can be a completely different nightmare with unique doppelganger behaviors.",
+          "author": "- Hardcore Gamer",
+          "rating": 4
+        },
+        {
+          "title": "Co-op Horror",
+          "content": "Playing Shift at Midnight with friends is intense. Managing the gas station together while questioning each other's identity creates unique social horror.",
+          "author": "- Co-op Player",
+          "rating": 5
+        },
+        {
+          "title": "Genre Innovation",
+          "content": "Shift at Midnight revolutionizes survival horror. The 90s gas station setting and intricate doppelganger mechanics are truly unique in the genre.",
+          "author": "- Horror Genre Fan",
+          "rating": 5
+        },
+        {
+          "title": "Progression System",
+          "content": "Shift at Midnight's upgrade system is rewarding. Each survived night shift brings valuable security upgrades and new tools for the gas station.",
+          "author": "- Progress Hunter",
+          "rating": 4
+        },
+        {
+          "title": "Gas Station Layout",
+          "content": "Shift at Midnight's gas station layout is perfectly designed for horror. Every corner and shadow could hide a terrifying doppelganger encounter.",
+          "author": "- Level Design Fan",
+          "rating": 5
+        },
+        {
+          "title": "Multiplayer Integration",
+          "content": "Shift at Midnight's multiplayer features work seamlessly. Finding and joining other night shift workers is easy and enhances the horror experience.",
+          "author": "- Multiplayer Fan",
+          "rating": 4
+        },
+        {
+          "title": "Replayability",
+          "content": "Shift at Midnight offers incredible replay value. Each night shift brings randomized events and multiple endings - no two shifts are ever the same.",
+          "author": "- Dedicated Player",
+          "rating": 5
+        },
+        {
+          "title": "Enemy Design",
+          "content": "Shift at Midnight's doppelgangers are terrifyingly well-designed. Each type of imposter has unique and unsettling behaviors during the night shift.",
+          "author": "- Monster Design Fan",
+          "rating": 5
+        },
+        {
+          "title": "Advanced Mechanics",
+          "content": "Shift at Midnight's survival and detection systems are complex and satisfying. Mastering the gas station's security features is a rewarding challenge.",
+          "author": "- Expert Player",
+          "rating": 5
+        },
+        {
+          "title": "Interface Design",
+          "content": "Shift at Midnight's retro security interface is brilliant. Managing the gas station's systems feels authentically 90s and adds to the atmosphere.",
+          "author": "- UI Designer",
+          "rating": 4
+        },
+        {
+          "title": "Hidden Content",
+          "content": "Shift at Midnight is full of secrets. Each night shift can reveal new hidden lore about the gas station and its mysterious doppelganger phenomenon.",
+          "author": "- Secret Hunter",
+          "rating": 5
+        },
+        {
+          "title": "Streaming Experience",
+          "content": "Shift at Midnight is perfect for streaming. Watching others manage their night shifts and react to doppelgangers is incredibly entertaining.",
+          "author": "- Content Creator",
+          "rating": 5
+        },
+        {
+          "title": "Game Stability",
+          "content": "Shift at Midnight runs stable even during intense encounters. The multiplayer gas station experience is smooth and reliable at all hours.",
+          "author": "- Technical Player",
+          "rating": 4
+        }
+      ]
+    }
+  },
+  "category": {
+
+    "meta_title": "Shift at Midnight Game Guide",
+    "meta_description": "Find all essential Shift at Midnight guides and strategies to enhance your survival experience",
+    "homeBtn": "Home",
+    "categoryBtn": "Game",
+    "h1": "Shift at Midnight Game Guide",
+    "h2": "Find All Survival Guides You Need Here",
+    "h2description": "All guides are sorted by categories"
+  },
+  "article": {
+    "meta_title": "Articles - Shift at Midnight",
+    "meta_description": "Explore our collection of articles about Shift at Midnight strategies and survival tips",
+    "h1": "Articles",
+    "h2": "Discover useful guides and resources",
+    "homeBtn": "Home",
+    "articleBtn": "Articles",
+    "backToArticles": "Back to Articles"
+  },
+  "changelog": {
+    "meta_title": "Changelog - Shift at Midnight",
+    "meta_description": "Stay up to date with the latest updates on shiftatmidnight.com",
+    "h1": "Changelog",
+    "h2": "Stay up to date with the latest game updates",
+    "homeBtn": "Home",
+    "changelogBtn": "Changelog"
+  },
+  "tools": {
+    "meta_description": "Find all essential Shift at Midnight guides and tools to enhance your survival experience",
+    "h2_1": "All guides related to",
+    "h2_2": "",
+    "homeBtn": "Home"
+  },
+  "search": {
+    "input_placeholder": "Search tools by name / tags...",
+    "heading": "Suggestions",
+    "more": "More",
+    "button": "Search",
+    "no_results": "No results found"
+  },
+  "navigation": {
+    "homeBtn": "Home",
+    "categoryBtn": "Game",
+    "moreCategoryBtn": "More",
+    "moreCategoryDescription": "More Game Features",
+    "articleBtn": "Articles",
+    "articleDescription": "Explore the world of Shift at Midnight through our comprehensive guides and stories",
+    "articles": {
+      "doppelgangerGuide": "Doppelganger Guide",
+      "doppelgangerGuideDesc": "Complete guide for identifying and surviving doppelgangers",
+      "coopStrategies": "Co-op Survival Guide",
+      "coopStrategiesDesc": "Master teamwork strategies for 1-3 player night shifts"
+    },
+    "moreArticleBtn": "More Articles",
+    "moreArticleDescription": "Click here to discover more articles about Shift at Midnight",
+    "changelogBtn": "Changelog"
+  },
+  "footer": {
+    "description": "Your Ultimate Guide for Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station. Experience intense survival horror as you manage your gas station through the darkest hours.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "game": "Play Game",
+    "article": "Articles",
+    "changelog": "Changelog",
+    "privacy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "legal": "Legal",
+    "connect": "Connect",
+    "support": "Support",
+    "copyright": "All rights reserved."
+  },
+  "toolsList": {
+    "more": "More",
+    "tools": ""
+  },
+  "articleList": {
+    "h2": "Latest Blog",
+    "moreArticles": "More Articles",
+    "viewAllBlogs": "View All Blogs →"
+  },
+  "meta": {
+    "og_title": "Hapunan | Filipino Horror Game",
+    "og_description": "Experience Hapunan - A Thrilling Horror Game Inspired by Filipino Folklore. Explore supernatural elements, survive the night, and uncover dark secrets.",
+    "twitter_title": "Hapunan | Horror Game",
+    "twitter_description": "Discover the terrifying world of Hapunan. Updated daily!"
+  },
+  "latestCodesArticle": "Latest Cookie Clicker Codes 2024",
+  "latestCodesDescription": "Get the latest Cookie Clicker cheat codes and learn how to use them",
+  "secretsArticle": "Cookie Clicker Hidden Secrets Guide", 
+  "secretsDescription": "Discover hidden features and secrets in Cookie Clicker to maximize your cookie production",
+  "moreArticleBtn": "More Articles",
+  "moreArticleDescription": "Browse all articles about Cookie Clicker",
+  "articles": {
+    "charactersGuide": "Characters Guide",
+    "charactersGuideDesc": "Learn about each character's abilities and development",
+    "darkQueenStory": "Dark Queen's Story",
+    "darkQueenStoryDesc": "Explore the story of the Dark Queen",
+    "gameGuide": "Game Guide & Tips",
+    "gameGuideDesc": "Comprehensive guide and tips for playing Mortholme",
+    "strategyDecisions": "Strategy & Decisions",
+    "strategyDecisionsDesc": "Master strategic decisions to win the war",
+    "communityGuide": "Community Guide",
+    "communityGuideDesc": "Interact with players and share experiences"
+  }
+}

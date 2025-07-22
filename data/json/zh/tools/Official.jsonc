@@ -1,0 +1,31 @@
+// 示例数据
+// {
+//   "name": "Tailwind CSS",
+//   "description": "一个实用优先的 CSS 框架",
+//   "url": "https://tailwindcss.com/",
+//   "tags": ["a", "b"], (可选，最多3个标签)
+//   "add_date": "yyyy-MM-dd" (可选) 
+//   ...如果需要可以添加其他键
+// }
+// 
+// 注意：
+// 1. 所有数据应按字母顺序排序。
+// 2. 不允许使用联盟链接
+// 3. 请勿提交与开发无关的工具。
+
+
+[
+  // A
+  // B
+  // C
+  // D
+  // E
+  // F
+  // G
+  {
+    "name": "Roblox 官方网址",
+    "description": "Roblox提供大量非常好玩的游戏，可以和朋友们一起探索刺激的游戏世界，也是roblox code兑换的地方。",
+    "url": "https://www.roblox.com/",
+    "tags": ["官方网址"]
+  }
+]
