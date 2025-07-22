@@ -57,6 +57,48 @@
       }
     }
   }
+  ,
+  {
+    "id": "shift-at-midnight-download",
+    "translations": {
+      "zh": {
+        "title": "Shift at Midnight 下载指南：安装、启动与更新方法详解",
+        "description": "本文提供 Shift at Midnight 的完整下载与安装流程，包括游戏平台选择、最低配置要求、安装步骤、常见错误解决方法及后续更新方式，适合新手快速入门。",
+        "date": "2025-07-22T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00Z",
+        "path": "data/md/zh/shift-at-midnight-download.md"
+      },
+      "en": {
+        "title": "Shift at Midnight Download Guide: How to Install, Launch, and Update the Game",
+        "description": "This article walks you through the full process of downloading and installing Shift at Midnight, including platform options, system requirements, setup instructions, troubleshooting, and update tips—perfect for first-time players.",
+        "date": "2025-07-22T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00Z",
+        "path": "data/md/en/shift-at-midnight-download.md"
+      }
+    }
+  }
+  ,
+  {
+    "id": "shift-at-midnight-game-guide",
+    "translations": {
+      "zh": {
+        "title": "Shift at Midnight 游戏指南：新手通关与生存全流程教学",
+        "description": "本篇文章为 Shift at Midnight 游戏新手提供详细的上手与生存指导，涵盖任务目标、幽灵识别技巧、资源管理与多人协作策略，助你顺利度过每一个夜班。",
+        "date": "2025-07-22T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00Z",
+        "path": "data/md/zh/shift-at-midnight-game-guide.md"
+      },
+      "en": {
+        "title": "Shift at Midnight Game Guide: Complete Walkthrough and Survival Tips for Beginners",
+        "description": "This complete beginner’s guide to Shift at Midnight offers in-depth gameplay strategies, including task management, ghost detection, resource use, and team coordination to help players survive each shift.",
+        "date": "2025-07-22T00:00:00.000Z",
+        "lastModified": "2025-07-22T00:00:00Z",
+        "path": "data/md/en/shift-at-midnight-game-guide.md"
+      }
+    }
+  }
+  
+  
   
   
   
