@@ -84,7 +84,7 @@ export default async function Home() {
                   {t("cookie_clicker.description")}
                 </p>
                 <a 
-                  href="https://bunmuen.itch.io/shiftatmidnight"
+                  href="https://github.com/codeczl/shiftatmidnight/releases/download/v1.00/ShiftAtMidnight.zip"
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-block px-8 py-4 bg-blue-600 text-white text-xl font-semibold rounded-lg hover:bg-blue-700 transition-colors duration-200"
