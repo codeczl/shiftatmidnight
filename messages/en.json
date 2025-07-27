@@ -2,14 +2,20 @@
   "home": {
     "meta_title": "Shift at Midnight - A Terrifying Night Shift at a 90s Gas Station",
     "meta_description": "Step into the immersive world of Shift at Midnight, where every visitor might be a doppelganger in this thrilling horror gaming experience.",
-    "h1": "Steam Cookie Clicker",
-    "h2": "Start Your Cookie Empire Journey",
-    "intro": "Cookie Clicker is an addictive idle game where you click to produce cookies and build your empire. Here are the main features:",
     "latest_codes": { 
       "title": "Latest Cookie Clicker Updates",
       "code1": "New Building: Fractal Engine - Produces cookies through dimensional manipulation.",
       "code2": "New Achievement: Cookie Singularity - Reach 1 quintillion cookies per second.",
       "update_note": "Stay updated with the latest Cookie Clicker features by bookmarking this page!"
+    },
+    "download": {
+      "title": "Download",
+      "button": "Download",
+      "file_name": "ShiftAtMidnight.zip",
+      "file_size": "130 MB",
+      "installation_title": "Installation Instructions",
+      "installation_steps": "Download the file, extract the ZIP archive, and place all contents in a folder of your choice (such as desktop). Then run \"ShiftAtMidnight.exe\".",
+      "installation_note": "After launching, you may receive a notification that this is an unrecognized app; you should continue anyway. Click on \"More info\" and then click on \"Run anyway\". If you don't trust me, I recommend deleting the file."
     },
     "how_to_redeem": {
       "title": "How to Use Cookie Clicker Features",
