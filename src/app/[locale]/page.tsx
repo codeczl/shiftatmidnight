@@ -105,6 +105,60 @@ export default async function Home() {
             </div>
           </section>
 
+          {/* 下载区块 - 使用共享背景而非深色背景 */}
+          <section className="py-20 px-6 my-24 max-w-5xl mx-auto">
+            {/* 标题样式与"Unleash the Power"保持一致 */}
+            <h2 className="text-5xl md:text-6xl font-bold mb-4 text-gray-900 text-center">
+              {t("download.title")}
+            </h2>
+            
+            {/* 副标题样式与页面副标题一致 */}
+            <p className="text-xl text-gray-600 text-center mb-12">
+              {t("download.installation_steps")}
+            </p>
+            
+            {/* 下载按钮居中 */}
+            <div className="flex flex-col items-center">
+              <a 
+                href="https://github.com/codeczl/shiftatmidnight/releases/download/v1.00/ShiftAtMidnight.zip"
+                download
+                className="bg-[#ffc017] hover:bg-[#f0b107] text-black font-bold py-4 px-12 rounded-md text-xl max-w-sm w-full text-center transition-colors shadow-md mb-6"
+              >
+                {t("download.button")}
+              </a>
+              
+              {/* 文件信息居中 */}
+              <div className="flex items-center justify-center space-x-3 mt-2 mb-16">
+                <span className="text-gray-600">{t("download.file_name")}</span>
+                <span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-sm">{t("download.file_size")}</span>
+                <span>🪟</span>
+              </div>
+              
+              {/* 安装说明部分 */}
+              <div className="w-full max-w-xl mx-auto bg-white/70 backdrop-blur-sm rounded-xl p-8 shadow-lg">
+                <h3 className="text-xl font-semibold mb-6 text-gray-800">
+                  {t("download.installation_title")}
+                </h3>
+                
+                <div className="space-y-6">
+                  <div className="flex">
+                    <span className="text-blue-600 font-medium mr-3">1.</span>
+                    <p className="text-gray-700">
+                      {t("download.installation_steps")}
+                    </p>
+                  </div>
+                  
+                  <div className="flex">
+                    <span className="text-blue-600 font-medium mr-3">2.</span>
+                    <p className="text-gray-600">
+                      {t("download.installation_note")}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
           {/* Features Section */}
           <section className="py-8 space-y-16">
             <div className="text-center max-w-4xl mx-auto">
@@ -241,7 +295,7 @@ export default async function Home() {
                 <h2 className="text-4xl lg:text-5xl font-bold mb-6">{t("cta.title")}</h2>
                 <p className="text-lg text-gray-300 mb-8">{t("cta.description")}</p>
                 <a 
-                  href="https://bunmuen.itch.io/shiftatmidnight"
+                  href="https://github.com/codeczl/shiftatmidnight/releases/download/v1.00/ShiftAtMidnight.zip"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block px-8 py-4 bg-white text-gray-900 rounded-lg hover:bg-gray-100 transition-colors font-medium"
