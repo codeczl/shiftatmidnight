@@ -2,14 +2,20 @@
   "home": {
     "meta_title": "午夜班次 - 90年代加油站的恐怖夜班",
     "meta_description": "进入午夜班次的沉浸式世界, 在这里每个访客都可能是替身者, 体验惊悚的恐怖游戏体验.",
-    "h1": "Steam Cookie Clicker",
-    "h2": "开启你的饼干帝国之旅",
-    "intro": "Cookie Clicker 是一款令人上瘾的放置类游戏, 你可以通过点击生产饼干并建立帝国. 以下是主要特点:",
     "cookie_clicker": {
       "title": "午夜班次",
       "subtitle": "90年代加油站的恐怖夜班",
       "description": "进入午夜班次的沉浸式世界, 每个访客都可能是替身者.",
       "start_button": "开始游戏"
+    },
+    "download": {
+      "title": "下载",
+      "button": "下载",
+      "file_name": "午夜换班.zip",
+      "file_size": "130 MB",
+      "installation_title": "安装说明",
+      "installation_steps": "下载附件，打开zip文件夹，将所有内容拖到其他地方的文件夹中（例如桌面）。然后双击\"ShiftAtMidnight.exe\"。",
+      "installation_note": "启动后，你可能会收到通知，提示这是一个未知应用，你应该继续运行。点击\"更多信息\"，然后点击\"仍然运行\"。一旦看到，如果你不相信我，我推荐直接删除这个文件就行了。"
     },
     "features": {
       "title": "释放午夜班次的恐怖力量",
